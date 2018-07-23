@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0, group-title="On Demand",Indian Idol Ep 02
-https://wv108.jiocdn.us/hls/pg47diq3uxqeoikcw6plzrfoiwxnlmkwnnwrb5bit,bhligym7hryijt5ooxa,2lligym7hr2uhpri7bq,.urlset/master.m3u8
+https://wv108.jiocdn.us/hls/pg47diq3uxqeoikcw6plzrfoiwxnlmkwnnwrb5bit,bhligym7hr424l6ooxa,2lligym7hr6gsxsi7bq,.urlset/master.m3u8
 
 #EXTINF:0, group-title="On Demand",Indian Idol Ep 03
 https://wv107.jiocdn.us/hls/pg47dwl7uxqeoikcw6olzwxocicvonbhgckezesvw,yol4czglfp2f2me3arq,dcl4czglfpykq3usaka,.urlset/master.m3u8
