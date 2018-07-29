@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:0, group-title="On Demand",Indian Idol 28July
-https://wv130.jiocdn.us/hls/pg47cs5kuxqeoikcw6mlzxfoaug6gpwk4v5fpni7n,i45vpsbdkqmc5wiztxq,tq5vpsbdkqcc5zffcyq,.urlset/master.m3u8
+#EXTINF:0, group-title="On Demand",Indian Idol Ep01
+https://wv128.jiocdn.us/hls/pg47cwqxuxqeoikcw6plzaxfcwlb2yypydvd5n6cl,cfr7h647g5cvzhx22ta,zjr7h647g5c5ib5w3aa,.urlset/master.m3u8
+
+#EXTINF:0, group-title="On Demand",Indian Idol Ep02
+https://wv108.jiocdn.us/hls/pg47diq3uxqeoikcw6plzrfoiwxnlmkwnnwrb5bit,bhligym7hrwu5lvooxa,2lligym7hruitxzi7bq,.urlset/master.m3u8
 
 #EXTINF:0, group-title="Movie",& Pictures HD
 https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
