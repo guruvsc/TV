@@ -1,10 +1,13 @@
 #EXTM3U
 
-#EXTINF:0, group-title="On Demand",Indian Idol Ep01
-https://wv128.jiocdn.us/hls/pg47cwqxuxqeoikcw6plzaxfcwlb2yypydvd5n6cl,cfr7h647g5cvzhx22ta,zjr7h647g5c5ib5w3aa,.urlset/master.m3u8
+#EXTINF:0, group-title="On Demand",IIFA Green Carpet
+https://wv109.jiocdn.us/hls/pg47dmnnuxqeoikcw6mlzanoairzym4dqch2sehjp,hco2u5vki4psdwfp7jq,4oo2u5vki4oag5tpeaa,.urlset/master.m3u8
 
-#EXTINF:0, group-title="On Demand",Indian Idol Ep02
-https://wv108.jiocdn.us/hls/pg47diq3uxqeoikcw6plzrfoiwxnlmkwnnwrb5bit,bhligym7hrwu5lvooxa,2lligym7hruitxzi7bq,.urlset/master.m3u8
+#EXTINF:0, group-title="On Demand",IIFA Main event Part 01
+https://wv109.jiocdn.us/hls/pg47cafpuxqeoikcw6mlzv73adjfxephfedn5nh2z,4wfpqa7d5fe4ijk2bla,h2fpqa7d5feyh7lp6ea,.urlset/master.m3u8
+
+#EXTINF:0, group-title="On Demand",IIFA Main event Part 02
+https://wv109.jiocdn.us/hls/pg47ca5puxqeoikcw6mlzdpsa4hagqnvlopdtgeoq,svfewnn26h7d266bmnq,jzfewnn26hugfsgymlq,.urlset/master.m3u8
 
 #EXTINF:0, group-title="Movie",& Pictures HD
 https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
