@@ -3,8 +3,8 @@
 #EXTINF:0, group-title="On Demand",IIFA Green Carpet
 https://wv109.jiocdn.us/hls/pg47dmnnuxqeoikcw6mlzanoairzym4dqch2sehjp,hco2u5vki4psdwfp7jq,4oo2u5vki4oag5tpeaa,.urlset/master.m3u8
 
-#EXTINF:0, group-title="On Demand",IIFA Main event Part 01
-https://wv109.jiocdn.us/hls/pg47cafpuxqeoikcw6mlzv73adjfxephfedn5nh2z,4wfpqa7d5fe4ijk2bla,h2fpqa7d5feyh7lp6ea,.urlset/master.m3u8
+#EXTINF:0, group-title="On Demand",IIFA Part 2 Try this
+https://wv109.jiocdn.us/hls/pg47ca5puxqeoikcw6mlzdpsa4hagqnvlopdtgeoq,svfewnn26h32qg4bmnq,jzfewnn26hq7pkeymlq,.urlset/master.m3u8
 
 #EXTINF:0, group-title="On Demand",IIFA Main event Saru this is part 2
 https://cache08.vidoza.net/x4lfzdo3mfzpvjumxaxequ2t54yry52utgxvydeqlr43hkgtdvcsr4db2lda/v.mp4
