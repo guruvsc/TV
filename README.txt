@@ -7,7 +7,7 @@ https://wv109.jiocdn.us/hls/pg47dmnnuxqeoikcw6mlzanoairzym4dqch2sehjp,hco2u5vki4
 https://wv109.jiocdn.us/hls/pg47cafpuxqeoikcw6mlzv73adjfxephfedn5nh2z,4wfpqa7d5fe4ijk2bla,h2fpqa7d5feyh7lp6ea,.urlset/master.m3u8
 
 #EXTINF:0, group-title="On Demand",IIFA Main event Part 02
-https://wv109.jiocdn.us/hls/pg47ca5puxqeoikcw6mlzdpsa4hagqnvlopdtgeoq,svfewnn26h7d266bmnq,jzfewnn26hugfsgymlq,.urlset/master.m3u8
+https://wv109.jiocdn.us/hls/pg47ca5puxqeoikcw6mlzdpsa4hagqnvlopdtgeoq,svfewnn26huzi65bmnq,jzfewnn26h74xsfymlq,.urlset/master.m3u8
 
 #EXTINF:0, group-title="Movie",& Pictures HD
 https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
