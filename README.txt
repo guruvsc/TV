@@ -1,13 +1,11 @@
 #EXTM3U
 
-#EXTINF:0, group-title="On Demand",IIFA Green Carpet
-https://wv109.jiocdn.us/hls/pg47dmnnuxqeoikcw6mlzanoairzym4dqch2sehjp,hco2u5vki4psdwfp7jq,4oo2u5vki4oag5tpeaa,.urlset/master.m3u8
+#EXTINF:0, group-title="On Demand",Hitchki
+https://wv122.jiocdn.us/hls/,pg47cc75vpqeoikcw7qlzt7sipg6rkp4bp2rulveojscljhuyhcjj32qspjq,.urlset/master.m3u8
 
 #EXTINF:0, group-title="On Demand",IIFA Part 2 Try this
 https://wv109.jiocdn.us/hls/pg47ca5puxqeoikcw6mlzdpsa4hagqnvlopdtgeoq,svfewnn26h32qg4bmnq,jzfewnn26hq7pkeymlq,.urlset/master.m3u8
 
-#EXTINF:0, group-title="On Demand",IIFA Main event Saru this is part 2
-https://cache08.vidoza.net/x4lfzdo3mfzpvjumxaxequ2t54yry52utgxvydeqlr43hkgtdvcsr4db2lda/v.mp4
 
 #EXTINF:0, group-title="Movie",& Pictures HD
 https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
