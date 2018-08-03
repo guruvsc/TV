@@ -3,6 +3,9 @@
 #EXTINF:0, group-title="On Demand",Hitchki
 https://wv122.jiocdn.us/hls/,pg47cc75vpqeoikcw7qlzt7sipg6rkp4bp2rulveojsckwdvvuv3eov2qh3q,.urlset/master.m3u8
 
+#EXTINF:0, group-title="On Demand",Daas Dev
+https://wv108.jiocdn.us/hls/,pg47d5yjuxqeoikcw6o3zrnpdi32zeov7nrxfxncurtkegolpoxseoh7jcya,.urlset/master.m3u8
+
 #EXTINF:0, group-title="On Demand",IIFA Part 2 Try this
 https://wv109.jiocdn.us/hls/pg47ca5puxqeoikcw6mlzdpsa4hagqnvlopdtgeoq,svfel2xt2ikjsmawqwq,jzfel2xt2iafxz6cl7a,.urlset/master.m3u8
 
