@@ -6,6 +6,9 @@ https://wv122.jiocdn.us/hls/,pg47cc75vpqeoikcw7qlzt7sipg6rkp4bp2rulveojsckwdvvuv
 #EXTINF:0, group-title="On Demand",Daas Dev
 https://wv108.jiocdn.us/hls/,pg47d5yjuxqeoikcw6o3zrnpdi32zeov7nrxfxncurtkegolpoxseoh7jcya,.urlset/master.m3u8
 
+#EXTINF:0, group-title="On Demand",Red Sparrow
+https://wv111.jiocdn.us/hls/,pg47cfa6utqeoikcw7xlza7zd4r4w2qftgbb6ju722mz5lzlkrwtwxjw6jrq,.urlset/master.m3u8
+
 #EXTINF:0, group-title="On Demand",IIFA Part 2 Try this
 https://wv109.jiocdn.us/hls/pg47ca5puxqeoikcw6mlzdpsa4hagqnvlopdtgeoq,svfel2xt2ikjsmawqwq,jzfel2xt2iafxz6cl7a,.urlset/master.m3u8
 
