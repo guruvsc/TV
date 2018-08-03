@@ -17,7 +17,7 @@ https://wv109.jiocdn.us/hls/pg47ca5puxqeoikcw6mlzdpsa4hagqnvlopdtgeoq,svfel2xt2i
 https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
 
 #EXTINF:0, group-title="Movie",Zee Cinema HD
-http://iptv1.via0.com/j/Zee_Cinema_HD.m3u8
+https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 
 #EXTINF:0, group-title="Movie",Sony Max
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/04.m3u8
