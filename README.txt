@@ -31,14 +31,23 @@ https://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Movie",Zee Cafe HD
 https://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
 
-#EXTINF:0, group-title="Movie",And Flix
-http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
-
 #EXTINF:0, group-title="Movie",And Flix HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:0, group-title="Movie",And Pictures
 https://z5ams.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="Movie",Zee Action
+https://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="Movie",Zee Anmol
+https://z5ams.akamaized.net/zeeanmol/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="Movie",Zee Cinema
+https://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="Movie",Zee Classic
+http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
 
 #EXTINF:0, group-title="Music",Sony Rox HD Airtel
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/04.m3u8
@@ -51,6 +60,12 @@ http://125.17.129.13/wh7f454c46tw2753977440_1335826470/PLTV/88888888/224/3221226
 
 #EXTINF:0, group-title="Music",Enterr 10 
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226218/1.m3u8
+
+#EXTINF:0, group-title="Music",Zee Etc
+https://z5ams.akamaized.net/etc/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="Music",Zing
+https://z5ams.akamaized.net/zing/tracks-v1a1/index.m3u8
 
 #EXTINF:0, group-title="Music",Sony Mix
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225816/04.m3u8|User-Agent=ExoPlayerDemo/4.4
@@ -102,6 +117,12 @@ http://cshms1.airtel.tv/wh7f454c46tw1565302381_1163892044/PLTV/88888888/224/3221
 
 #EXTINF:0, group-title="Entertainment",& TV HD
 https://z5ams.akamaized.net/andtvhd/tracks-v2a1/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",Zee Hindustan
+https://z5ams.akamaized.net/hindustan/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",Zee Magic
+https://z5ams.akamaized.net/magic/tracks-v1a1/index.m3u8
 
 #EXTINF:0, group-title="Documentary",Sony BBC Earth
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226068/04.m3u8
