@@ -3,8 +3,8 @@
 #EXTINF:0, group-title="On Demand",Nawab
 https://streamango.com/embed/polndnmdmtemnacc/Nawabzaade_2018_Hindi_DVDScr_x264_AAC_700_MB_mkv_mp4
 
-#EXTINF:0, group-title="On Demand",Daas Dev
-https://wv108.jiocdn.us/hls/,pg47d5yjuxqeoikcw6o3zrnpdi32zeov7nrxfxncurtkegolpoxseoh7jcya,.urlset/master.m3u8
+#EXTINF:0, group-title="On Demand",Mission Hindi
+https://wv111.jiocdn.us/hls/,pg47dqnfuxqeoikcw6mlzq5odu76eq2v3x7ddryofpkery5mzkgzxhu2tola,.urlset/master.m3u8
 
 #EXTINF:0, group-title="On Demand",Red Sparrow
 https://wv111.jiocdn.us/hls/,pg47cfa6utqeoikcw7xlza7zd4r4w2qftgbb6ju722mz5lzlkrwtwxjw6jrq,.urlset/master.m3u8
