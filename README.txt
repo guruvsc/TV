@@ -22,11 +22,29 @@ http://iptv1.via0.com/j/Zee_Cinema_HD.m3u8
 #EXTINF:0, group-title="Movie",Sony Max
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/01.m3u8
 
+#EXTINF:0, group-title="Movie",And Prive HD
+https://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="Movie",Zee Cafe HD
+https://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="Movie",And Flix
+http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="Movie",And Flix HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="Movie",And Pictures
+https://z5ams.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
+
 #EXTINF:0, group-title="Music",Sony Rox HD Airtel
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/01.m3u8
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/04.m3u8
 
 #EXTINF:0, group-title="Music",E24
-http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226010/01.m3u8
+http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226010/04.m3u8
+
+#EXTINF:0, group-title="Hindi",B4U Music
+http://125.17.129.13/wh7f454c46tw2753977440_1335826470/PLTV/88888888/224/3221226055/04.m3u8
 
 #EXTINF:0, group-title="News",Aaj Tak
 https://z5ams.akamaized.net/aajtak/tracks-v1a1/index.m3u8
@@ -43,11 +61,20 @@ http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
 #EXTINF:0, group-title="News",News 18 India
 http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3.m3u8
 
+#EXTINF:0, group-title="News",NDTV India
+https://ndtvstream-lh.akamaihd.net//i//ndtv_india_1@300634//master.m3u8
+
+#EXTINF:0, group-title="News",Aaj Tak Tez
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226432/index.m3u8
+
 #EXTINF:0, group-title="News",Zee MP
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225927/01.m3u8
 
-#EXTINF:0, group-title="News",Zee News
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225922/01.m3u8
+#EXTINF:0, group-title="News",ETV MP
+https://etv-mp.akamaized.net/i/etv_mp_hls_1@175737/index_5_av-p.m3u8
+
+#EXTINF:0, group-title="News",India News
+https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/master.m3u8
 
 #EXTINF:0, group-title="Entertainment",Zee TV HD
 https://z5ams.akamaized.net/zeetvhd/tracks-v2a1/index.m3u8
@@ -67,11 +94,35 @@ https://z5ams.akamaized.net/andtvhd/tracks-v2a1/index.m3u8
 #EXTINF:0, group-title="Documentary",Sony BBC Earth
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226068/01.m3u8
 
-#EXTINF:0, group-title="English",CI
-http://62.210.93.115:80/live?channelId=41&uid=538&deviceUser=AndrewSheehy&devicePass=230717
-
-#EXTINF:0, group-title="English",ID
-http://62.210.93.115:80/live?channelId=55&uid=538&deviceUser=AndrewSheehy&devicePass=230717
-
-#EXTINF:0, group-title="English",Family Guy
-http://62.210.114.98:80/live?channelId=317&uid=538&deviceUser=AndrewSheehy&devicePass=230717
+#EXTINF:0, group-title="Sports",D Sport
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226392/1.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Sports",DD Sports
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226346/01.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Sports",Dsports HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
+#EXTINF:0, group-title="Sports",Neo Prime
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225789/index.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Sports",Neo Sports
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225791/index.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Sports",NHK World
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226408/index.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Sports",Sony ESPN
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225805/01.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Sports",Sony ESPN HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/01.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Sports",Sony Six
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/01.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Sports",Sony Six HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225780/01.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Sports",Ten 1
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/01.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Sports",Ten 1 HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/01.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Sports",Ten 2
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/01.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Sports",Ten 2 HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/01.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Sports",Ten 3
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225933/01.m3u8|User-Agent=ExoPlayerDemo/4.4
+#EXTINF:0, group-title="Sports",Ten 3 HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/1.m3u8|User-Agent=ExoPlayerDemo/4.4
