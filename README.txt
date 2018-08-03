@@ -20,7 +20,10 @@ https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
 http://iptv1.via0.com/j/Zee_Cinema_HD.m3u8
 
 #EXTINF:0, group-title="Movie",Sony Max
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/01.m3u8
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/04.m3u8
+
+#EXTINF:0, group-title="Movie",Sony Max HD
+http://125.17.129.13/wh7f454c46tw1426839479_1338613003/PLTV/88888888/224/3221225776/04.m3u8
 
 #EXTINF:0, group-title="Movie",And Prive HD
 https://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
@@ -43,8 +46,17 @@ http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/04.m3u8
 #EXTINF:0, group-title="Music",E24
 http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226010/04.m3u8
 
-#EXTINF:0, group-title="Hindi",B4U Music
+#EXTINF:0, group-title="Music",B4U Music
 http://125.17.129.13/wh7f454c46tw2753977440_1335826470/PLTV/88888888/224/3221226055/04.m3u8
+
+#EXTINF:0, group-title="Music",Enterr 10 
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226218/1.m3u8
+
+#EXTINF:0, group-title="Music",Sony Mix
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225816/04.m3u8|User-Agent=ExoPlayerDemo/4.4
+
+#EXTINF:0, group-title="Music",Sony Pal
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226200/4.m3u8|User-Agent=ExoPlayerDemo/4.4
 
 #EXTINF:0, group-title="News",Aaj Tak
 https://z5ams.akamaized.net/aajtak/tracks-v1a1/index.m3u8
@@ -80,7 +92,7 @@ https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/master.m3u8
 https://z5ams.akamaized.net/zeetvhd/tracks-v2a1/index.m3u8
 
 #EXTINF:0, group-title="Entertainment",Sony TV HD
-http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/02.m3u8
+http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/04.m3u8
 
 #EXTINF:0, group-title="Entertainment",& TV HD
 https://z5ams.akamaized.net/andtvhd/tracks-v2a1/index.m3u8
@@ -92,7 +104,13 @@ http://cshms1.airtel.tv/wh7f454c46tw1565302381_1163892044/PLTV/88888888/224/3221
 https://z5ams.akamaized.net/andtvhd/tracks-v2a1/index.m3u8
 
 #EXTINF:0, group-title="Documentary",Sony BBC Earth
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226068/01.m3u8
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226068/04.m3u8
+
+#EXTINF:0, group-title="Documentary",TLC HD World
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/04.m3u8
+
+#EXTINF:0, group-title="Documentary",Discovery
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/04.m3u8
 
 #EXTINF:0, group-title="Sports",D Sport
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226392/1.m3u8|User-Agent=ExoPlayerDemo/4.4
