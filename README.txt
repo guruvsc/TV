@@ -418,3 +418,386 @@ http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/22417.ts
 http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/32137.ts
 #EXTINF:-1,group-title="USA",World Fishing Network
 http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/32136.ts
+
+#EXTINF:0,group-title="India Backup", &pictures HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34791.ts
+#EXTINF:0,group-title="India Backup", &prive HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34783.ts
+#EXTINF:0,group-title="India Backup", &tv HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34802.ts
+#EXTINF:0,group-title="India Backup", 5aab TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34727.ts
+#EXTINF:0,group-title="India Backup", ADSport1 HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34959.ts
+#EXTINF:0,group-title="India Backup", ADSport2 HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34958.ts
+#EXTINF:0,group-title="India Backup", AXN HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34782.ts
+#EXTINF:0,group-title="India Backup", Aaj Tak
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34967.ts
+#EXTINF:0,group-title="India Backup", Aastha
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34732.ts
+#EXTINF:0,group-title="India Backup", Adithya TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34957.ts
+#EXTINF:0,group-title="India Backup", Angel TV HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34956.ts
+#EXTINF:0,group-title="India Backup", Animal Planet HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34767.ts
+#EXTINF:0,group-title="India Backup", BBC Toronto
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34726.ts
+#EXTINF:0,group-title="India Backup", BBC World News
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34965.ts
+#EXTINF:0,group-title="India Backup", BnB
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34725.ts
+#EXTINF:0,group-title="India Backup", Captain News
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34955.ts
+#EXTINF:0,group-title="India Backup", Captain TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34954.ts
+#EXTINF:0,group-title="India Backup", Cartoon Network
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34734.ts
+#EXTINF:0,group-title="India Backup", Cartoon Network (Tamil)
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34953.ts
+#EXTINF:0,group-title="India Backup", Cauvery News
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34952.ts
+#EXTINF:0,group-title="India Backup", Chutti TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34951.ts
+#EXTINF:0,group-title="India Backup", Cine Voice
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34724.ts
+#EXTINF:0,group-title="India Backup", Colors HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34805.ts
+#EXTINF:0,group-title="India Backup", DD Podhigai
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34950.ts
+#EXTINF:0,group-title="India Backup", DD Punjabi
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34723.ts
+#EXTINF:0,group-title="India Backup", DPD Punjabi HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34721.ts
+#EXTINF:0,group-title="India Backup", Desi Beats HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34968.ts
+#EXTINF:0,group-title="India Backup", Desi Channel
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34722.ts
+#EXTINF:0,group-title="India Backup", Discovery Channel (Tamil)
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34949.ts
+#EXTINF:0,group-title="India Backup", Discovery HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34762.ts
+#EXTINF:0,group-title="India Backup", Discovery Kids (Tamil)
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34948.ts
+#EXTINF:0,group-title="India Backup", Discovery Science
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34761.ts
+#EXTINF:0,group-title="India Backup", Divya Tv
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34963.ts
+#EXTINF:0,group-title="India Backup", Dsport HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34756.ts
+#EXTINF:0,group-title="India Backup", Epic
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34801.ts
+#EXTINF:0,group-title="India Backup", FYI TV18
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34760.ts
+#EXTINF:0,group-title="India Backup", Global Punjab
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34718.ts
+#EXTINF:0,group-title="India Backup", Global Sanjh
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34717.ts
+#EXTINF:0,group-title="India Backup", Gurbaani TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34716.ts
+#EXTINF:0,group-title="India Backup", Gurmit Channel
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34962.ts
+#EXTINF:0,group-title="India Backup", HBO HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34781.ts
+#EXTINF:0,group-title="India Backup", History  HD (Tamil)
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34947.ts
+#EXTINF:0,group-title="India Backup", History TV18 HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34766.ts
+#EXTINF:0,group-title="India Backup", India Today
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34966.ts
+#EXTINF:0,group-title="India Backup", Jhanjar HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34714.ts
+#EXTINF:0,group-title="India Backup", Jio Cricket English
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34758.ts
+#EXTINF:0,group-title="India Backup", Jio Sports
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34747.ts
+#EXTINF:0,group-title="India Backup", KTV HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34946.ts
+#EXTINF:0,group-title="India Backup", Life Punjabi
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34713.ts
+#EXTINF:0,group-title="India Backup", Living Foodz HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34765.ts
+#EXTINF:0,group-title="India Backup", Living India News
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34712.ts
+#EXTINF:0,group-title="India Backup", Lotus News
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34945.ts
+#EXTINF:0,group-title="India Backup", MK Mtunes
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34942.ts
+#EXTINF:0,group-title="India Backup", MK TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34941.ts
+#EXTINF:0,group-title="India Backup", MN  HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34780.ts
+#EXTINF:0,group-title="India Backup", MTV Beats HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34773.ts
+#EXTINF:0,group-title="India Backup", Makkal TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34944.ts
+#EXTINF:0,group-title="India Backup", Malai Murasu
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34943.ts
+#EXTINF:0,group-title="India Backup", Mh1 News
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34710.ts
+#EXTINF:0,group-title="India Backup", Movies Now 2 HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34779.ts
+#EXTINF:0,group-title="India Backup", Movies Now HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34777.ts
+#EXTINF:0,group-title="India Backup", Movies ok
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34784.ts
+#EXTINF:0,group-title="India Backup", NDA Channel
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34709.ts
+#EXTINF:0,group-title="India Backup", Nambikkai
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34940.ts
+#EXTINF:0,group-title="India Backup", News 18 TN
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34939.ts
+#EXTINF:0,group-title="India Backup", News 7 Tamil
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34938.ts
+#EXTINF:0,group-title="India Backup", Nick (Tamil)
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34937.ts
+#EXTINF:0,group-title="India Backup", PBN Music
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34708.ts
+#EXTINF:0,group-title="India Backup", Peppers TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34936.ts
+#EXTINF:0,group-title="India Backup", Pogo
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34733.ts
+#EXTINF:0,group-title="India Backup", Pogo (Tamil)
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34935.ts
+#EXTINF:0,group-title="India Backup", Polimer
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34934.ts
+#EXTINF:0,group-title="India Backup", Polimer News
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34933.ts
+#EXTINF:0,group-title="India Backup", Prime Asia
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34707.ts
+#EXTINF:0,group-title="India Backup", Puthiya Thalimurai
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34932.ts
+#EXTINF:0,group-title="India Backup", Puthu Yugam
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34931.ts
+#EXTINF:0,group-title="India Backup", Raj Digital Plus
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34930.ts
+#EXTINF:0,group-title="India Backup", Raj Musix
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34929.ts
+#EXTINF:0,group-title="India Backup", Raj News 24x7
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34928.ts
+#EXTINF:0,group-title="India Backup", Raj TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34926.ts
+#EXTINF:0,group-title="India Backup", Rishtey
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34796.ts
+#EXTINF:0,group-title="India Backup", Romedy Now HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34776.ts
+#EXTINF:0,group-title="India Backup", SAB HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34806.ts
+#EXTINF:0,group-title="India Backup", SONY BBC Earth HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34764.ts
+#EXTINF:0,group-title="India Backup", SSTV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34704.ts
+#EXTINF:0,group-title="India Backup", STAR JALSHA
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34746.ts
+#EXTINF:0,group-title="India Backup", STAR PLUS
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34793.ts
+#EXTINF:0,group-title="India Backup", STAR SPORTS 1
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34755.ts
+#EXTINF:0,group-title="India Backup", STAR SPORTS 2
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34754.ts
+#EXTINF:0,group-title="India Backup", Sahana
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34925.ts
+#EXTINF:0,group-title="India Backup", Sai TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34924.ts
+#EXTINF:0,group-title="India Backup", Sanjha Punjab
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34706.ts
+#EXTINF:0,group-title="India Backup", Sanskar
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34731.ts
+#EXTINF:0,group-title="India Backup", Sathiyam
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34923.ts
+#EXTINF:0,group-title="India Backup", Satsang TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34730.ts
+#EXTINF:0,group-title="India Backup", Sikh Channel
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34705.ts
+#EXTINF:0,group-title="India Backup", Sonic (Tamil)
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34922.ts
+#EXTINF:0,group-title="India Backup", Sony BBC Earth HD (Tamil)
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34921.ts
+#EXTINF:0,group-title="India Backup", Sony ESPN HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34748.ts
+#EXTINF:0,group-title="India Backup", Sony HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34807.ts
+#EXTINF:0,group-title="India Backup", Sony Le PLEX HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34778.ts
+#EXTINF:0,group-title="India Backup", Sony Max 2
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34787.ts
+#EXTINF:0,group-title="India Backup", Sony Max HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34788.ts
+#EXTINF:0,group-title="India Backup", Sony Mix
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34771.ts
+#EXTINF:0,group-title="India Backup", Sony Pal
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34795.ts
+#EXTINF:0,group-title="India Backup", Sony Pix HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34775.ts
+#EXTINF:0,group-title="India Backup", Sony Rox HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34772.ts
+#EXTINF:0,group-title="India Backup", Sony Six HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34753.ts
+#EXTINF:0,group-title="India Backup", Sony Ten 1 HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34752.ts
+#EXTINF:0,group-title="India Backup", Sony Ten 2 HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34751.ts
+#EXTINF:0,group-title="India Backup", Sony Ten 3 HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34750.ts
+#EXTINF:0,group-title="India Backup", Sony Yay (Tamil)
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34920.ts
+#EXTINF:0,group-title="India Backup", Star Bharat HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34798.ts
+#EXTINF:0,group-title="India Backup", Star Gold HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34790.ts
+#EXTINF:0,group-title="India Backup", Star Plus HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34803.ts
+#EXTINF:0,group-title="India Backup", Star Sports Select 2 HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34757.ts
+#EXTINF:0,group-title="India Backup", Star Utsav
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34797.ts
+#EXTINF:0,group-title="India Backup", Star Vijay HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34919.ts
+#EXTINF:0,group-title="India Backup", Steelbird Music
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34703.ts
+#EXTINF:0,group-title="India Backup", Sun Life
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34918.ts
+#EXTINF:0,group-title="India Backup", Sun Music
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34917.ts
+#EXTINF:0,group-title="India Backup", Sun News
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34916.ts
+#EXTINF:0,group-title="India Backup", Sun TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34915.ts
+#EXTINF:0,group-title="India Backup", Sun TV HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34914.ts
+#EXTINF:0,group-title="India Backup", TIMES NOW HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34738.ts
+#EXTINF:0,group-title="India Backup", TLC HD WORLD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34763.ts
+#EXTINF:0,group-title="India Backup", Tag TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34702.ts
+#EXTINF:0,group-title="India Backup", Ten Golf HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34749.ts
+#EXTINF:0,group-title="India Backup", Thanthi TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34913.ts
+#EXTINF:0,group-title="India Backup", Travel XP (Tamil)
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34912.ts
+#EXTINF:0,group-title="India Backup", Travel XP HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34759.ts
+#EXTINF:0,group-title="India Backup", Tunes 6 Music
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34911.ts
+#EXTINF:0,group-title="India Backup", Urdu TV Toronto
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34960.ts
+#EXTINF:0,group-title="India Backup", Vasanth
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34910.ts
+#EXTINF:0,group-title="India Backup", Vendhar TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34909.ts
+#EXTINF:0,group-title="India Backup", Virsa Live
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34700.ts
+#EXTINF:0,group-title="India Backup", Warner Bros
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34774.ts
+#EXTINF:0,group-title="India Backup", Wion
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34737.ts
+#EXTINF:0,group-title="India Backup", Zee Action
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34786.ts
+#EXTINF:0,group-title="India Backup", Zee Anmol
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34794.ts
+#EXTINF:0,group-title="India Backup", Zee Bangla
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34745.ts
+#EXTINF:0,group-title="India Backup", Zee Business
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34741.ts
+#EXTINF:0,group-title="India Backup", Zee Cafe HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34800.ts
+#EXTINF:0,group-title="India Backup", Zee Cinema HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34789.ts
+#EXTINF:0,group-title="India Backup", Zee Classic
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34785.ts
+#EXTINF:0,group-title="India Backup", Zee ETC
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34969.ts
+#EXTINF:0,group-title="India Backup", Zee Hindustan
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34740.ts
+#EXTINF:0,group-title="India Backup", Zee Marathi HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34744.ts
+#EXTINF:0,group-title="India Backup", Zee News
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34739.ts
+#EXTINF:0,group-title="India Backup", Zee Punjabi
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34728.ts
+#EXTINF:0,group-title="India Backup", Zee Studio HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34799.ts
+#EXTINF:0,group-title="India Backup", Zee TV HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34804.ts
+#EXTINF:0,group-title="India Backup", Zee Tamil
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34908.ts
+#EXTINF:0,group-title="India Backup", Zing
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34770.ts
+#EXTINF:0,IND-: & TV HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34857.ts
+#EXTINF:0,IND-: &TV UK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34856.ts
+#EXTINF:0,IND-: AAJ TAK UK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34855.ts
+#EXTINF:0,IND-: AASTHA UK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34854.ts
+#EXTINF:0,IND-: AND PICTURE HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34852.ts
+#EXTINF:0,IND-: AXN HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34851.ts
+#EXTINF:0,IND-: B4U MOVIES
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34850.ts
+#EXTINF:0,IND-: B4U MUSIC UK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34849.ts
+#EXTINF:0,IND-: COLORS HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34847.ts
+#EXTINF:0,IND-: HISTORY HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34844.ts
+#EXTINF:0,IND-: MATV NATIONAL UK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34842.ts
+#EXTINF:0,IND-: NDTV 24x7 UK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34840.ts
+#EXTINF:0,IND-: PTC PUNJABI UK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34839.ts
+#EXTINF:0,IND-: RISHTEY UK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34837.ts
+#EXTINF:0,IND-: SONY HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34835.ts
+#EXTINF:0,IND-: SONY LE PLEX HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34834.ts
+#EXTINF:0,IND-: SONY MAX HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34833.ts
+#EXTINF:0,IND-: SONY MAX UK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34832.ts
+#EXTINF:0,IND-: SONY MIX UK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34831.ts
+#EXTINF:0,IND-: SONY SAB HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34829.ts
+#EXTINF:0,IND-: SONY SAB UK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34828.ts
+#EXTINF:0,IND-: SONY SIX HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34827.ts
+#EXTINF:0,IND-: SONY TV ASIA UK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34826.ts
+#EXTINF:0,IND-: STAR BHARAT UK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34825.ts
+#EXTINF:0,IND-: STAR GOLD HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34824.ts
+#EXTINF:0,IND-: STAR GOLD UK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34823.ts
+#EXTINF:0,IND-: STAR PLUS HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34822.ts
+#EXTINF:0,IND-: STAR PLUS UK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34821.ts
+#EXTINF:0,IND-: STAR SELECT 2 HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34820.ts
+#EXTINF:0,IND-: STAR SPORTS 1 HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34819.ts
+#EXTINF:0,IND-: STAR SPORTS 2 HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34818.ts
+#EXTINF:0,IND-: TEN 1 HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34816.ts
+#EXTINF:0,IND-: TEN 2 HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34815.ts
+#EXTINF:0,IND-: TEN 3 HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34814.ts
+#EXTINF:0,IND-: ZEE CINEMA HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34813.ts
+#EXTINF:0,IND-: ZEE TV HD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34812.ts
+#EXTINF:0,IND-: ZEE TV UK
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34811.ts
