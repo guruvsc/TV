@@ -3,15 +3,8 @@
 #EXTINF:0, group-title="On Demand",Indian Idol 4 Aug
 https://wv121.jiocdn.us/hls/pg47dhekuxqeoikcw6dlzdp4bgee7bu5tyrjfsgdp,ltdav7ovwetatwnirya,q7dav7ovwevrhyp67sq,.urlset/master.m3u8
 
-#EXTINF:0, group-title="On Demand",Mission Hindi
-https://wv111.jiocdn.us/hls/,pg47dqnfuxqeoikcw6mlzq5odu76eq2v3x7ddryofpkery5mzkgzxhu2tola,.urlset/master.m3u8
-
-#EXTINF:0, group-title="On Demand",Red Sparrow
-https://wv111.jiocdn.us/hls/,pg47cfa6utqeoikcw7xlza7zd4r4w2qftgbb6ju722mz5lzlkrwtwxjw6jrq,.urlset/master.m3u8
-
-#EXTINF:0, group-title="On Demand",IIFA Part 2 Try this
-https://wv109.jiocdn.us/hls/pg47ca5puxqeoikcw6mlzdpsa4hagqnvlopdtgeoq,svfel2xt2ikjsmawqwq,jzfel2xt2iafxz6cl7a,.urlset/master.m3u8
-
+#EXTINF:0, group-title="On Demand",Fanney Khan
+https://wv111.jiocdn.us/hls/,pg47comiuxqeoikcw6dlzrhyaqdl3qg6khrso2nsfkbnffcwsezu37cidh3a,.urlset/master.m3u8
 
 #EXTINF:0, group-title="Movie",& Pictures HD
 https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
