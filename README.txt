@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:0, group-title="On Demand",Nawab
-https://wv122.jiocdn.us/hls/,pg47c7ufuxqeoikcw6d3zv72dvg2tqj2fsrutxdvaaylf4fcij4ybhwqdnza,.urlset/master.m3u8
+#EXTINF:0, group-title="On Demand",Indian Idol 4 Aug
+https://wv121.jiocdn.us/hls/pg47dhekuxqeoikcw6dlzdp4bgee7bu5tyrjfsgdp,ltdav7ovwetatwnirya,q7dav7ovwevrhyp67sq,.urlset/master.m3u8
 
 #EXTINF:0, group-title="On Demand",Mission Hindi
 https://wv111.jiocdn.us/hls/,pg47dqnfuxqeoikcw6mlzq5odu76eq2v3x7ddryofpkery5mzkgzxhu2tola,.urlset/master.m3u8
