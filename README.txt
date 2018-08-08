@@ -3,8 +3,8 @@
 #EXTINF:0, group-title="On Demand",Indian Idol 4 Aug
 https://wv121.jiocdn.us/hls/pg47dhekuxqeoikcw6dlzdp4bgee7bu5tyrjfsgdp,ltdav7ovwetatwnirya,q7dav7ovwevrhyp67sq,.urlset/master.m3u8
 
-#EXTINF:0, group-title="On Demand",Fanney Khan
-https://wv111.jiocdn.us/hls/,pg47comiuxqeoikcw6dlzrhyaqdl3qg6khrso2nsfkbnffcwsezu37cidh3a,.urlset/master.m3u8
+#EXTINF:0, group-title="On Demand",Mulk
+https://wv111.jiocdn.us/hls/,pg47cd4nuxqeoikcw6dlzrfjcqewhlicpw42dsjxmifawpktedlt6kmmjsua,.urlset/master.m3u8
 
 #EXTINF:0, group-title="Movie",& Pictures HD
 https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
