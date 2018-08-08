@@ -61,10 +61,28 @@ https://z5ams.akamaized.net/etc/tracks-v1a1/index.m3u8
 https://z5ams.akamaized.net/zing/tracks-v1a1/index.m3u8
 
 #EXTINF:0, group-title="Music",Sony Mix
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225816/04.m3u8|User-Agent=ExoPlayerDemo/4.4
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225816/04.m3u8
 
 #EXTINF:0, group-title="Music",Sony Pal
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226200/4.m3u8|User-Agent=ExoPlayerDemo/4.4
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226200/4.m3u8
+
+#EXTINF:0, group-title="Music",9X Jalwa
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226011/1.m3u8
+
+#EXTINF:0, group-title="Music",9X Jhakaas
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226026/1.m3u8
+
+#EXTINF:0, group-title="Music",9X Tashan
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226017/1.m3u8
+
+#EXTINF:0, group-title="Music",9xM
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226053/1.m3u8
+
+#EXTINF:0, group-title="Music",9XO
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226028/1.m3u8
+
+#EXTINF:0, group-title="Music",Masti TV
+http://cdn.samtv.ca/mastitv/index.m3u8
 
 #EXTINF:0, group-title="News",Aaj Tak
 https://z5ams.akamaized.net/aajtak/tracks-v1a1/index.m3u8
