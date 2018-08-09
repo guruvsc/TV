@@ -816,3 +816,516 @@ http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34813.ts
 http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34812.ts
 #EXTINF:0,IND-: ZEE TV UK
 http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34811.ts
+
+#EXTINF:-1,ABC HD
+http://vapi.vaders.tv/play/2435.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,CBS HD
+http://vapi.vaders.tv/play/2440.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,NBC HD
+http://vapi.vaders.tv/play/2455.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,FOX HD
+http://vapi.vaders.tv/play/2448.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,CW HD
+http://vapi.vaders.tv/play/8198.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,A&E HD
+http://vapi.vaders.tv/play/2463.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,AMC HD
+http://vapi.vaders.tv/play/2436.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Food Network HD
+http://vapi.vaders.tv/play/2913.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Cooking Channel HD
+http://vapi.vaders.tv/play/52259.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Animal Planet HD
+http://vapi.vaders.tv/play/2437.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Bravo HD
+http://vapi.vaders.tv/play/2438.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Cartoon Network HD
+http://vapi.vaders.tv/play/2439.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Fox Business HD
+http://vapi.vaders.tv/play/34023.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,CNBC HD
+http://vapi.vaders.tv/play/2441.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,MSNBC HD
+http://vapi.vaders.tv/play/3082.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,CNN News HD
+http://vapi.vaders.tv/play/2442.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Comedy Central HD
+http://vapi.vaders.tv/play/2443.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Destination America HD
+http://vapi.vaders.tv/play/39437.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Discovery Channel HD
+http://vapi.vaders.tv/play/2445.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Discovery Family HD
+http://vapi.vaders.tv/play/47566.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Discovery Science HD
+http://vapi.vaders.tv/play/54628.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Discovery Life HD
+http://vapi.vaders.tv/play/54868.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Nat Geo HD
+http://vapi.vaders.tv/play/2754.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Nat Geo Wild HD
+http://vapi.vaders.tv/play/50910.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,History HD
+http://vapi.vaders.tv/play/2915.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Fox News HD
+http://vapi.vaders.tv/play/2449.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Weather Channel HD
+http://vapi.vaders.tv/play/40877.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,FX HD
+http://vapi.vaders.tv/play/2451.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,FXX HD
+http://vapi.vaders.tv/play/2452.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,FXM HD
+http://vapi.vaders.tv/play/56409.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,El Rey Network HD
+http://vapi.vaders.tv/play/38912.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Nick HD
+http://vapi.vaders.tv/play/2460.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Nick Jr HD
+http://vapi.vaders.tv/play/38910.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Disney Channel HD
+http://vapi.vaders.tv/play/8197.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Disney Jr HD
+http://vapi.vaders.tv/play/39421.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Disney XD HD
+http://vapi.vaders.tv/play/2762.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,FreeForm HD
+http://vapi.vaders.tv/play/2450.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Universal Kids HD
+http://vapi.vaders.tv/play/56461.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Lifetime HD
+http://vapi.vaders.tv/play/2465.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Paramount Network HD
+http://vapi.vaders.tv/play/2457.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,TBS HD
+http://vapi.vaders.tv/play/2461.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,TNT HD
+http://vapi.vaders.tv/play/2459.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,USA Network HD
+http://vapi.vaders.tv/play/2462.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Velocity HD
+http://vapi.vaders.tv/play/2776.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Travel Channel HD
+http://vapi.vaders.tv/play/39874.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Outdoor Channel HD
+http://vapi.vaders.tv/play/40878.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,ID HD
+http://vapi.vaders.tv/play/7941.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Oxygen HD
+http://vapi.vaders.tv/play/40685.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,SYFY HD
+http://vapi.vaders.tv/play/2458.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sundance HD
+http://vapi.vaders.tv/play/2780.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,OWN HD
+http://vapi.vaders.tv/play/2779.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,BBC America HD
+http://vapi.vaders.tv/play/2456.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,HGTV HD
+http://vapi.vaders.tv/play/2454.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,DIY Network HD
+http://vapi.vaders.tv/play/40663.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,American Heroes Channel HD
+http://vapi.vaders.tv/play/74790.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Hallmark Channel HD
+http://vapi.vaders.tv/play/2453.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Hallmark Movies & Mysteries HD
+http://vapi.vaders.tv/play/39629.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Reelz HD
+http://vapi.vaders.tv/play/47564.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Tru TV HD
+http://vapi.vaders.tv/play/2466.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Revolt HD
+http://vapi.vaders.tv/play/56459.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Fusion HD
+http://vapi.vaders.tv/play/56457.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Fuse HD
+http://vapi.vaders.tv/play/56452.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,GSN HD
+http://vapi.vaders.tv/play/39847.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,POP HD
+http://vapi.vaders.tv/play/56460.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,CMT HD
+http://vapi.vaders.tv/play/47565.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,FYI HD
+http://vapi.vaders.tv/play/56458.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,TLC HD
+http://vapi.vaders.tv/play/2777.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,PBS HD
+http://vapi.vaders.tv/play/2774.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,BET HD
+http://vapi.vaders.tv/play/8246.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,IFC HD
+http://vapi.vaders.tv/play/2773.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,LMN HD
+http://vapi.vaders.tv/play/16705.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,MTV HD
+http://vapi.vaders.tv/play/12901.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,MTV2 HD
+http://vapi.vaders.tv/play/57842.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,E! HD
+http://vapi.vaders.tv/play/2760.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,VH1 HD
+http://vapi.vaders.tv/play/39363.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,WE TV HD
+http://vapi.vaders.tv/play/55523.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Viceland HD
+http://vapi.vaders.tv/play/16318.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,AXS TV HD
+http://vapi.vaders.tv/play/74788.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,TVLand HD
+http://vapi.vaders.tv/play/40662.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,TVOne HD
+http://vapi.vaders.tv/play/40695.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Daystar HD
+http://vapi.vaders.tv/play/53874.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,CBN HD
+http://vapi.vaders.tv/play/54866.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,SBN HD
+http://vapi.vaders.tv/play/54867.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,TBN HD
+http://vapi.vaders.tv/play/54865.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Fight Tyme
+http://vapi.vaders.tv/play/58781.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,QVC HD
+http://vapi.vaders.tv/play/72666.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Impact Network
+http://vapi.vaders.tv/play/64458.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Bloomberg HD
+http://vapi.vaders.tv/play/64186.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,ABC Atlanta HD
+http://vapi.vaders.tv/play/52211.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,ABC Chicago HD
+http://vapi.vaders.tv/play/52213.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,ABC Dallas HD
+http://vapi.vaders.tv/play/52214.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,ABC Los Angeles HD
+http://vapi.vaders.tv/play/52216.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,ABC Miami HD
+http://vapi.vaders.tv/play/52217.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,ABC New York HD
+http://vapi.vaders.tv/play/52218.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,ABC San Diego HD
+http://vapi.vaders.tv/play/2767.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,CBS Atlanta HD
+http://vapi.vaders.tv/play/52227.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,CBS Chicago HD
+http://vapi.vaders.tv/play/52229.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,CBS Los Angeles HD
+http://vapi.vaders.tv/play/52235.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,CBS Miami HD
+http://vapi.vaders.tv/play/52236.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,CBS New York HD
+http://vapi.vaders.tv/play/52237.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,CBS Phoenix HD
+http://vapi.vaders.tv/play/73280.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,FOX Atlanta HD
+http://vapi.vaders.tv/play/52219.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,FOX Chicago HD
+http://vapi.vaders.tv/play/52221.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,FOX Dallas HD
+http://vapi.vaders.tv/play/52222.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,FOX Los Angeles HD
+http://vapi.vaders.tv/play/52224.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,FOX Miami HD
+http://vapi.vaders.tv/play/52225.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,FOX New York HD
+http://vapi.vaders.tv/play/52226.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,FOX San Diego HD
+http://vapi.vaders.tv/play/2770.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,NBC Chicago HD
+http://vapi.vaders.tv/play/52239.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,NBC Dallas HD
+http://vapi.vaders.tv/play/52240.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Golf Channel HD
+http://vapi.vaders.tv/play/2561.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,NBC Los Angeles HD
+http://vapi.vaders.tv/play/52242.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,NBC Miami HD
+http://vapi.vaders.tv/play/52243.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,NBC New York HD
+http://vapi.vaders.tv/play/52244.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,NBC San Diego HD
+http://vapi.vaders.tv/play/2769.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,NBC Sports Network HD
+http://vapi.vaders.tv/play/2562.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Fox Sports North HD
+http://vapi.vaders.tv/play/52196.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Fox Sports Ohio HD
+http://vapi.vaders.tv/play/52197.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Fox Sports San Diego HD
+http://vapi.vaders.tv/play/52198.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Fox Sports South East HD
+http://vapi.vaders.tv/play/52201.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Fox Sports South Georgia HD
+http://vapi.vaders.tv/play/52199.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Fox Sports South HD
+http://vapi.vaders.tv/play/52200.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Fox Sports Sun HD
+http://vapi.vaders.tv/play/52202.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Fox Sports Tennessee HD
+http://vapi.vaders.tv/play/52203.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Fox Sports West HD
+http://vapi.vaders.tv/play/52204.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Fox Sports Wisconsin HD
+http://vapi.vaders.tv/play/52205.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,HLN HD
+http://vapi.vaders.tv/play/2772.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,CBS News HD
+http://vapi.vaders.tv/play/75926.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,FOX Phoenix HD
+http://vapi.vaders.tv/play/73281.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,KUTP Phoenix HD
+http://vapi.vaders.tv/play/73282.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,CBS San Diego HD
+http://vapi.vaders.tv/play/2768.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,NBC Philadelphia
+http://vapi.vaders.tv/play/77922.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,ABC Boston HD
+http://vapi.vaders.tv/play/78048.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,CBS Boston HD
+http://vapi.vaders.tv/play/78046.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,FOX Boston HD
+http://vapi.vaders.tv/play/78045.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,NBC Boston HD
+http://vapi.vaders.tv/play/78047.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sky Sports Main Event HD
+http://vapi.vaders.tv/play/2889.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sky Sports Main Event
+http://vapi.vaders.tv/play/39820.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sky Sports Cricket HD
+http://vapi.vaders.tv/play/2479.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sky Sports Cricket
+http://vapi.vaders.tv/play/39821.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sky Sports Action HD
+http://vapi.vaders.tv/play/2480.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sky Sports Action
+http://vapi.vaders.tv/play/39822.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sky Sports Golf HD
+http://vapi.vaders.tv/play/2481.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sky Sports Golf
+http://vapi.vaders.tv/play/39823.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sky Sports Premier League HD
+http://vapi.vaders.tv/play/2482.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sky Sports Premier League
+http://vapi.vaders.tv/play/39824.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sky Sports F1 HD
+http://vapi.vaders.tv/play/2483.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sky Sports F1
+http://vapi.vaders.tv/play/39825.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sky Sports Arena HD
+http://vapi.vaders.tv/play/42361.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sky Sports Arena
+http://vapi.vaders.tv/play/47385.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sky Sports Football HD
+http://vapi.vaders.tv/play/42360.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sky Sports Football
+http://vapi.vaders.tv/play/47386.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sky Sports Mix HD
+http://vapi.vaders.tv/play/37235.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sky Sports Mix
+http://vapi.vaders.tv/play/39827.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sky Sports News HD
+http://vapi.vaders.tv/play/2570.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sky Sports News
+http://vapi.vaders.tv/play/39826.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,BT Sports 1 HD
+http://vapi.vaders.tv/play/2487.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,BT Sports 1
+http://vapi.vaders.tv/play/39828.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,BT Sports 2 HD
+http://vapi.vaders.tv/play/2488.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,BT Sports 2
+http://vapi.vaders.tv/play/39829.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,BT Sports 3 HD
+http://vapi.vaders.tv/play/2489.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,BT Sports 3
+http://vapi.vaders.tv/play/39830.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,BT Sports ESPN HD
+http://vapi.vaders.tv/play/2790.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,BT Sports ESPN
+http://vapi.vaders.tv/play/39831.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Eurosport 1 HD
+http://vapi.vaders.tv/play/19293.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Eurosport 2 HD
+http://vapi.vaders.tv/play/19294.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Chelsea TV HD
+http://vapi.vaders.tv/play/40881.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,MUTV HD
+http://vapi.vaders.tv/play/2589.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,LFC TV HD
+http://vapi.vaders.tv/play/3009.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Premier Sports HD
+http://vapi.vaders.tv/play/19296.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Racing UK HD
+http://vapi.vaders.tv/play/19295.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Motors TV UK
+http://vapi.vaders.tv/play/40683.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,At The Races
+http://vapi.vaders.tv/play/19297.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Eir Sports 1 HD
+http://vapi.vaders.tv/play/2593.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Boxnation
+http://vapi.vaders.tv/play/39646.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,CBS Sports Network HD
+http://vapi.vaders.tv/play/2789.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,BeIN Sports USA HD
+http://vapi.vaders.tv/play/2563.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,BeIN Sports Espanol HD
+http://vapi.vaders.tv/play/39855.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,BeIN Sports 11 HD
+http://vapi.vaders.tv/play/40879.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,BeIN Sports 12 HD
+http://vapi.vaders.tv/play/40880.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Fox Sports 1 HD
+http://vapi.vaders.tv/play/2568.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Fox Sports 2 HD
+http://vapi.vaders.tv/play/2569.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Fox Soccer Plus HD
+http://vapi.vaders.tv/play/52188.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Fox Deportes HD
+http://vapi.vaders.tv/play/52189.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Fox Sports Arizona HD
+http://vapi.vaders.tv/play/52190.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Fox Sports Carolina HD
+http://vapi.vaders.tv/play/52191.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Fox Sports Cincinnati HD
+http://vapi.vaders.tv/play/52192.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Fox Sports Detroit HD
+http://vapi.vaders.tv/play/52193.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Fox Sports Florida HD
+http://vapi.vaders.tv/play/52194.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Fox Sports Indiana HD
+http://vapi.vaders.tv/play/52195.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,CSN California HD
+http://vapi.vaders.tv/play/41143.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,CSN Chicago HD
+http://vapi.vaders.tv/play/41145.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,CSN Northwest HD
+http://vapi.vaders.tv/play/41144.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,CSN Bay Area HD
+http://vapi.vaders.tv/play/52120.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,CSN Mid Atlantic HD
+http://vapi.vaders.tv/play/52207.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,CSN New England HD
+http://vapi.vaders.tv/play/52206.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,CSN Philly HD
+http://vapi.vaders.tv/play/78564.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,NESN HD
+http://vapi.vaders.tv/play/52208.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,NESN Plus HD
+http://vapi.vaders.tv/play/52209.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,ESPN HD
+http://vapi.vaders.tv/play/2565.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,ESPN 2 HD
+http://vapi.vaders.tv/play/2566.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,ESPN U HD
+http://vapi.vaders.tv/play/2567.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,ESPNews HD
+http://vapi.vaders.tv/play/2564.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,ESPN Deportes HD
+http://vapi.vaders.tv/play/3136.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,MLB Network HD
+http://vapi.vaders.tv/play/2787.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,NBA TV HD
+http://vapi.vaders.tv/play/2788.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,NFL Network HD
+http://vapi.vaders.tv/play/2744.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,NHL Network HD
+http://vapi.vaders.tv/play/2786.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,YES Network HD
+http://vapi.vaders.tv/play/33511.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,WWE Network HD
+http://vapi.vaders.tv/play/3047.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,SEC Network HD
+http://vapi.vaders.tv/play/39621.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Big Ten Network HD
+http://vapi.vaders.tv/play/39861.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Longhorn Network HD
+http://vapi.vaders.tv/play/52210.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Tennis Channel HD
+http://vapi.vaders.tv/play/40876.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,PAC 12 Network HD
+http://vapi.vaders.tv/play/39848.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,PAC 12 Washington HD
+http://vapi.vaders.tv/play/39849.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,PAC 12 Oregon HD
+http://vapi.vaders.tv/play/39850.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,PAC 12 Los Angeles HD
+http://vapi.vaders.tv/play/39851.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,PAC 12 Mountain HD
+http://vapi.vaders.tv/play/39852.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,PAC 12 Arizona HD
+http://vapi.vaders.tv/play/39853.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,PAC 12 Bay Area HD
+http://vapi.vaders.tv/play/39854.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sportsnet 360 HD
+http://vapi.vaders.tv/play/2669.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sportsnet East HD
+http://vapi.vaders.tv/play/2694.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sportsnet One HD
+http://vapi.vaders.tv/play/2672.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sportsnet Ontario HD
+http://vapi.vaders.tv/play/2673.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sportsnet Pacific HD
+http://vapi.vaders.tv/play/2674.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sportsnet West HD
+http://vapi.vaders.tv/play/2671.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sportsnet World HD
+http://vapi.vaders.tv/play/2670.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,TSN 1 HD
+http://vapi.vaders.tv/play/2845.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,TSN 2 HD
+http://vapi.vaders.tv/play/2846.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,TSN 3 HD
+http://vapi.vaders.tv/play/2847.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,TSN 4 HD
+http://vapi.vaders.tv/play/2848.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,TSN 5 HD
+http://vapi.vaders.tv/play/2849.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,RDS HD
+http://vapi.vaders.tv/play/57579.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Univision Deportes HD
+http://vapi.vaders.tv/play/38911.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Gol TV HD
+http://vapi.vaders.tv/play/46466.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,UFC TV HD
+http://vapi.vaders.tv/play/42469.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Willow HD
+http://vapi.vaders.tv/play/3077.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,OSN Cricket HD
+http://vapi.vaders.tv/play/58787.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Ten Sports
+http://vapi.vaders.tv/play/12264.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,PTV Sports
+http://vapi.vaders.tv/play/8319.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Sony Six
+http://vapi.vaders.tv/play/8259.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Neo Prime
+http://vapi.vaders.tv/play/12295.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,CBS Sports HQ
+http://vapi.vaders.tv/play/77169.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,RDS 2 HD
+http://vapi.vaders.tv/play/77718.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Spectrum SportsNet LA HD
+http://vapi.vaders.tv/play/77882.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Spectrum SportsNet HD
+http://vapi.vaders.tv/play/77883.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,TVA Sports HD
+http://vapi.vaders.tv/play/73296.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,MAVTV HD
+http://vapi.vaders.tv/play/79263.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Golic and Wingo
+http://vapi.vaders.tv/play/2501.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,Snooker WC: Sheffield
+http://vapi.vaders.tv/play/2653.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,IIHF WC: Great Britain v Poland
+http://vapi.vaders.tv/play/2641.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,IPL: Royal Challengers Bangalore vs Chennai Super Kings
+http://vapi.vaders.tv/play/50321.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,IPL: Royal Challengers Bangalore vs Chennai Super Kings
+http://vapi.vaders.tv/play/2662.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,IPL: Royal Challengers Bangalore vs Chennai Super Kings
+http://vapi.vaders.tv/play/2661.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1,The Dan Patrick Show
+http://vapi.vaders.tv/play/2509.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
