@@ -1436,3 +1436,254 @@ http://vapi.vaders.tv/play/12261.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNz
 http://vapi.vaders.tv/play/8248.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Zee TV India [/COLOR]
 http://vapi.vaders.tv/play/39440.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+
+
+
+#EXTINF:-1 group-title="UKi",BBC One HD
+http://vapi.vaders.tv/play/2464.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",BBC One
+http://vapi.vaders.tv/play/39862.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",BBC Two HD
+http://vapi.vaders.tv/play/2467.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",BBC Two
+http://vapi.vaders.tv/play/39863.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",BBC Four HD
+http://vapi.vaders.tv/play/2469.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",BBC Four
+http://vapi.vaders.tv/play/39864.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",BBC News HD
+http://vapi.vaders.tv/play/38777.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",BBC News
+http://vapi.vaders.tv/play/39871.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Channel 4 HD
+http://vapi.vaders.tv/play/2476.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Channel 4
+http://vapi.vaders.tv/play/39865.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Channel 5 HD
+http://vapi.vaders.tv/play/2477.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Channel 5
+http://vapi.vaders.tv/play/39866.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",ITV 1 HD
+http://vapi.vaders.tv/play/2470.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",ITV 1
+http://vapi.vaders.tv/play/39867.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",ITV 2 HD
+http://vapi.vaders.tv/play/2471.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",ITV 2
+http://vapi.vaders.tv/play/39868.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",ITV 3 HD
+http://vapi.vaders.tv/play/2472.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",ITV 3
+http://vapi.vaders.tv/play/39869.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",ITV 4 HD
+http://vapi.vaders.tv/play/2473.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",ITV 4
+http://vapi.vaders.tv/play/39870.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",ITV Encore HD
+http://vapi.vaders.tv/play/2475.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",ITV Encore
+http://vapi.vaders.tv/play/39872.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Sky 1
+http://vapi.vaders.tv/play/2573.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Sky 2
+http://vapi.vaders.tv/play/2574.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Sky Arts
+http://vapi.vaders.tv/play/2575.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Sky Atlantic
+http://vapi.vaders.tv/play/2576.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Sky Living
+http://vapi.vaders.tv/play/2577.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Sky News HD
+http://vapi.vaders.tv/play/39630.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",E4
+http://vapi.vaders.tv/play/2571.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",More4
+http://vapi.vaders.tv/play/2572.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Pick TV
+http://vapi.vaders.tv/play/2578.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",5USA
+http://vapi.vaders.tv/play/34211.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",5STAR
+http://vapi.vaders.tv/play/34212.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",CBS Drama
+http://vapi.vaders.tv/play/34214.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",CBS Reality
+http://vapi.vaders.tv/play/34215.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",CBS Action
+http://vapi.vaders.tv/play/34213.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Comedy Central UK
+http://vapi.vaders.tv/play/39642.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Comedy Central Extra
+http://vapi.vaders.tv/play/39818.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Dave
+http://vapi.vaders.tv/play/34283.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Home
+http://vapi.vaders.tv/play/35001.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Gold
+http://vapi.vaders.tv/play/35162.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Eden HD
+http://vapi.vaders.tv/play/39819.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Universal Channel
+http://vapi.vaders.tv/play/35463.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Syfy UK
+http://vapi.vaders.tv/play/35661.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Lifetime UK
+http://vapi.vaders.tv/play/35748.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Yesterday
+http://vapi.vaders.tv/play/35756.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Drama
+http://vapi.vaders.tv/play/36174.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Watch
+http://vapi.vaders.tv/play/36175.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Really
+http://vapi.vaders.tv/play/36176.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Food Network UK
+http://vapi.vaders.tv/play/36177.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Good Food
+http://vapi.vaders.tv/play/36178.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Challenge
+http://vapi.vaders.tv/play/37245.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Alibi
+http://vapi.vaders.tv/play/37247.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",TLC UK
+http://vapi.vaders.tv/play/39028.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",ID UK
+http://vapi.vaders.tv/play/47372.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Crime + Investigation UK
+http://vapi.vaders.tv/play/50557.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Discovery Channel UK
+http://vapi.vaders.tv/play/39639.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Discovery Science UK
+http://vapi.vaders.tv/play/39817.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Discovery Turbo
+http://vapi.vaders.tv/play/39640.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Discovery History
+http://vapi.vaders.tv/play/39816.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Animal Planet UK
+http://vapi.vaders.tv/play/39641.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",National Geographic UK
+http://vapi.vaders.tv/play/39029.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Nat Geo Wild UK
+http://vapi.vaders.tv/play/72692.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Boomerang UK
+http://vapi.vaders.tv/play/37248.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Cartoon Network UK
+http://vapi.vaders.tv/play/37249.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Cartoonito UK
+http://vapi.vaders.tv/play/52252.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Nickelodeon UK
+http://vapi.vaders.tv/play/37250.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Nick Jr UK
+http://vapi.vaders.tv/play/37251.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Nick Jr Too UK
+http://vapi.vaders.tv/play/52255.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Nicktoons UK
+http://vapi.vaders.tv/play/52256.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",CBBC HD
+http://vapi.vaders.tv/play/37252.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",CBeebies
+http://vapi.vaders.tv/play/37253.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Disney Channel UK
+http://vapi.vaders.tv/play/37254.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Disney Junior UK
+http://vapi.vaders.tv/play/37255.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Disney XD UK
+http://vapi.vaders.tv/play/52253.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",BabyTV
+http://vapi.vaders.tv/play/39643.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Pop UK
+http://vapi.vaders.tv/play/52257.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Tiny Pop UK
+http://vapi.vaders.tv/play/52258.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Pop Max UK
+http://vapi.vaders.tv/play/52254.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",E! UK
+http://vapi.vaders.tv/play/39814.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",MTV UK
+http://vapi.vaders.tv/play/39815.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Fox UK
+http://vapi.vaders.tv/play/39837.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Sky 1 HD
+http://vapi.vaders.tv/play/72667.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Sky Cinema Drama HD
+http://vapi.vaders.tv/play/72668.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Sky Cinema Comedy HD
+http://vapi.vaders.tv/play/2743.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Sky Cinema Greats HD
+http://vapi.vaders.tv/play/2737.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Sky Cinema Premiere HD
+http://vapi.vaders.tv/play/2738.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Sky Cinema Sci-Fi & Horror HD
+http://vapi.vaders.tv/play/39813.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Sky Cinema Thriller HD
+http://vapi.vaders.tv/play/2739.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",RTE One
+http://vapi.vaders.tv/play/16923.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",RTE Two
+http://vapi.vaders.tv/play/16931.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",RTE Jr
+http://vapi.vaders.tv/play/16933.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",TG4
+http://vapi.vaders.tv/play/16944.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",TV3
+http://vapi.vaders.tv/play/16945.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",UTV HD
+http://vapi.vaders.tv/play/16946.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",3e
+http://vapi.vaders.tv/play/16947.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Cinemax
+http://vapi.vaders.tv/play/7936.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Cinemax 5 Star
+http://vapi.vaders.tv/play/7947.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Cinemax Actionmax
+http://vapi.vaders.tv/play/7946.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Cinemax Moremax
+http://vapi.vaders.tv/play/7945.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",HBO HD
+http://vapi.vaders.tv/play/7859.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",HBO2 HD
+http://vapi.vaders.tv/play/64791.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",HBO Family HD
+http://vapi.vaders.tv/play/59092.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",HBO Comedy HD
+http://vapi.vaders.tv/play/7860.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",HBO Signature HD
+http://vapi.vaders.tv/play/7857.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",HBO Zone HD
+http://vapi.vaders.tv/play/7944.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Starz HD
+http://vapi.vaders.tv/play/39873.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Starz Kids & Family
+http://vapi.vaders.tv/play/3122.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Starz Encore
+http://vapi.vaders.tv/play/3123.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Starz Edge
+http://vapi.vaders.tv/play/3119.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Starz Comedy
+http://vapi.vaders.tv/play/3121.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Showtime HD
+http://vapi.vaders.tv/play/39637.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Showtime 2 HD
+http://vapi.vaders.tv/play/39638.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Showtime Extreme HD
+http://vapi.vaders.tv/play/64457.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Epix HD
+http://vapi.vaders.tv/play/39636.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Epix 2 HD
+http://vapi.vaders.tv/play/39635.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Epix Hits HD
+http://vapi.vaders.tv/play/39634.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Sky Cinema Select HD
+http://vapi.vaders.tv/play/2736.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Sky Cinema Family HD
+http://vapi.vaders.tv/play/2741.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Sky Cinema Disney HD
+http://vapi.vaders.tv/play/2742.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Sky Cinema Action HD
+http://vapi.vaders.tv/play/74519.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",Sky Cinema Hits HD
+http://vapi.vaders.tv/play/2735.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",The Movie Channel HD
+http://vapi.vaders.tv/play/74789.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 group-title="UKi",HDNet Movies HD
+http://vapi.vaders.tv/play/74791.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
