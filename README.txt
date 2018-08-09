@@ -1348,3 +1348,91 @@ http://vapi.vaders.tv/play/2661.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29
 #EXTINF:0, group-title="English Vapi Server",The Dan Patrick Show
 http://vapi.vaders.tv/play/2509.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Colors India[/COLOR] 
+http://vapi.vaders.tv/play/12300.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Dawn News[/COLOR]
+http://vapi.vaders.tv/play/39472.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Discovery Kids India[/COLOR]
+http://vapi.vaders.tv/play/39443.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Geo Entertainment[/COLOR]
+http://vapi.vaders.tv/play/39470.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Geo Kahani[/COLOR]
+http://vapi.vaders.tv/play/39469.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Geo News[/COLOR]
+http://vapi.vaders.tv/play/8247.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Geo Super[/COLOR]
+http://vapi.vaders.tv/play/8249.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Hadi TV[/COLOR]
+http://vapi.vaders.tv/play/39468.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Hum Masala TV[/COLOR]
+http://vapi.vaders.tv/play/39462.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Hum Sitary[/COLOR]
+http://vapi.vaders.tv/play/39467.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Hum TV[/COLOR]
+http://vapi.vaders.tv/play/8252.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Hum World[/COLOR]
+http://vapi.vaders.tv/play/8275.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Kashish[/COLOR]
+http://vapi.vaders.tv/play/39466.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Khyber News[/COLOR]
+http://vapi.vaders.tv/play/39465.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]KTN Entertainment[/COLOR]
+http://vapi.vaders.tv/play/39464.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]MTA Urdu[/COLOR]
+http://vapi.vaders.tv/play/39627.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]MTV India[/COLOR]
+http://vapi.vaders.tv/play/19290.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]NDTV India[/COLOR]
+http://vapi.vaders.tv/play/39406.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Nick Sonic India[/COLOR]
+http://vapi.vaders.tv/play/8256.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]PTV Global[/COLOR]
+http://vapi.vaders.tv/play/39457.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]PTV Home[/COLOR]
+http://vapi.vaders.tv/play/39456.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]PTV News[/COLOR]
+http://vapi.vaders.tv/play/39455.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]PTV Sports[/COLOR]
+http://vapi.vaders.tv/play/8319.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]PTV World[/COLOR]
+http://vapi.vaders.tv/play/39454.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Sindh News[/COLOR]
+http://vapi.vaders.tv/play/39452.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Sindh TV[/COLOR]
+http://vapi.vaders.tv/play/39451.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Sony Max India [/COLOR]
+http://vapi.vaders.tv/play/12286.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Sony Mix[/COLOR]
+http://vapi.vaders.tv/play/12285.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Sony Pal[/COLOR]
+http://vapi.vaders.tv/play/12284.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Sony Rox [/COLOR]
+http://vapi.vaders.tv/play/56698.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Sony SAB [/COLOR]
+http://vapi.vaders.tv/play/48009.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Sony TV India [/COLOR]
+http://vapi.vaders.tv/play/12279.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Star Bharat India [/COLOR]
+http://vapi.vaders.tv/play/39438.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Star Gold India [/COLOR]
+http://vapi.vaders.tv/play/34272.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Star Gold Select [/COLOR]
+http://vapi.vaders.tv/play/38774.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Star Plus India [/COLOR]
+http://vapi.vaders.tv/play/12275.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Star TV[/COLOR]
+http://vapi.vaders.tv/play/39625.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Star World [/COLOR]
+http://vapi.vaders.tv/play/12266.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Star World Premier [/COLOR]
+http://vapi.vaders.tv/play/38775.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]TLC India[/COLOR]
+http://vapi.vaders.tv/play/39626.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Urdu 1[/COLOR]
+http://vapi.vaders.tv/play/39447.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Zee Cinema India[/COLOR] 
+http://vapi.vaders.tv/play/12261.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Zee Classic[/COLOR]
+http://vapi.vaders.tv/play/8248.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Zee TV India [/COLOR]
+http://vapi.vaders.tv/play/39440.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
