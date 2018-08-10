@@ -4,7 +4,8 @@
 https://wv110.jiocdn.us/hls/pg47cr4ouxqeoikcw6dlzr72beopavfm3astcopkd,5tdukxt2aim3oecu6ka,g7dukxt2aig5x53towa,.urlset/master.m3u8
 
 #EXTINF:0, group-title="On Demand",Indian Idol 4 Aug
-https://wv107.jiocdn.us/hls/,pg47coumuxqeoikcw6dlzbfoilpxa6an4jbyurmcxo5ofsgkguyo4ftjrvqa,.urlset/master.m3u8
+https://wv125.jiocdn.us/hls/,pg47crumuxqeoikcw6dlzwnga37viikja3yeskfp6cwjyozw4r3tfwfcpeoa,.urlset/master.m3u8
+
 ----------------------------------------------------
 
 #EXTINF:0, group-title="Movie",& Pictures HD
