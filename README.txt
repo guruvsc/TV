@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:0, group-title="On Demand",Splitsvilla Ep 01
-https://wv111.jiocdn.us/hls/,pg47cgxquxqeoikcw6dlzqxnjph6de4klsos7lfsgihohgcuryz4a4s6zoya,.urlset/master.m3u8
+#EXTINF:0, group-title="On Demand",Indian Idol
+https://wv110.jiocdn.us/hls/pg47cr4ouxqeoikcw6dlzr72beopavfm3astcopkd,5tdukxt2aim3oecu6ka,g7dukxt2aig5x53towa,.urlset/master.m3u8
 
 #EXTINF:0, group-title="On Demand",Mulk
 https://wv111.jiocdn.us/hls/,pg47cd4nuxqeoikcw6dlzrfjcqewhlicpw42dsjxmifawpktedlt6kmmjsua,.urlset/master.m3u8
