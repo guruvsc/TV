@@ -3,9 +3,8 @@
 #EXTINF:0, group-title="On Demand",Indian Idol
 https://wv110.jiocdn.us/hls/pg47cr4ouxqeoikcw6dlzr72beopavfm3astcopkd,5tdukxt2aim3oecu6ka,g7dukxt2aig5x53towa,.urlset/master.m3u8
 
-#EXTINF:0, group-title="On Demand",Mulk
-https://wv111.jiocdn.us/hls/,pg47cd4nuxqeoikcw6dlzrfjcqewhlicpw42dsjxmifawpktedlt6kmmjsua,.urlset/master.m3u8
-
+#EXTINF:0, group-title="On Demand",Indian Idol 4 Aug
+https://wv107.jiocdn.us/hls/,pg47coumuxqeoikcw6dlzbfoilpxa6an4jbyurmcxo5ofsgkguyo4ftjrvqa,.urlset/master.m3u8
 ----------------------------------------------------
 
 #EXTINF:0, group-title="Movie",& Pictures HD
