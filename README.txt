@@ -3,8 +3,10 @@
 #EXTINF:0, group-title="On Demand",Splitsvilla Ep 01
 https://wv111.jiocdn.us/hls/,pg47cgxquxqeoikcw6dlzqxnjph6de4klsos7lfsgihohgcuryz4a4s6zoya,.urlset/master.m3u8
 
-#EXTINF:0, group-title="On Demand",Indian Idol 5 Aug
-https://wv110.jiocdn.us/hls/pg47cr4ouxqeoikcw6dlzr72beopavfm3astcopkd,5tdukxt2aimrlecu6ka,g7dukxt2aigxs53towa,.urlset/master.m3u8
+#EXTINF:0, group-title="On Demand",Mulk
+https://wv111.jiocdn.us/hls/,pg47cd4nuxqeoikcw6dlzrfjcqewhlicpw42dsjxmifawpktedlt6kmmjsua,.urlset/master.m3u8
+
+----------------------------------------------------
 
 #EXTINF:0, group-title="Movie",& Pictures HD
 https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
@@ -33,14 +35,14 @@ https://z5ams.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Movie",Zee Action
 https://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
 
-#EXTINF:0, group-title="Movie",Zee Anmol
-https://z5ams.akamaized.net/zeeanmol/tracks-v1a1/index.m3u8
 
 #EXTINF:0, group-title="Movie",Zee Cinema
 https://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 
 #EXTINF:0, group-title="Movie",Zee Classic
 http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
+
+-----------------------------------------------------------------------
 
 #EXTINF:0, group-title="Music",Sony Rox HD Airtel
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/04.m3u8
@@ -84,6 +86,8 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:0, group-title="Music",Masti TV
 http://cdn.samtv.ca/mastitv/index.m3u8
 
+-------------------------------------------------------------------
+
 #EXTINF:0, group-title="News",Aaj Tak
 https://z5ams.akamaized.net/aajtak/tracks-v1a1/index.m3u8
 
@@ -114,11 +118,28 @@ https://etv-mp.akamaized.net/i/etv_mp_hls_1@175737/index_5_av-p.m3u8
 #EXTINF:0, group-title="News",India News
 https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/master.m3u8
 
+#EXTINF:0, group-title="News",ABC News
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+
+#EXTINF:0, group-title="News",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:0, group-title="News",MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+
+-------------------------------------------------------
+
 #EXTINF:0, group-title="Entertainment",Zee TV HD
 https://z5ams.akamaized.net/zeetvhd/tracks-v2a1/index.m3u8
 
 #EXTINF:0, group-title="Entertainment",Sony TV HD
 http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="Entertainment",Colors India[/COLOR] 
+http://vapi.vaders.tv/play/12300.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="Entertainment",Star Plus India 
+http://vapi.vaders.tv/play/12275.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
 
 #EXTINF:0, group-title="Entertainment",& TV HD
 https://z5ams.akamaized.net/andtvhd/tracks-v2a1/index.m3u8
@@ -135,6 +156,8 @@ https://z5ams.akamaized.net/hindustan/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Entertainment",Zee Magic
 https://z5ams.akamaized.net/magic/tracks-v1a1/index.m3u8
 
+-----------------------------------------------------------------
+
 #EXTINF:0, group-title="Documentary",Sony BBC Earth
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226068/04.m3u8
 
@@ -143,6 +166,8 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 
 #EXTINF:0, group-title="Documentary",Discovery
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/04.m3u8
+
+---------------------------------------------------------------------------
 
 #EXTINF:0, group-title="Sports",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
@@ -200,14 +225,9 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:0, group-title="Sports",Ten 3 HD
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/1.m3u8
 
-#EXTINF:0, group-title="English",ABC News
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+----------------------------------------------------------------
 
-#EXTINF:0, group-title="English",CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:0, group-title="English",MSNBC
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", 90s
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC140/playlist.m3u8
@@ -258,6 +278,7 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC137/playl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Y2K
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC145/playlist.m3u8
 
+----------------------------------------------------------------------------
 
 #EXTINF:-1,group-title="USA",NBC
 http://mobilecache.streamlive.to:8081/edge/kjgkefh6la1di6g/playlist.m3u8
@@ -452,388 +473,8 @@ http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/32137.ts
 #EXTINF:-1,group-title="USA",World Fishing Network
 http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/32136.ts
 
-#EXTINF:0,group-title="India Backup", &pictures HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34791.ts
-#EXTINF:0,group-title="India Backup", &prive HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34783.ts
-#EXTINF:0,group-title="India Backup", &tv HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34802.ts
-#EXTINF:0,group-title="India Backup", 5aab TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34727.ts
-#EXTINF:0,group-title="India Backup", ADSport1 HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34959.ts
-#EXTINF:0,group-title="India Backup", ADSport2 HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34958.ts
-#EXTINF:0,group-title="India Backup", AXN HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34782.ts
-#EXTINF:0,group-title="India Backup", Aaj Tak
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34967.ts
-#EXTINF:0,group-title="India Backup", Aastha
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34732.ts
-#EXTINF:0,group-title="India Backup", Adithya TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34957.ts
-#EXTINF:0,group-title="India Backup", Angel TV HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34956.ts
-#EXTINF:0,group-title="India Backup", Animal Planet HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34767.ts
-#EXTINF:0,group-title="India Backup", BBC Toronto
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34726.ts
-#EXTINF:0,group-title="India Backup", BBC World News
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34965.ts
-#EXTINF:0,group-title="India Backup", BnB
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34725.ts
-#EXTINF:0,group-title="India Backup", Captain News
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34955.ts
-#EXTINF:0,group-title="India Backup", Captain TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34954.ts
-#EXTINF:0,group-title="India Backup", Cartoon Network
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34734.ts
-#EXTINF:0,group-title="India Backup", Cartoon Network (Tamil)
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34953.ts
-#EXTINF:0,group-title="India Backup", Cauvery News
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34952.ts
-#EXTINF:0,group-title="India Backup", Chutti TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34951.ts
-#EXTINF:0,group-title="India Backup", Cine Voice
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34724.ts
-#EXTINF:0,group-title="India Backup", Colors HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34805.ts
-#EXTINF:0,group-title="India Backup", DD Podhigai
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34950.ts
-#EXTINF:0,group-title="India Backup", DD Punjabi
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34723.ts
-#EXTINF:0,group-title="India Backup", DPD Punjabi HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34721.ts
-#EXTINF:0,group-title="India Backup", Desi Beats HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34968.ts
-#EXTINF:0,group-title="India Backup", Desi Channel
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34722.ts
-#EXTINF:0,group-title="India Backup", Discovery Channel (Tamil)
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34949.ts
-#EXTINF:0,group-title="India Backup", Discovery HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34762.ts
-#EXTINF:0,group-title="India Backup", Discovery Kids (Tamil)
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34948.ts
-#EXTINF:0,group-title="India Backup", Discovery Science
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34761.ts
-#EXTINF:0,group-title="India Backup", Divya Tv
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34963.ts
-#EXTINF:0,group-title="India Backup", Dsport HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34756.ts
-#EXTINF:0,group-title="India Backup", Epic
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34801.ts
-#EXTINF:0,group-title="India Backup", FYI TV18
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34760.ts
-#EXTINF:0,group-title="India Backup", Global Punjab
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34718.ts
-#EXTINF:0,group-title="India Backup", Global Sanjh
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34717.ts
-#EXTINF:0,group-title="India Backup", Gurbaani TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34716.ts
-#EXTINF:0,group-title="India Backup", Gurmit Channel
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34962.ts
-#EXTINF:0,group-title="India Backup", HBO HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34781.ts
-#EXTINF:0,group-title="India Backup", History  HD (Tamil)
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34947.ts
-#EXTINF:0,group-title="India Backup", History TV18 HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34766.ts
-#EXTINF:0,group-title="India Backup", India Today
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34966.ts
-#EXTINF:0,group-title="India Backup", Jhanjar HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34714.ts
-#EXTINF:0,group-title="India Backup", Jio Cricket English
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34758.ts
-#EXTINF:0,group-title="India Backup", Jio Sports
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34747.ts
-#EXTINF:0,group-title="India Backup", KTV HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34946.ts
-#EXTINF:0,group-title="India Backup", Life Punjabi
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34713.ts
-#EXTINF:0,group-title="India Backup", Living Foodz HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34765.ts
-#EXTINF:0,group-title="India Backup", Living India News
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34712.ts
-#EXTINF:0,group-title="India Backup", Lotus News
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34945.ts
-#EXTINF:0,group-title="India Backup", MK Mtunes
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34942.ts
-#EXTINF:0,group-title="India Backup", MK TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34941.ts
-#EXTINF:0,group-title="India Backup", MN  HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34780.ts
-#EXTINF:0,group-title="India Backup", MTV Beats HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34773.ts
-#EXTINF:0,group-title="India Backup", Makkal TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34944.ts
-#EXTINF:0,group-title="India Backup", Malai Murasu
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34943.ts
-#EXTINF:0,group-title="India Backup", Mh1 News
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34710.ts
-#EXTINF:0,group-title="India Backup", Movies Now 2 HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34779.ts
-#EXTINF:0,group-title="India Backup", Movies Now HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34777.ts
-#EXTINF:0,group-title="India Backup", Movies ok
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34784.ts
-#EXTINF:0,group-title="India Backup", NDA Channel
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34709.ts
-#EXTINF:0,group-title="India Backup", Nambikkai
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34940.ts
-#EXTINF:0,group-title="India Backup", News 18 TN
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34939.ts
-#EXTINF:0,group-title="India Backup", News 7 Tamil
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34938.ts
-#EXTINF:0,group-title="India Backup", Nick (Tamil)
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34937.ts
-#EXTINF:0,group-title="India Backup", PBN Music
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34708.ts
-#EXTINF:0,group-title="India Backup", Peppers TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34936.ts
-#EXTINF:0,group-title="India Backup", Pogo
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34733.ts
-#EXTINF:0,group-title="India Backup", Pogo (Tamil)
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34935.ts
-#EXTINF:0,group-title="India Backup", Polimer
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34934.ts
-#EXTINF:0,group-title="India Backup", Polimer News
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34933.ts
-#EXTINF:0,group-title="India Backup", Prime Asia
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34707.ts
-#EXTINF:0,group-title="India Backup", Puthiya Thalimurai
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34932.ts
-#EXTINF:0,group-title="India Backup", Puthu Yugam
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34931.ts
-#EXTINF:0,group-title="India Backup", Raj Digital Plus
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34930.ts
-#EXTINF:0,group-title="India Backup", Raj Musix
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34929.ts
-#EXTINF:0,group-title="India Backup", Raj News 24x7
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34928.ts
-#EXTINF:0,group-title="India Backup", Raj TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34926.ts
-#EXTINF:0,group-title="India Backup", Rishtey
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34796.ts
-#EXTINF:0,group-title="India Backup", Romedy Now HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34776.ts
-#EXTINF:0,group-title="India Backup", SAB HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34806.ts
-#EXTINF:0,group-title="India Backup", SONY BBC Earth HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34764.ts
-#EXTINF:0,group-title="India Backup", SSTV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34704.ts
-#EXTINF:0,group-title="India Backup", STAR JALSHA
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34746.ts
-#EXTINF:0,group-title="India Backup", STAR PLUS
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34793.ts
-#EXTINF:0,group-title="India Backup", STAR SPORTS 1
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34755.ts
-#EXTINF:0,group-title="India Backup", STAR SPORTS 2
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34754.ts
-#EXTINF:0,group-title="India Backup", Sahana
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34925.ts
-#EXTINF:0,group-title="India Backup", Sai TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34924.ts
-#EXTINF:0,group-title="India Backup", Sanjha Punjab
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34706.ts
-#EXTINF:0,group-title="India Backup", Sanskar
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34731.ts
-#EXTINF:0,group-title="India Backup", Sathiyam
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34923.ts
-#EXTINF:0,group-title="India Backup", Satsang TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34730.ts
-#EXTINF:0,group-title="India Backup", Sikh Channel
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34705.ts
-#EXTINF:0,group-title="India Backup", Sonic (Tamil)
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34922.ts
-#EXTINF:0,group-title="India Backup", Sony BBC Earth HD (Tamil)
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34921.ts
-#EXTINF:0,group-title="India Backup", Sony ESPN HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34748.ts
-#EXTINF:0,group-title="India Backup", Sony HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34807.ts
-#EXTINF:0,group-title="India Backup", Sony Le PLEX HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34778.ts
-#EXTINF:0,group-title="India Backup", Sony Max 2
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34787.ts
-#EXTINF:0,group-title="India Backup", Sony Max HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34788.ts
-#EXTINF:0,group-title="India Backup", Sony Mix
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34771.ts
-#EXTINF:0,group-title="India Backup", Sony Pal
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34795.ts
-#EXTINF:0,group-title="India Backup", Sony Pix HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34775.ts
-#EXTINF:0,group-title="India Backup", Sony Rox HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34772.ts
-#EXTINF:0,group-title="India Backup", Sony Six HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34753.ts
-#EXTINF:0,group-title="India Backup", Sony Ten 1 HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34752.ts
-#EXTINF:0,group-title="India Backup", Sony Ten 2 HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34751.ts
-#EXTINF:0,group-title="India Backup", Sony Ten 3 HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34750.ts
-#EXTINF:0,group-title="India Backup", Sony Yay (Tamil)
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34920.ts
-#EXTINF:0,group-title="India Backup", Star Bharat HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34798.ts
-#EXTINF:0,group-title="India Backup", Star Gold HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34790.ts
-#EXTINF:0,group-title="India Backup", Star Plus HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34803.ts
-#EXTINF:0,group-title="India Backup", Star Sports Select 2 HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34757.ts
-#EXTINF:0,group-title="India Backup", Star Utsav
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34797.ts
-#EXTINF:0,group-title="India Backup", Star Vijay HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34919.ts
-#EXTINF:0,group-title="India Backup", Steelbird Music
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34703.ts
-#EXTINF:0,group-title="India Backup", Sun Life
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34918.ts
-#EXTINF:0,group-title="India Backup", Sun Music
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34917.ts
-#EXTINF:0,group-title="India Backup", Sun News
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34916.ts
-#EXTINF:0,group-title="India Backup", Sun TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34915.ts
-#EXTINF:0,group-title="India Backup", Sun TV HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34914.ts
-#EXTINF:0,group-title="India Backup", TIMES NOW HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34738.ts
-#EXTINF:0,group-title="India Backup", TLC HD WORLD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34763.ts
-#EXTINF:0,group-title="India Backup", Tag TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34702.ts
-#EXTINF:0,group-title="India Backup", Ten Golf HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34749.ts
-#EXTINF:0,group-title="India Backup", Thanthi TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34913.ts
-#EXTINF:0,group-title="India Backup", Travel XP (Tamil)
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34912.ts
-#EXTINF:0,group-title="India Backup", Travel XP HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34759.ts
-#EXTINF:0,group-title="India Backup", Tunes 6 Music
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34911.ts
-#EXTINF:0,group-title="India Backup", Urdu TV Toronto
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34960.ts
-#EXTINF:0,group-title="India Backup", Vasanth
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34910.ts
-#EXTINF:0,group-title="India Backup", Vendhar TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34909.ts
-#EXTINF:0,group-title="India Backup", Virsa Live
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34700.ts
-#EXTINF:0,group-title="India Backup", Warner Bros
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34774.ts
-#EXTINF:0,group-title="India Backup", Wion
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34737.ts
-#EXTINF:0,group-title="India Backup", Zee Action
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34786.ts
-#EXTINF:0,group-title="India Backup", Zee Anmol
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34794.ts
-#EXTINF:0,group-title="India Backup", Zee Bangla
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34745.ts
-#EXTINF:0,group-title="India Backup", Zee Business
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34741.ts
-#EXTINF:0,group-title="India Backup", Zee Cafe HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34800.ts
-#EXTINF:0,group-title="India Backup", Zee Cinema HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34789.ts
-#EXTINF:0,group-title="India Backup", Zee Classic
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34785.ts
-#EXTINF:0,group-title="India Backup", Zee ETC
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34969.ts
-#EXTINF:0,group-title="India Backup", Zee Hindustan
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34740.ts
-#EXTINF:0,group-title="India Backup", Zee Marathi HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34744.ts
-#EXTINF:0,group-title="India Backup", Zee News
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34739.ts
-#EXTINF:0,group-title="India Backup", Zee Punjabi
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34728.ts
-#EXTINF:0,group-title="India Backup", Zee Studio HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34799.ts
-#EXTINF:0,group-title="India Backup", Zee TV HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34804.ts
-#EXTINF:0,group-title="India Backup", Zee Tamil
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34908.ts
-#EXTINF:0,group-title="India Backup", Zing
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34770.ts
-#EXTINF:0,IND-: & TV HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34857.ts
-#EXTINF:0,IND-: &TV UK
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34856.ts
-#EXTINF:0,IND-: AAJ TAK UK
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34855.ts
-#EXTINF:0,IND-: AASTHA UK
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34854.ts
-#EXTINF:0,IND-: AND PICTURE HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34852.ts
-#EXTINF:0,IND-: AXN HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34851.ts
-#EXTINF:0,IND-: B4U MOVIES
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34850.ts
-#EXTINF:0,IND-: B4U MUSIC UK
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34849.ts
-#EXTINF:0,IND-: COLORS HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34847.ts
-#EXTINF:0,IND-: HISTORY HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34844.ts
-#EXTINF:0,IND-: MATV NATIONAL UK
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34842.ts
-#EXTINF:0,IND-: NDTV 24x7 UK
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34840.ts
-#EXTINF:0,IND-: PTC PUNJABI UK
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34839.ts
-#EXTINF:0,IND-: RISHTEY UK
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34837.ts
-#EXTINF:0,IND-: SONY HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34835.ts
-#EXTINF:0,IND-: SONY LE PLEX HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34834.ts
-#EXTINF:0,IND-: SONY MAX HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34833.ts
-#EXTINF:0,IND-: SONY MAX UK
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34832.ts
-#EXTINF:0,IND-: SONY MIX UK
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34831.ts
-#EXTINF:0,IND-: SONY SAB HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34829.ts
-#EXTINF:0,IND-: SONY SAB UK
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34828.ts
-#EXTINF:0,IND-: SONY SIX HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34827.ts
-#EXTINF:0,IND-: SONY TV ASIA UK
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34826.ts
-#EXTINF:0,IND-: STAR BHARAT UK
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34825.ts
-#EXTINF:0,IND-: STAR GOLD HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34824.ts
-#EXTINF:0,IND-: STAR GOLD UK
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34823.ts
-#EXTINF:0,IND-: STAR PLUS HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34822.ts
-#EXTINF:0,IND-: STAR PLUS UK
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34821.ts
-#EXTINF:0,IND-: STAR SELECT 2 HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34820.ts
-#EXTINF:0,IND-: STAR SPORTS 1 HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34819.ts
-#EXTINF:0,IND-: STAR SPORTS 2 HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34818.ts
-#EXTINF:0,IND-: TEN 1 HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34816.ts
-#EXTINF:0,IND-: TEN 2 HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34815.ts
-#EXTINF:0,IND-: TEN 3 HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34814.ts
-#EXTINF:0,IND-: ZEE CINEMA HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34813.ts
-#EXTINF:0,IND-: ZEE TV HD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34812.ts
-#EXTINF:0,IND-: ZEE TV UK
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34811.ts
+------------------------------------------------------------------
+
 
 #EXTINF:0, group-title="English Vapi Server",ABC HD
 http://vapi.vaders.tv/play/2435.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
@@ -1348,342 +989,320 @@ http://vapi.vaders.tv/play/2661.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29
 #EXTINF:0, group-title="English Vapi Server",The Dan Patrick Show
 http://vapi.vaders.tv/play/2509.ts?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Colors India[/COLOR] 
+---------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Colors India[/COLOR] 
 http://vapi.vaders.tv/play/12300.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Dawn News[/COLOR]
-http://vapi.vaders.tv/play/39472.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Discovery Kids India[/COLOR]
-http://vapi.vaders.tv/play/39443.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Geo Entertainment[/COLOR]
-http://vapi.vaders.tv/play/39470.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Geo Kahani[/COLOR]
-http://vapi.vaders.tv/play/39469.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Geo News[/COLOR]
-http://vapi.vaders.tv/play/8247.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Geo Super[/COLOR]
-http://vapi.vaders.tv/play/8249.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Hadi TV[/COLOR]
-http://vapi.vaders.tv/play/39468.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Hum Masala TV[/COLOR]
-http://vapi.vaders.tv/play/39462.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Hum Sitary[/COLOR]
-http://vapi.vaders.tv/play/39467.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Hum TV[/COLOR]
-http://vapi.vaders.tv/play/8252.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Hum World[/COLOR]
-http://vapi.vaders.tv/play/8275.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Kashish[/COLOR]
-http://vapi.vaders.tv/play/39466.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Khyber News[/COLOR]
-http://vapi.vaders.tv/play/39465.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]KTN Entertainment[/COLOR]
-http://vapi.vaders.tv/play/39464.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]MTA Urdu[/COLOR]
-http://vapi.vaders.tv/play/39627.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]MTV India[/COLOR]
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",MTV India
 http://vapi.vaders.tv/play/19290.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]NDTV India[/COLOR]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]NDTV India
 http://vapi.vaders.tv/play/39406.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Nick Sonic India[/COLOR]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Nick Sonic India
 http://vapi.vaders.tv/play/8256.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]PTV Global[/COLOR]
-http://vapi.vaders.tv/play/39457.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]PTV Home[/COLOR]
-http://vapi.vaders.tv/play/39456.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]PTV News[/COLOR]
-http://vapi.vaders.tv/play/39455.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]PTV Sports[/COLOR]
-http://vapi.vaders.tv/play/8319.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]PTV World[/COLOR]
-http://vapi.vaders.tv/play/39454.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Sindh News[/COLOR]
-http://vapi.vaders.tv/play/39452.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Sindh TV[/COLOR]
-http://vapi.vaders.tv/play/39451.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Sony Max India [/COLOR]
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Sony Max India 
 http://vapi.vaders.tv/play/12286.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Sony Mix[/COLOR]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Sony Mix
 http://vapi.vaders.tv/play/12285.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Sony Pal[/COLOR]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Sony Pal
 http://vapi.vaders.tv/play/12284.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Sony Rox [/COLOR]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Sony Rox 
 http://vapi.vaders.tv/play/56698.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Sony SAB [/COLOR]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Sony SAB 
 http://vapi.vaders.tv/play/48009.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Sony TV India [/COLOR]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Sony TV India 
 http://vapi.vaders.tv/play/12279.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Star Bharat India [/COLOR]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Star Bharat India 
 http://vapi.vaders.tv/play/39438.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Star Gold India [/COLOR]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Star Gold India 
 http://vapi.vaders.tv/play/34272.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Star Gold Select [/COLOR]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Star Gold Select 
 http://vapi.vaders.tv/play/38774.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Star Plus India [/COLOR]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Star Plus India 
 http://vapi.vaders.tv/play/12275.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Star TV[/COLOR]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Star TV
 http://vapi.vaders.tv/play/39625.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Star World [/COLOR]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Star World 
 http://vapi.vaders.tv/play/12266.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Star World Premier [/COLOR]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Star World Premier 
 http://vapi.vaders.tv/play/38775.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]TLC India[/COLOR]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",TLC India
 http://vapi.vaders.tv/play/39626.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Urdu 1[/COLOR]
-http://vapi.vaders.tv/play/39447.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Zee Cinema India[/COLOR] 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Zee Cinema India 
 http://vapi.vaders.tv/play/12261.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR red]Zee Classic[/COLOR]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Zee Classic
 http://vapi.vaders.tv/play/8248.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]Zee TV India [/COLOR]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Zee TV India 
 http://vapi.vaders.tv/play/39440.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
 
+------------------------------------------------------------
 
-
-#EXTINF:-1 group-title="UKi",BBC One HD
+#EXTINF:-1 group-title="UK",BBC One HD
 http://vapi.vaders.tv/play/2464.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",BBC One
+#EXTINF:-1 group-title="UK",BBC One
 http://vapi.vaders.tv/play/39862.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",BBC Two HD
+#EXTINF:-1 group-title="UK",BBC Two HD
 http://vapi.vaders.tv/play/2467.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",BBC Two
+#EXTINF:-1 group-title="UK",BBC Two
 http://vapi.vaders.tv/play/39863.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",BBC Four HD
+#EXTINF:-1 group-title="UK",BBC Four HD
 http://vapi.vaders.tv/play/2469.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",BBC Four
+#EXTINF:-1 group-title="UK",BBC Four
 http://vapi.vaders.tv/play/39864.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",BBC News HD
+#EXTINF:-1 group-title="UK",BBC News HD
 http://vapi.vaders.tv/play/38777.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",BBC News
+#EXTINF:-1 group-title="UK",BBC News
 http://vapi.vaders.tv/play/39871.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Channel 4 HD
+#EXTINF:-1 group-title="UK",Channel 4 HD
 http://vapi.vaders.tv/play/2476.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Channel 4
+#EXTINF:-1 group-title="UK",Channel 4
 http://vapi.vaders.tv/play/39865.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Channel 5 HD
+#EXTINF:-1 group-title="UK",Channel 5 HD
 http://vapi.vaders.tv/play/2477.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Channel 5
+#EXTINF:-1 group-title="UK",Channel 5
 http://vapi.vaders.tv/play/39866.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",ITV 1 HD
+#EXTINF:-1 group-title="UK",ITV 1 HD
 http://vapi.vaders.tv/play/2470.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",ITV 1
+#EXTINF:-1 group-title="UK",ITV 1
 http://vapi.vaders.tv/play/39867.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",ITV 2 HD
+#EXTINF:-1 group-title="UK",ITV 2 HD
 http://vapi.vaders.tv/play/2471.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",ITV 2
+#EXTINF:-1 group-title="UK",ITV 2
 http://vapi.vaders.tv/play/39868.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",ITV 3 HD
+#EXTINF:-1 group-title="UK",ITV 3 HD
 http://vapi.vaders.tv/play/2472.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",ITV 3
+#EXTINF:-1 group-title="UK",ITV 3
 http://vapi.vaders.tv/play/39869.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",ITV 4 HD
+#EXTINF:-1 group-title="UK",ITV 4 HD
 http://vapi.vaders.tv/play/2473.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",ITV 4
+#EXTINF:-1 group-title="UK",ITV 4
 http://vapi.vaders.tv/play/39870.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",ITV Encore HD
+#EXTINF:-1 group-title="UK",ITV Encore HD
 http://vapi.vaders.tv/play/2475.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",ITV Encore
+#EXTINF:-1 group-title="UK",ITV Encore
 http://vapi.vaders.tv/play/39872.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Sky 1
+#EXTINF:-1 group-title="UK",Sky 1
 http://vapi.vaders.tv/play/2573.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Sky 2
+#EXTINF:-1 group-title="UK",Sky 2
 http://vapi.vaders.tv/play/2574.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Sky Arts
+#EXTINF:-1 group-title="UK",Sky Arts
 http://vapi.vaders.tv/play/2575.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Sky Atlantic
+#EXTINF:-1 group-title="UK",Sky Atlantic
 http://vapi.vaders.tv/play/2576.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Sky Living
+#EXTINF:-1 group-title="UK",Sky Living
 http://vapi.vaders.tv/play/2577.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Sky News HD
+#EXTINF:-1 group-title="UK",Sky News HD
 http://vapi.vaders.tv/play/39630.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",E4
+#EXTINF:-1 group-title="UK",E4
 http://vapi.vaders.tv/play/2571.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",More4
+#EXTINF:-1 group-title="UK",More4
 http://vapi.vaders.tv/play/2572.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Pick TV
+#EXTINF:-1 group-title="UK",Pick TV
 http://vapi.vaders.tv/play/2578.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",5USA
+#EXTINF:-1 group-title="UK",5USA
 http://vapi.vaders.tv/play/34211.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",5STAR
+#EXTINF:-1 group-title="UK",5STAR
 http://vapi.vaders.tv/play/34212.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",CBS Drama
+#EXTINF:-1 group-title="UK",CBS Drama
 http://vapi.vaders.tv/play/34214.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",CBS Reality
+#EXTINF:-1 group-title="UK",CBS Reality
 http://vapi.vaders.tv/play/34215.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",CBS Action
+#EXTINF:-1 group-title="UK",CBS Action
 http://vapi.vaders.tv/play/34213.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Comedy Central UK
+#EXTINF:-1 group-title="UK",Comedy Central UK
 http://vapi.vaders.tv/play/39642.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Comedy Central Extra
+#EXTINF:-1 group-title="UK",Comedy Central Extra
 http://vapi.vaders.tv/play/39818.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Dave
+#EXTINF:-1 group-title="UK",Dave
 http://vapi.vaders.tv/play/34283.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Home
+#EXTINF:-1 group-title="UK",Home
 http://vapi.vaders.tv/play/35001.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Gold
+#EXTINF:-1 group-title="UK",Gold
 http://vapi.vaders.tv/play/35162.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Eden HD
+#EXTINF:-1 group-title="UK",Eden HD
 http://vapi.vaders.tv/play/39819.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Universal Channel
+#EXTINF:-1 group-title="UK",Universal Channel
 http://vapi.vaders.tv/play/35463.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Syfy UK
+#EXTINF:-1 group-title="UK",Syfy UK
 http://vapi.vaders.tv/play/35661.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Lifetime UK
+#EXTINF:-1 group-title="UK",Lifetime UK
 http://vapi.vaders.tv/play/35748.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Yesterday
+#EXTINF:-1 group-title="UK",Yesterday
 http://vapi.vaders.tv/play/35756.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Drama
+#EXTINF:-1 group-title="UK",Drama
 http://vapi.vaders.tv/play/36174.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Watch
+#EXTINF:-1 group-title="UK",Watch
 http://vapi.vaders.tv/play/36175.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Really
+#EXTINF:-1 group-title="UK",Really
 http://vapi.vaders.tv/play/36176.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Food Network UK
+#EXTINF:-1 group-title="UK",Food Network UK
 http://vapi.vaders.tv/play/36177.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Good Food
+#EXTINF:-1 group-title="UK",Good Food
 http://vapi.vaders.tv/play/36178.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Challenge
+#EXTINF:-1 group-title="UK",Challenge
 http://vapi.vaders.tv/play/37245.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Alibi
+#EXTINF:-1 group-title="UK",Alibi
 http://vapi.vaders.tv/play/37247.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",TLC UK
+#EXTINF:-1 group-title="UK",TLC UK
 http://vapi.vaders.tv/play/39028.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",ID UK
+#EXTINF:-1 group-title="UK",ID UK
 http://vapi.vaders.tv/play/47372.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Crime + Investigation UK
+#EXTINF:-1 group-title="UK",Crime + Investigation UK
 http://vapi.vaders.tv/play/50557.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Discovery Channel UK
+#EXTINF:-1 group-title="UK",Discovery Channel UK
 http://vapi.vaders.tv/play/39639.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Discovery Science UK
+#EXTINF:-1 group-title="UK",Discovery Science UK
 http://vapi.vaders.tv/play/39817.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Discovery Turbo
+#EXTINF:-1 group-title="UK",Discovery Turbo
 http://vapi.vaders.tv/play/39640.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Discovery History
+#EXTINF:-1 group-title="UK",Discovery History
 http://vapi.vaders.tv/play/39816.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Animal Planet UK
+#EXTINF:-1 group-title="UK",Animal Planet UK
 http://vapi.vaders.tv/play/39641.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",National Geographic UK
+#EXTINF:-1 group-title="UK",National Geographic UK
 http://vapi.vaders.tv/play/39029.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Nat Geo Wild UK
+#EXTINF:-1 group-title="UK",Nat Geo Wild UK
 http://vapi.vaders.tv/play/72692.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Boomerang UK
+#EXTINF:-1 group-title="UK",Boomerang UK
 http://vapi.vaders.tv/play/37248.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Cartoon Network UK
+#EXTINF:-1 group-title="UK",Cartoon Network UK
 http://vapi.vaders.tv/play/37249.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Cartoonito UK
+#EXTINF:-1 group-title="UK",Cartoonito UK
 http://vapi.vaders.tv/play/52252.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Nickelodeon UK
+#EXTINF:-1 group-title="UK",Nickelodeon UK
 http://vapi.vaders.tv/play/37250.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Nick Jr UK
+#EXTINF:-1 group-title="UK",Nick Jr UK
 http://vapi.vaders.tv/play/37251.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Nick Jr Too UK
+#EXTINF:-1 group-title="UK",Nick Jr Too UK
 http://vapi.vaders.tv/play/52255.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Nicktoons UK
+#EXTINF:-1 group-title="UK",Nicktoons UK
 http://vapi.vaders.tv/play/52256.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",CBBC HD
+#EXTINF:-1 group-title="UK",CBBC HD
 http://vapi.vaders.tv/play/37252.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",CBeebies
+#EXTINF:-1 group-title="UK",CBeebies
 http://vapi.vaders.tv/play/37253.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Disney Channel UK
+#EXTINF:-1 group-title="UK",Disney Channel UK
 http://vapi.vaders.tv/play/37254.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Disney Junior UK
+#EXTINF:-1 group-title="UK",Disney Junior UK
 http://vapi.vaders.tv/play/37255.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Disney XD UK
+#EXTINF:-1 group-title="UK",Disney XD UK
 http://vapi.vaders.tv/play/52253.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",BabyTV
+#EXTINF:-1 group-title="UK",BabyTV
 http://vapi.vaders.tv/play/39643.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Pop UK
+#EXTINF:-1 group-title="UK",Pop UK
 http://vapi.vaders.tv/play/52257.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Tiny Pop UK
+#EXTINF:-1 group-title="UK",Tiny Pop UK
 http://vapi.vaders.tv/play/52258.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Pop Max UK
+#EXTINF:-1 group-title="UK",Pop Max UK
 http://vapi.vaders.tv/play/52254.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",E! UK
+#EXTINF:-1 group-title="UK",E! UK
 http://vapi.vaders.tv/play/39814.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",MTV UK
+#EXTINF:-1 group-title="UK",MTV UK
 http://vapi.vaders.tv/play/39815.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Fox UK
+#EXTINF:-1 group-title="UK",Fox UK
 http://vapi.vaders.tv/play/39837.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Sky 1 HD
+#EXTINF:-1 group-title="UK",Sky 1 HD
 http://vapi.vaders.tv/play/72667.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Sky Cinema Drama HD
+#EXTINF:-1 group-title="UK",Sky Cinema Drama HD
 http://vapi.vaders.tv/play/72668.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Sky Cinema Comedy HD
+#EXTINF:-1 group-title="UK",Sky Cinema Comedy HD
 http://vapi.vaders.tv/play/2743.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Sky Cinema Greats HD
+#EXTINF:-1 group-title="UK",Sky Cinema Greats HD
 http://vapi.vaders.tv/play/2737.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Sky Cinema Premiere HD
+#EXTINF:-1 group-title="UK",Sky Cinema Premiere HD
 http://vapi.vaders.tv/play/2738.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Sky Cinema Sci-Fi & Horror HD
+#EXTINF:-1 group-title="UK",Sky Cinema Sci-Fi & Horror HD
 http://vapi.vaders.tv/play/39813.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Sky Cinema Thriller HD
+#EXTINF:-1 group-title="UK",Sky Cinema Thriller HD
 http://vapi.vaders.tv/play/2739.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",RTE One
+#EXTINF:-1 group-title="UK",RTE One
 http://vapi.vaders.tv/play/16923.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",RTE Two
+#EXTINF:-1 group-title="UK",RTE Two
 http://vapi.vaders.tv/play/16931.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",RTE Jr
+#EXTINF:-1 group-title="UK",RTE Jr
 http://vapi.vaders.tv/play/16933.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",TG4
+#EXTINF:-1 group-title="UK",TG4
 http://vapi.vaders.tv/play/16944.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",TV3
+#EXTINF:-1 group-title="UK",TV3
 http://vapi.vaders.tv/play/16945.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",UTV HD
+#EXTINF:-1 group-title="UK",UTV HD
 http://vapi.vaders.tv/play/16946.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",3e
+#EXTINF:-1 group-title="UK",3e
 http://vapi.vaders.tv/play/16947.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Cinemax
+#EXTINF:-1 group-title="UK",Cinemax
 http://vapi.vaders.tv/play/7936.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Cinemax 5 Star
+#EXTINF:-1 group-title="UK",Cinemax 5 Star
 http://vapi.vaders.tv/play/7947.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Cinemax Actionmax
+#EXTINF:-1 group-title="UK",Cinemax Actionmax
 http://vapi.vaders.tv/play/7946.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Cinemax Moremax
+#EXTINF:-1 group-title="UK",Cinemax Moremax
 http://vapi.vaders.tv/play/7945.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",HBO HD
+#EXTINF:-1 group-title="UK",HBO HD
 http://vapi.vaders.tv/play/7859.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",HBO2 HD
+#EXTINF:-1 group-title="UK",HBO2 HD
 http://vapi.vaders.tv/play/64791.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",HBO Family HD
+#EXTINF:-1 group-title="UK",HBO Family HD
 http://vapi.vaders.tv/play/59092.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",HBO Comedy HD
+#EXTINF:-1 group-title="UK",HBO Comedy HD
 http://vapi.vaders.tv/play/7860.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",HBO Signature HD
+#EXTINF:-1 group-title="UK",HBO Signature HD
 http://vapi.vaders.tv/play/7857.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",HBO Zone HD
+#EXTINF:-1 group-title="UK",HBO Zone HD
 http://vapi.vaders.tv/play/7944.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Starz HD
+#EXTINF:-1 group-title="UK",Starz HD
 http://vapi.vaders.tv/play/39873.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Starz Kids & Family
+#EXTINF:-1 group-title="UK",Starz Kids & Family
 http://vapi.vaders.tv/play/3122.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Starz Encore
+#EXTINF:-1 group-title="UK",Starz Encore
 http://vapi.vaders.tv/play/3123.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Starz Edge
+#EXTINF:-1 group-title="UK",Starz Edge
 http://vapi.vaders.tv/play/3119.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Starz Comedy
+#EXTINF:-1 group-title="UK",Starz Comedy
 http://vapi.vaders.tv/play/3121.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Showtime HD
+#EXTINF:-1 group-title="UK",Showtime HD
 http://vapi.vaders.tv/play/39637.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Showtime 2 HD
+#EXTINF:-1 group-title="UK",Showtime 2 HD
 http://vapi.vaders.tv/play/39638.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Showtime Extreme HD
+#EXTINF:-1 group-title="UK",Showtime Extreme HD
 http://vapi.vaders.tv/play/64457.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Epix HD
+#EXTINF:-1 group-title="UK",Epix HD
 http://vapi.vaders.tv/play/39636.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Epix 2 HD
+#EXTINF:-1 group-title="UK",Epix 2 HD
 http://vapi.vaders.tv/play/39635.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Epix Hits HD
+#EXTINF:-1 group-title="UK",Epix Hits HD
 http://vapi.vaders.tv/play/39634.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Sky Cinema Select HD
+#EXTINF:-1 group-title="UK",Sky Cinema Select HD
 http://vapi.vaders.tv/play/2736.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Sky Cinema Family HD
+#EXTINF:-1 group-title="UK",Sky Cinema Family HD
 http://vapi.vaders.tv/play/2741.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Sky Cinema Disney HD
+#EXTINF:-1 group-title="UK",Sky Cinema Disney HD
 http://vapi.vaders.tv/play/2742.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Sky Cinema Action HD
+#EXTINF:-1 group-title="UK",Sky Cinema Action HD
 http://vapi.vaders.tv/play/74519.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",Sky Cinema Hits HD
+#EXTINF:-1 group-title="UK",Sky Cinema Hits HD
 http://vapi.vaders.tv/play/2735.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",The Movie Channel HD
+#EXTINF:-1 group-title="UK",The Movie Channel HD
 http://vapi.vaders.tv/play/74789.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
-#EXTINF:-1 group-title="UKi",HDNet Movies HD
+#EXTINF:-1 group-title="UK",HDNet Movies HD
 http://vapi.vaders.tv/play/74791.m3u8?token=eyJ1c2VybmFtZSI6ImZhd255NDMiLCJwYXNzd29yZCI6InR1Y2tlcjAyIn0=
