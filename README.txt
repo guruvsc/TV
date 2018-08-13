@@ -1,11 +1,13 @@
 #EXTM3U
 
-#EXTINF:0, group-title="On Demand",Indian Idol 11 Aug
-https://wv140.jiocdn.us/hls/pg47cagtuxqeoikcw6clzdh2joczvjh5v3qovfyzs,tx4237ukeoc7sd5urhq,i34237ukeonmdpdizpq,.urlset/master.m3u8
+#EXTINF:0, group-title="On Demand",Dance Deewane 11 Aug
+https://wv125.jiocdn.us/hls/,pg47dag2uxqeoikcw6clzuficaszb3owr7do7xbvbqrhfwcsijebdt2inqtq,.urlset/master.m3u8
 
-#EXTINF:0, group-title="On Demand",Mulk
-https://wv111.jiocdn.us/hls/,pg47cd4nuxqeoikcw6dlzrfjcqewhlicpw42dsjxmifawpktedlt6kmmjsua,.urlset/master.m3u8
+#EXTINF:0, group-title="On Demand",Dance Deewane 12 Aug
+https://wv125.jiocdn.us/hls/,pg47dqo2uxqeoikcw6clzrpwdi4ztkxkv3ciwzcbemgcgtnjpyuusq736qeq,.urlset/master.m3u8
 
+#EXTINF:0, group-title="On Demand",Dil Hai Hindustani 7 July
+https://wv140.jiocdn.us/hls/pg47clywuxqeoikcw6plzux4dd3ai6dzfhhgahvzr,lidnrile5zhqn7rjmkq,qednrile5zovignrvjq,.urlset/master.m3u8
 ----------------------------------------------------
 
 #EXTINF:0, group-title="Movie",& Pictures HD
