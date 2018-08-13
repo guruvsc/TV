@@ -8,6 +8,10 @@ https://wv125.jiocdn.us/hls/,pg47dqo2uxqeoikcw6clzrpwdi4ztkxkv3ciwzcbemgcgtnjpyu
 
 #EXTINF:0, group-title="On Demand",Dil Hai Hindustani 7 July
 https://wv140.jiocdn.us/hls/pg47clywuxqeoikcw6plzux4dd3ai6dzfhhgahvzr,lidnrile5zhqn7rjmkq,qednrile5zovignrvjq,.urlset/master.m3u8
+
+#EXTINF:0, group-title="On Demand",Khajoor Pe
+
+https://wv108.jiocdn.us/hls/,pg47dx7duxqeoikcw6c3zrhsc7ajghv2k63wm3traztetw4kyfl3elf46oka,.urlset/master.m3u8
 ----------------------------------------------------
 
 #EXTINF:0, group-title="Movie",& Pictures HD
