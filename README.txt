@@ -3,8 +3,8 @@
 #EXTINF:0, group-title="On Demand",Dil Hai Hindustani 28 July
 https://wv106.jiocdn.us/hls/pg47dyniuxqeoikcw6mlztpndv6x7whnypnq4cih7,ktiuk67ovlsxhdiyoiq,r7iuk67ovl6j2e44uuq,.urlset/master.m3u8
 
-#EXTINF:0, group-title="On Demand",Satyamev
-https://wv121.jiocdn.us/hls/,pg47dbonuxqeoikcw6b3zqxrab46corn7oyivj5eblglrzrzhfqy77iyersa,.urlset/master.m3u8
+#EXTINF:0, group-title="On Demand",Indian Idol 18 Aug
+https://wv140.jiocdn.us/hls/pg47dgr3u3qeoikcw6blzq5mbhi5qkm36goug7ub4,kslnx3qanffpguaocxa,r6lnx3qanfjdabb4mrq,.urlset/master.m3u8
 
 #EXTINF:0, group-title="On Demand",Gold
 https://wv122.jiocdn.us/hls/,pg47cjjvu3qeoikcw6blzv7paeick54ah3txa72osw43633w452ac7q7b5ra,.urlset/master.m3u8
