@@ -9,8 +9,8 @@ https://cache33.vidoza.net/x4lfy2kenvzpvjumxbpuqxcuvnwodhfodywssncddglni5yeyfmay
 #EXTINF:0, group-title="On Demand",Indian Idol 19 Aug
 https://wv122.jiocdn.us/hls/pg47c5r7u3qeoikcw6blzwvgiz7tnydwv6ccopmfx,hwralyp7smev77itmqq,42ralyp7sml76ceyrjq,.urlset/master.m3u8
 
-#EXTINF:0, group-title="On Demand",Gold
-https://wv122.jiocdn.us/hls/,pg47cjjvu3qeoikcw6blzv7paeick54ah3txa72osw43633w452ac7q7b5ra,.urlset/master.m3u8
+#EXTINF:0, group-title="On Demand",Satyamev Jayate
+https://17wy0tw.oloadcdn.net/dl/l/ShS5-8dKu6BCvL5N/Qg4Y5TI7BWY/Satyameva+Jayate+%282018%29+Hindi+DVDScr+x264+AAC+700+MB.mkv.mp4?mime=true
 
 ----------------------------------------------------
 
