@@ -139,7 +139,7 @@ https://z5ams.akamaized.net/zeetvhd/tracks-v2a1/index.m3u8
 http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="Entertainment",Colors India
-http://vapi.vaders.tv/play/12300.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://50.7.198.170:8081/Ind/COLORSHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="Entertainment",Star Plus India 
 http://50.7.198.170:8081/Ind/STARPLUS/playlist.m3u8
