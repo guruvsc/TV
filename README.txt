@@ -7,7 +7,7 @@ https://wv106.jiocdn.us/hls/pg47dyniuxqeoikcw6mlztpndv6x7whnypnq4cih7,ktiuk67ovl
 https://cache33.vidoza.net/x4lfy2kenvzpvjumxbpuqxcuvnwodhfodywssncddglni5yeyfmaycllj4wa/v.mp4
 
 #EXTINF:0, group-title="On Demand",Indian Idol 19 Aug
-https://str17.vidoza.net/x4lfy3yznvzpvjumxbiuqscf5o4eok4qqhlpavvrzbrltteolbkhh4dawaiq/v.mp4
+https://wv122.jiocdn.us/hls/pg47c5r7u3qeoikcw6blzwvgiz7tnydwv6ccopmfx,hwralyp7smev77itmqq,42ralyp7sml76ceyrjq,.urlset/master.m3u8
 
 #EXTINF:0, group-title="On Demand",Gold
 https://wv122.jiocdn.us/hls/,pg47cjjvu3qeoikcw6blzv7paeick54ah3txa72osw43633w452ac7q7b5ra,.urlset/master.m3u8
