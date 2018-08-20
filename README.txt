@@ -1,10 +1,7 @@
 #EXTM3U
 
 #EXTINF:0, group-title="On Demand",Splitsvilla 12 Aug
-https://str03.vidoza.net/x4lfietsmjzpvjumxbhuqtcr54drf2cfgqwnrwcxrqmm2ygz5khhudlkudzq/v.mp4
-
-#EXTINF:0, group-title="On Demand",Splitsvilla 12 Aug Source 2
-https://wv109.jiocdn.us/hls/pg47cw6yuxqeoikcw6clzapujogklfjop6r7wa3xo,wil7kbrmi6fqlfsqxha,nel7kbrmi6oyiehbk4q,.urlset/master.m3u8
+https://wv109.jiocdn.us/hls/pg47cw6yuxqeoikcw6clzapujogklfjop6r7wa3xo,wil7kbrmi6hejvtqxha,nel7kbrmi6mmkugbk4q,.urlset/master.m3u8
 
 #EXTINF:0, group-title="On Demand",Indian Idol 18 Aug
 https://cache33.vidoza.net/x4lfy2kenvzpvjumxbpuqxcuvnwodhfodywssncddglni5yeyfmaycllj4wa/v.mp4
