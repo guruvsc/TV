@@ -53,6 +53,9 @@ http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Music",Sony Rox HD Airtel
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/04.m3u8
 
+#EXTINF:0, group-title="Music",MTV India
+http://50.7.198.170:8081/Ind/MTVINDIA/playlist.m3u8
+
 #EXTINF:0, group-title="Music",E24
 http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226010/04.m3u8
 
@@ -89,8 +92,8 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Music",9XO
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226028/4.m3u8
 
-#EXTINF:0, group-title="Music",Masti TV
-http://cdn.samtv.ca/mastitv/index.m3u8
+#EXTINF:0, group-title="Music",MTV India
+http://50.7.198.170:8081/Ind/MTVINDIA/playlist.m3u8
 
 -------------------------------------------------------------------
 
