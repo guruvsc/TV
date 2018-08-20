@@ -141,23 +141,23 @@ http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 
 -------------------------------------------------------
 
-#EXTINF:0, group-title="Entertainment",Zee TV HD
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/ZeeHD2011.jpg" group-title="Entertainment",Zee TV HD
 https://z5ams.akamaized.net/zeetvhd/tracks-v2a1/index.m3u8
 
-#EXTINF:0, group-title="Entertainment",Sony TV HD
-http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="Entertainment",Colors India
+#EXTINF:-1 tvg-logo="http://colorstv.com/lara-colors/colors/modules/cm/season02/assets/images/color_logo.png" group-title="Entertainment",Colors India
 http://50.7.198.170:8081/Ind/COLORSHD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="Entertainment",Star Plus India 
+#EXTINF:-1 tvg-logo="https://images.adgully.com/img/400x300/201702/star-plus-new-logo.jpg" group-title="Entertainment",Star Plus UK
 http://50.7.198.170:8081/Ind/STARPLUS/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="Entertainment",Star Plus US
+#EXTINF:-1 tvg-logo="https://images.adgully.com/img/400x300/201702/star-plus-new-logo.jpg" group-title="Entertainment",Star Plus India
 http://50.7.198.170:8081/Ind/STARPLUSHD/playlist.m3u8
 
 #EXTINF:0, group-title="Entertainment",& TV HD
 https://z5ams.akamaized.net/andtvhd/tracks-v2a1/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",Sony TV HD
+http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/04.m3u8
 
 #EXTINF:0, group-title="Entertainment",Discovery Jeet
 http://cshms1.airtel.tv/wh7f454c46tw1565302381_1163892044/PLTV/88888888/224/3221226479/04.m3u8
@@ -170,6 +170,10 @@ https://z5ams.akamaized.net/hindustan/tracks-v1a1/index.m3u8
 
 #EXTINF:0, group-title="Entertainment",Zee Magic
 https://z5ams.akamaized.net/magic/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",DD India
+http://z5ams.akamaized.net/ddindia/tracks-v1a1/index.m3u8
+
 
 -----------------------------------------------------------------
 
