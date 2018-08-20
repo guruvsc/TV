@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:0, group-title="On Demand",Dil Hai Hindustani 29 July
-https://wv110.jiocdn.us/hls/pg47cmfnuxqeoikcw6mlzrvpizgauw6umb6g7uwsf,ybp5jaxpiydwew5362q,dnp5jaxpiyixfsriewq,.urlset/master.m3u8
+#EXTINF:0, group-title="On Demand",Splitsvilla 12 Aug
+https://str03.vidoza.net/x4lfietsmjzpvjumxbhuqtcr54drf2cfgqwnrwcxrqmm2ygz5khhudlkudzq/v.mp4
 
 #EXTINF:0, group-title="On Demand",Indian Idol 18 Aug
 https://cache33.vidoza.net/x4lfy2kenvzpvjumxbpuqxcuvnwodhfodywssncddglni5yeyfmaycllj4wa/v.mp4
