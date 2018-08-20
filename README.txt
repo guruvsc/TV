@@ -192,28 +192,28 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
 #EXTINF:0, group-title="Sports",Willow HD
-http://vapi.vaders.tv/play/3077.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/3077.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 #EXTINF:0, group-title="Sports",Sky Sports Cricket HD
-http://vapi.vaders.tv/play/2479.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2479.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="Sports", Ten Cricket HD
-http://vapi.vaders.tv/play/79285.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/79285.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="Sports", Star Sports 1 HD
-http://vapi.vaders.tv/play/37198.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/37198.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="Sports", Star Sports 2 HD
-http://vapi.vaders.tv/play/37199.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/37199.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="Sports", Star Sports 1 Select HD
-http://vapi.vaders.tv/play/37200.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/37200.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="Sports", Star Sports 2 Select HD
-http://vapi.vaders.tv/play/37201.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/37201.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 #EXTINF:0, group-title="Sports",DD Sports
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226346/04.m3u8
 
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="Sports", PTV Sports
-http://vapi.vaders.tv/play/79288.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/79288.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 #EXTINF:0, group-title="Sports",Dsports HD
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
@@ -496,832 +496,832 @@ http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/32136.ts
 
 
 #EXTINF:0, group-title="English Vapi Server",ABC HD
-http://vapi.vaders.tv/play/2435.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2435.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",CBS HD
-http://vapi.vaders.tv/play/2440.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2440.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",NBC HD
-http://vapi.vaders.tv/play/2455.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2455.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",FOX HD
-http://vapi.vaders.tv/play/2448.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2448.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",CW HD
-http://vapi.vaders.tv/play/8198.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/8198.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",A&E HD
-http://vapi.vaders.tv/play/2463.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2463.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",AMC HD
-http://vapi.vaders.tv/play/2436.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2436.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Food Network HD
-http://vapi.vaders.tv/play/2913.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2913.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Cooking Channel HD
-http://vapi.vaders.tv/play/52259.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52259.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Animal Planet HD
-http://vapi.vaders.tv/play/2437.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2437.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Bravo HD
-http://vapi.vaders.tv/play/2438.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2438.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Cartoon Network HD
-http://vapi.vaders.tv/play/2439.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2439.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Fox Business HD
-http://vapi.vaders.tv/play/34023.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/34023.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",CNBC HD
-http://vapi.vaders.tv/play/2441.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2441.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",MSNBC HD
-http://vapi.vaders.tv/play/3082.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/3082.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",CNN News HD
-http://vapi.vaders.tv/play/2442.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2442.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Comedy Central HD
-http://vapi.vaders.tv/play/2443.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2443.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Destination America HD
-http://vapi.vaders.tv/play/39437.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39437.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Discovery Channel HD
-http://vapi.vaders.tv/play/2445.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2445.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Discovery Family HD
-http://vapi.vaders.tv/play/47566.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/47566.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Discovery Science HD
-http://vapi.vaders.tv/play/54628.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/54628.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Discovery Life HD
-http://vapi.vaders.tv/play/54868.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/54868.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Nat Geo HD
-http://vapi.vaders.tv/play/2754.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2754.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Nat Geo Wild HD
-http://vapi.vaders.tv/play/50910.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/50910.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",History HD
-http://vapi.vaders.tv/play/2915.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2915.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Fox News HD
-http://vapi.vaders.tv/play/2449.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2449.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Weather Channel HD
-http://vapi.vaders.tv/play/40877.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/40877.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",FX HD
-http://vapi.vaders.tv/play/2451.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2451.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",FXX HD
-http://vapi.vaders.tv/play/2452.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2452.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",FXM HD
-http://vapi.vaders.tv/play/56409.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/56409.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",El Rey Network HD
-http://vapi.vaders.tv/play/38912.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/38912.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Nick HD
-http://vapi.vaders.tv/play/2460.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2460.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Nick Jr HD
-http://vapi.vaders.tv/play/38910.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/38910.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Disney Channel HD
-http://vapi.vaders.tv/play/8197.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/8197.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Disney Jr HD
-http://vapi.vaders.tv/play/39421.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39421.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Disney XD HD
-http://vapi.vaders.tv/play/2762.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2762.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",FreeForm HD
-http://vapi.vaders.tv/play/2450.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2450.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Universal Kids HD
-http://vapi.vaders.tv/play/56461.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/56461.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Lifetime HD
-http://vapi.vaders.tv/play/2465.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2465.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Paramount Network HD
-http://vapi.vaders.tv/play/2457.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2457.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",TBS HD
-http://vapi.vaders.tv/play/2461.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2461.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",TNT HD
-http://vapi.vaders.tv/play/2459.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2459.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",USA Network HD
-http://vapi.vaders.tv/play/2462.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2462.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Velocity HD
-http://vapi.vaders.tv/play/2776.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2776.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Travel Channel HD
-http://vapi.vaders.tv/play/39874.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39874.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Outdoor Channel HD
-http://vapi.vaders.tv/play/40878.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/40878.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",ID HD
-http://vapi.vaders.tv/play/7941.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/7941.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Oxygen HD
-http://vapi.vaders.tv/play/40685.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/40685.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",SYFY HD
-http://vapi.vaders.tv/play/2458.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2458.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sundance HD
-http://vapi.vaders.tv/play/2780.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2780.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",OWN HD
-http://vapi.vaders.tv/play/2779.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2779.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",BBC America HD
-http://vapi.vaders.tv/play/2456.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2456.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",HGTV HD
-http://vapi.vaders.tv/play/2454.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2454.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",DIY Network HD
-http://vapi.vaders.tv/play/40663.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/40663.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",American Heroes Channel HD
-http://vapi.vaders.tv/play/74790.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/74790.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Hallmark Channel HD
-http://vapi.vaders.tv/play/2453.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2453.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Hallmark Movies & Mysteries HD
-http://vapi.vaders.tv/play/39629.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39629.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Reelz HD
-http://vapi.vaders.tv/play/47564.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/47564.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Tru TV HD
-http://vapi.vaders.tv/play/2466.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2466.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Revolt HD
-http://vapi.vaders.tv/play/56459.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/56459.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Fusion HD
-http://vapi.vaders.tv/play/56457.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/56457.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Fuse HD
-http://vapi.vaders.tv/play/56452.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/56452.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",GSN HD
-http://vapi.vaders.tv/play/39847.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39847.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",POP HD
-http://vapi.vaders.tv/play/56460.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/56460.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",CMT HD
-http://vapi.vaders.tv/play/47565.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/47565.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",FYI HD
-http://vapi.vaders.tv/play/56458.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/56458.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",TLC HD
-http://vapi.vaders.tv/play/2777.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2777.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",PBS HD
-http://vapi.vaders.tv/play/2774.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2774.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",BET HD
-http://vapi.vaders.tv/play/8246.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/8246.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",IFC HD
-http://vapi.vaders.tv/play/2773.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2773.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",LMN HD
-http://vapi.vaders.tv/play/16705.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/16705.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",MTV HD
-http://vapi.vaders.tv/play/12901.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/12901.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",MTV2 HD
-http://vapi.vaders.tv/play/57842.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/57842.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",E! HD
-http://vapi.vaders.tv/play/2760.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2760.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",VH1 HD
-http://vapi.vaders.tv/play/39363.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39363.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",WE TV HD
-http://vapi.vaders.tv/play/55523.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/55523.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Viceland HD
-http://vapi.vaders.tv/play/16318.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/16318.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",AXS TV HD
-http://vapi.vaders.tv/play/74788.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/74788.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",TVLand HD
-http://vapi.vaders.tv/play/40662.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/40662.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",TVOne HD
-http://vapi.vaders.tv/play/40695.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/40695.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Daystar HD
-http://vapi.vaders.tv/play/53874.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/53874.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",CBN HD
-http://vapi.vaders.tv/play/54866.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/54866.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",SBN HD
-http://vapi.vaders.tv/play/54867.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/54867.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",TBN HD
-http://vapi.vaders.tv/play/54865.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/54865.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Fight Tyme
-http://vapi.vaders.tv/play/58781.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/58781.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",QVC HD
-http://vapi.vaders.tv/play/72666.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/72666.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Impact Network
-http://vapi.vaders.tv/play/64458.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/64458.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Bloomberg HD
-http://vapi.vaders.tv/play/64186.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/64186.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",ABC Atlanta HD
-http://vapi.vaders.tv/play/52211.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52211.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",ABC Chicago HD
-http://vapi.vaders.tv/play/52213.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52213.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",ABC Dallas HD
-http://vapi.vaders.tv/play/52214.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52214.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",ABC Los Angeles HD
-http://vapi.vaders.tv/play/52216.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52216.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",ABC Miami HD
-http://vapi.vaders.tv/play/52217.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52217.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",ABC New York HD
-http://vapi.vaders.tv/play/52218.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52218.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",ABC San Diego HD
-http://vapi.vaders.tv/play/2767.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2767.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",CBS Atlanta HD
-http://vapi.vaders.tv/play/52227.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52227.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",CBS Chicago HD
-http://vapi.vaders.tv/play/52229.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52229.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",CBS Los Angeles HD
-http://vapi.vaders.tv/play/52235.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52235.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",CBS Miami HD
-http://vapi.vaders.tv/play/52236.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52236.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",CBS New York HD
-http://vapi.vaders.tv/play/52237.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52237.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",CBS Phoenix HD
-http://vapi.vaders.tv/play/73280.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/73280.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",FOX Atlanta HD
-http://vapi.vaders.tv/play/52219.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52219.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",FOX Chicago HD
-http://vapi.vaders.tv/play/52221.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52221.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",FOX Dallas HD
-http://vapi.vaders.tv/play/52222.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52222.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",FOX Los Angeles HD
-http://vapi.vaders.tv/play/52224.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52224.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",FOX Miami HD
-http://vapi.vaders.tv/play/52225.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52225.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",FOX New York HD
-http://vapi.vaders.tv/play/52226.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52226.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",FOX San Diego HD
-http://vapi.vaders.tv/play/2770.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2770.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",NBC Chicago HD
-http://vapi.vaders.tv/play/52239.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52239.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",NBC Dallas HD
-http://vapi.vaders.tv/play/52240.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52240.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Golf Channel HD
-http://vapi.vaders.tv/play/2561.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2561.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",NBC Los Angeles HD
-http://vapi.vaders.tv/play/52242.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52242.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",NBC Miami HD
-http://vapi.vaders.tv/play/52243.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52243.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",NBC New York HD
-http://vapi.vaders.tv/play/52244.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52244.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",NBC San Diego HD
-http://vapi.vaders.tv/play/2769.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2769.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",NBC Sports Network HD
-http://vapi.vaders.tv/play/2562.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2562.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Fox Sports North HD
-http://vapi.vaders.tv/play/52196.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52196.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Fox Sports Ohio HD
-http://vapi.vaders.tv/play/52197.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52197.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Fox Sports San Diego HD
-http://vapi.vaders.tv/play/52198.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52198.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Fox Sports South East HD
-http://vapi.vaders.tv/play/52201.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52201.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Fox Sports South Georgia HD
-http://vapi.vaders.tv/play/52199.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52199.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Fox Sports South HD
-http://vapi.vaders.tv/play/52200.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52200.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Fox Sports Sun HD
-http://vapi.vaders.tv/play/52202.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52202.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Fox Sports Tennessee HD
-http://vapi.vaders.tv/play/52203.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52203.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Fox Sports West HD
-http://vapi.vaders.tv/play/52204.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52204.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Fox Sports Wisconsin HD
-http://vapi.vaders.tv/play/52205.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52205.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",HLN HD
-http://vapi.vaders.tv/play/2772.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2772.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",CBS News HD
-http://vapi.vaders.tv/play/75926.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/75926.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",FOX Phoenix HD
-http://vapi.vaders.tv/play/73281.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/73281.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",KUTP Phoenix HD
-http://vapi.vaders.tv/play/73282.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/73282.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",CBS San Diego HD
-http://vapi.vaders.tv/play/2768.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2768.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",NBC Philadelphia
-http://vapi.vaders.tv/play/77922.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/77922.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",ABC Boston HD
-http://vapi.vaders.tv/play/78048.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/78048.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",CBS Boston HD
-http://vapi.vaders.tv/play/78046.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/78046.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",FOX Boston HD
-http://vapi.vaders.tv/play/78045.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/78045.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",NBC Boston HD
-http://vapi.vaders.tv/play/78047.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/78047.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sky Sports Main Event HD
-http://vapi.vaders.tv/play/2889.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2889.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sky Sports Main Event
-http://vapi.vaders.tv/play/39820.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39820.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sky Sports Cricket HD
-http://vapi.vaders.tv/play/2479.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2479.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sky Sports Cricket
-http://vapi.vaders.tv/play/39821.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39821.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sky Sports Action HD
-http://vapi.vaders.tv/play/2480.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2480.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sky Sports Action
-http://vapi.vaders.tv/play/39822.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39822.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sky Sports Golf HD
-http://vapi.vaders.tv/play/2481.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2481.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sky Sports Golf
-http://vapi.vaders.tv/play/39823.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39823.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sky Sports Premier League HD
-http://vapi.vaders.tv/play/2482.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2482.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sky Sports Premier League
-http://vapi.vaders.tv/play/39824.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39824.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sky Sports F1 HD
-http://vapi.vaders.tv/play/2483.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2483.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sky Sports F1
-http://vapi.vaders.tv/play/39825.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39825.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sky Sports Arena HD
-http://vapi.vaders.tv/play/42361.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/42361.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sky Sports Arena
-http://vapi.vaders.tv/play/47385.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/47385.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sky Sports Football HD
-http://vapi.vaders.tv/play/42360.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/42360.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sky Sports Football
-http://vapi.vaders.tv/play/47386.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/47386.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sky Sports Mix HD
-http://vapi.vaders.tv/play/37235.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/37235.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sky Sports Mix
-http://vapi.vaders.tv/play/39827.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39827.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sky Sports News HD
-http://vapi.vaders.tv/play/2570.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2570.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sky Sports News
-http://vapi.vaders.tv/play/39826.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39826.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",BT Sports 1 HD
-http://vapi.vaders.tv/play/2487.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2487.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",BT Sports 1
-http://vapi.vaders.tv/play/39828.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39828.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",BT Sports 2 HD
-http://vapi.vaders.tv/play/2488.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2488.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",BT Sports 2
-http://vapi.vaders.tv/play/39829.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39829.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",BT Sports 3 HD
-http://vapi.vaders.tv/play/2489.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2489.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",BT Sports 3
-http://vapi.vaders.tv/play/39830.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39830.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",BT Sports ESPN HD
-http://vapi.vaders.tv/play/2790.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2790.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",BT Sports ESPN
-http://vapi.vaders.tv/play/39831.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39831.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Eurosport 1 HD
-http://vapi.vaders.tv/play/19293.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/19293.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Eurosport 2 HD
-http://vapi.vaders.tv/play/19294.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/19294.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Chelsea TV HD
-http://vapi.vaders.tv/play/40881.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/40881.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",MUTV HD
-http://vapi.vaders.tv/play/2589.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2589.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",LFC TV HD
-http://vapi.vaders.tv/play/3009.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/3009.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Premier Sports HD
-http://vapi.vaders.tv/play/19296.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/19296.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Racing UK HD
-http://vapi.vaders.tv/play/19295.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/19295.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Motors TV UK
-http://vapi.vaders.tv/play/40683.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/40683.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",At The Races
-http://vapi.vaders.tv/play/19297.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/19297.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Eir Sports 1 HD
-http://vapi.vaders.tv/play/2593.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2593.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Boxnation
-http://vapi.vaders.tv/play/39646.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39646.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",CBS Sports Network HD
-http://vapi.vaders.tv/play/2789.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2789.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",BeIN Sports USA HD
-http://vapi.vaders.tv/play/2563.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2563.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",BeIN Sports Espanol HD
-http://vapi.vaders.tv/play/39855.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39855.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",BeIN Sports 11 HD
-http://vapi.vaders.tv/play/40879.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/40879.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",BeIN Sports 12 HD
-http://vapi.vaders.tv/play/40880.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/40880.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Fox Sports 1 HD
-http://vapi.vaders.tv/play/2568.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2568.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Fox Sports 2 HD
-http://vapi.vaders.tv/play/2569.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2569.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Fox Soccer Plus HD
-http://vapi.vaders.tv/play/52188.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52188.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Fox Deportes HD
-http://vapi.vaders.tv/play/52189.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52189.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Fox Sports Arizona HD
-http://vapi.vaders.tv/play/52190.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52190.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Fox Sports Carolina HD
-http://vapi.vaders.tv/play/52191.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52191.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Fox Sports Cincinnati HD
-http://vapi.vaders.tv/play/52192.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52192.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Fox Sports Detroit HD
-http://vapi.vaders.tv/play/52193.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52193.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Fox Sports Florida HD
-http://vapi.vaders.tv/play/52194.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52194.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Fox Sports Indiana HD
-http://vapi.vaders.tv/play/52195.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52195.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",CSN California HD
-http://vapi.vaders.tv/play/41143.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/41143.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",CSN Chicago HD
-http://vapi.vaders.tv/play/41145.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/41145.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",CSN Northwest HD
-http://vapi.vaders.tv/play/41144.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/41144.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",CSN Bay Area HD
-http://vapi.vaders.tv/play/52120.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52120.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",CSN Mid Atlantic HD
-http://vapi.vaders.tv/play/52207.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52207.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",CSN New England HD
-http://vapi.vaders.tv/play/52206.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52206.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",CSN Philly HD
-http://vapi.vaders.tv/play/78564.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/78564.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",NESN HD
-http://vapi.vaders.tv/play/52208.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52208.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",NESN Plus HD
-http://vapi.vaders.tv/play/52209.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52209.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",ESPN HD
-http://vapi.vaders.tv/play/2565.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2565.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",ESPN 2 HD
-http://vapi.vaders.tv/play/2566.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2566.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",ESPN U HD
-http://vapi.vaders.tv/play/2567.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2567.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",ESPNews HD
-http://vapi.vaders.tv/play/2564.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2564.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",ESPN Deportes HD
-http://vapi.vaders.tv/play/3136.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/3136.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",MLB Network HD
-http://vapi.vaders.tv/play/2787.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2787.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",NBA TV HD
-http://vapi.vaders.tv/play/2788.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2788.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",NFL Network HD
-http://vapi.vaders.tv/play/2744.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2744.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",NHL Network HD
-http://vapi.vaders.tv/play/2786.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2786.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",YES Network HD
-http://vapi.vaders.tv/play/33511.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/33511.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",WWE Network HD
-http://vapi.vaders.tv/play/3047.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/3047.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",SEC Network HD
-http://vapi.vaders.tv/play/39621.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39621.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Big Ten Network HD
-http://vapi.vaders.tv/play/39861.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39861.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Longhorn Network HD
-http://vapi.vaders.tv/play/52210.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52210.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Tennis Channel HD
-http://vapi.vaders.tv/play/40876.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/40876.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",PAC 12 Network HD
-http://vapi.vaders.tv/play/39848.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39848.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",PAC 12 Washington HD
-http://vapi.vaders.tv/play/39849.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39849.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",PAC 12 Oregon HD
-http://vapi.vaders.tv/play/39850.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39850.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",PAC 12 Los Angeles HD
-http://vapi.vaders.tv/play/39851.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39851.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",PAC 12 Mountain HD
-http://vapi.vaders.tv/play/39852.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39852.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",PAC 12 Arizona HD
-http://vapi.vaders.tv/play/39853.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39853.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",PAC 12 Bay Area HD
-http://vapi.vaders.tv/play/39854.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39854.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sportsnet 360 HD
-http://vapi.vaders.tv/play/2669.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2669.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sportsnet East HD
-http://vapi.vaders.tv/play/2694.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2694.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sportsnet One HD
-http://vapi.vaders.tv/play/2672.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2672.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sportsnet Ontario HD
-http://vapi.vaders.tv/play/2673.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2673.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sportsnet Pacific HD
-http://vapi.vaders.tv/play/2674.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2674.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sportsnet West HD
-http://vapi.vaders.tv/play/2671.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2671.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sportsnet World HD
-http://vapi.vaders.tv/play/2670.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2670.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",TSN 1 HD
-http://vapi.vaders.tv/play/2845.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2845.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",TSN 2 HD
-http://vapi.vaders.tv/play/2846.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2846.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",TSN 3 HD
-http://vapi.vaders.tv/play/2847.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2847.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",TSN 4 HD
-http://vapi.vaders.tv/play/2848.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2848.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",TSN 5 HD
-http://vapi.vaders.tv/play/2849.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2849.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",RDS HD
-http://vapi.vaders.tv/play/57579.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/57579.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Univision Deportes HD
-http://vapi.vaders.tv/play/38911.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/38911.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Gol TV HD
-http://vapi.vaders.tv/play/46466.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/46466.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",UFC TV HD
-http://vapi.vaders.tv/play/42469.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/42469.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Willow HD
-http://vapi.vaders.tv/play/3077.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/3077.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",OSN Cricket HD
-http://vapi.vaders.tv/play/58787.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/58787.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Ten Sports
-http://vapi.vaders.tv/play/12264.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/12264.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",PTV Sports
-http://vapi.vaders.tv/play/8319.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/8319.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Sony Six
-http://vapi.vaders.tv/play/8259.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/8259.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Neo Prime
-http://vapi.vaders.tv/play/12295.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/12295.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",CBS Sports HQ
-http://vapi.vaders.tv/play/77169.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/77169.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",RDS 2 HD
-http://vapi.vaders.tv/play/77718.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/77718.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Spectrum SportsNet LA HD
-http://vapi.vaders.tv/play/77882.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/77882.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Spectrum SportsNet HD
-http://vapi.vaders.tv/play/77883.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/77883.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",TVA Sports HD
-http://vapi.vaders.tv/play/73296.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/73296.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",MAVTV HD
-http://vapi.vaders.tv/play/79263.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/79263.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Golic and Wingo
-http://vapi.vaders.tv/play/2501.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2501.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",Snooker WC: Sheffield
-http://vapi.vaders.tv/play/2653.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2653.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",IIHF WC: Great Britain v Poland
-http://vapi.vaders.tv/play/2641.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2641.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",IPL: Royal Challengers Bangalore vs Chennai Super Kings
-http://vapi.vaders.tv/play/50321.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/50321.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",IPL: Royal Challengers Bangalore vs Chennai Super Kings
-http://vapi.vaders.tv/play/2662.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2662.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",IPL: Royal Challengers Bangalore vs Chennai Super Kings
-http://vapi.vaders.tv/play/2661.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2661.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:0, group-title="English Vapi Server",The Dan Patrick Show
-http://vapi.vaders.tv/play/2509.ts?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2509.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 ---------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Colors India[/COLOR] 
-http://vapi.vaders.tv/play/12300.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/12300.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",MTV India
-http://vapi.vaders.tv/play/19290.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/19290.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",[COLOR yellow]NDTV India
-http://vapi.vaders.tv/play/39406.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39406.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Nick Sonic India
-http://vapi.vaders.tv/play/8256.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/8256.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Sony Max India 
-http://vapi.vaders.tv/play/12286.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/12286.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Sony Mix
-http://vapi.vaders.tv/play/12285.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/12285.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Sony Pal
-http://vapi.vaders.tv/play/12284.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/12284.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Sony Rox 
-http://vapi.vaders.tv/play/56698.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/56698.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Sony SAB 
-http://vapi.vaders.tv/play/48009.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/48009.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Sony TV India 
-http://vapi.vaders.tv/play/12279.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/12279.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Star Bharat India 
-http://vapi.vaders.tv/play/39438.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39438.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Star Gold India 
-http://vapi.vaders.tv/play/34272.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/34272.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Star Gold Select 
-http://vapi.vaders.tv/play/38774.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/38774.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Star Plus India 
-http://vapi.vaders.tv/play/12275.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/12275.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Star TV
-http://vapi.vaders.tv/play/39625.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39625.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Star World 
-http://vapi.vaders.tv/play/12266.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/12266.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Star World Premier 
-http://vapi.vaders.tv/play/38775.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/38775.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",TLC India
-http://vapi.vaders.tv/play/39626.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39626.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Zee Cinema India 
-http://vapi.vaders.tv/play/12261.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/12261.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Zee Classic
-http://vapi.vaders.tv/play/8248.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/8248.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azR84Bv.png" group-title="India Vapi",Zee TV India 
-http://vapi.vaders.tv/play/39440.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39440.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 ------------------------------------------------------------
 
 #EXTINF:-1 group-title="UK",BBC One HD
-http://vapi.vaders.tv/play/2464.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2464.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",BBC One
-http://vapi.vaders.tv/play/39862.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39862.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",BBC Two HD
-http://vapi.vaders.tv/play/2467.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2467.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",BBC Two
-http://vapi.vaders.tv/play/39863.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39863.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",BBC Four HD
-http://vapi.vaders.tv/play/2469.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2469.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",BBC Four
-http://vapi.vaders.tv/play/39864.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39864.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",BBC News HD
-http://vapi.vaders.tv/play/38777.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/38777.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",BBC News
-http://vapi.vaders.tv/play/39871.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39871.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Channel 4 HD
-http://vapi.vaders.tv/play/2476.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2476.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Channel 4
-http://vapi.vaders.tv/play/39865.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39865.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Channel 5 HD
-http://vapi.vaders.tv/play/2477.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2477.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Channel 5
-http://vapi.vaders.tv/play/39866.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39866.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",ITV 1 HD
-http://vapi.vaders.tv/play/2470.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2470.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",ITV 1
-http://vapi.vaders.tv/play/39867.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39867.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",ITV 2 HD
-http://vapi.vaders.tv/play/2471.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2471.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",ITV 2
-http://vapi.vaders.tv/play/39868.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39868.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",ITV 3 HD
-http://vapi.vaders.tv/play/2472.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2472.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",ITV 3
-http://vapi.vaders.tv/play/39869.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39869.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",ITV 4 HD
-http://vapi.vaders.tv/play/2473.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2473.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",ITV 4
-http://vapi.vaders.tv/play/39870.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39870.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",ITV Encore HD
-http://vapi.vaders.tv/play/2475.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2475.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",ITV Encore
-http://vapi.vaders.tv/play/39872.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39872.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Sky 1
-http://vapi.vaders.tv/play/2573.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2573.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Sky 2
-http://vapi.vaders.tv/play/2574.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2574.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Sky Arts
-http://vapi.vaders.tv/play/2575.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2575.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Sky Atlantic
-http://vapi.vaders.tv/play/2576.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2576.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Sky Living
-http://vapi.vaders.tv/play/2577.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2577.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Sky News HD
-http://vapi.vaders.tv/play/39630.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39630.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",E4
-http://vapi.vaders.tv/play/2571.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2571.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",More4
-http://vapi.vaders.tv/play/2572.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2572.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Pick TV
-http://vapi.vaders.tv/play/2578.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2578.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",5USA
-http://vapi.vaders.tv/play/34211.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/34211.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",5STAR
-http://vapi.vaders.tv/play/34212.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/34212.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",CBS Drama
-http://vapi.vaders.tv/play/34214.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/34214.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",CBS Reality
-http://vapi.vaders.tv/play/34215.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/34215.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",CBS Action
-http://vapi.vaders.tv/play/34213.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/34213.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Comedy Central UK
-http://vapi.vaders.tv/play/39642.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39642.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Comedy Central Extra
-http://vapi.vaders.tv/play/39818.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39818.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Dave
-http://vapi.vaders.tv/play/34283.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/34283.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Home
-http://vapi.vaders.tv/play/35001.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/35001.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Gold
-http://vapi.vaders.tv/play/35162.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/35162.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Eden HD
-http://vapi.vaders.tv/play/39819.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39819.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Universal Channel
-http://vapi.vaders.tv/play/35463.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/35463.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Syfy UK
-http://vapi.vaders.tv/play/35661.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/35661.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Lifetime UK
-http://vapi.vaders.tv/play/35748.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/35748.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Yesterday
-http://vapi.vaders.tv/play/35756.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/35756.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Drama
-http://vapi.vaders.tv/play/36174.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/36174.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Watch
-http://vapi.vaders.tv/play/36175.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/36175.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Really
-http://vapi.vaders.tv/play/36176.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/36176.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Food Network UK
-http://vapi.vaders.tv/play/36177.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/36177.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Good Food
-http://vapi.vaders.tv/play/36178.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/36178.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Challenge
-http://vapi.vaders.tv/play/37245.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/37245.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Alibi
-http://vapi.vaders.tv/play/37247.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/37247.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",TLC UK
-http://vapi.vaders.tv/play/39028.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39028.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",ID UK
-http://vapi.vaders.tv/play/47372.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/47372.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Crime + Investigation UK
-http://vapi.vaders.tv/play/50557.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/50557.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Discovery Channel UK
-http://vapi.vaders.tv/play/39639.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39639.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Discovery Science UK
-http://vapi.vaders.tv/play/39817.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39817.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Discovery Turbo
-http://vapi.vaders.tv/play/39640.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39640.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Discovery History
-http://vapi.vaders.tv/play/39816.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39816.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Animal Planet UK
-http://vapi.vaders.tv/play/39641.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39641.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",National Geographic UK
-http://vapi.vaders.tv/play/39029.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39029.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Nat Geo Wild UK
-http://vapi.vaders.tv/play/72692.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/72692.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Boomerang UK
-http://vapi.vaders.tv/play/37248.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/37248.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Cartoon Network UK
-http://vapi.vaders.tv/play/37249.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/37249.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Cartoonito UK
-http://vapi.vaders.tv/play/52252.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52252.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Nickelodeon UK
-http://vapi.vaders.tv/play/37250.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/37250.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Nick Jr UK
-http://vapi.vaders.tv/play/37251.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/37251.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Nick Jr Too UK
-http://vapi.vaders.tv/play/52255.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52255.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Nicktoons UK
-http://vapi.vaders.tv/play/52256.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52256.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",CBBC HD
-http://vapi.vaders.tv/play/37252.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/37252.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",CBeebies
-http://vapi.vaders.tv/play/37253.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/37253.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Disney Channel UK
-http://vapi.vaders.tv/play/37254.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/37254.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Disney Junior UK
-http://vapi.vaders.tv/play/37255.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/37255.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Disney XD UK
-http://vapi.vaders.tv/play/52253.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52253.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",BabyTV
-http://vapi.vaders.tv/play/39643.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39643.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Pop UK
-http://vapi.vaders.tv/play/52257.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52257.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Tiny Pop UK
-http://vapi.vaders.tv/play/52258.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52258.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Pop Max UK
-http://vapi.vaders.tv/play/52254.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/52254.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",E! UK
-http://vapi.vaders.tv/play/39814.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39814.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",MTV UK
-http://vapi.vaders.tv/play/39815.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39815.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Fox UK
-http://vapi.vaders.tv/play/39837.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39837.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Sky 1 HD
-http://vapi.vaders.tv/play/72667.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/72667.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Sky Cinema Drama HD
-http://vapi.vaders.tv/play/72668.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/72668.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Sky Cinema Comedy HD
-http://vapi.vaders.tv/play/2743.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2743.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Sky Cinema Greats HD
-http://vapi.vaders.tv/play/2737.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2737.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Sky Cinema Premiere HD
-http://vapi.vaders.tv/play/2738.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2738.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Sky Cinema Sci-Fi & Horror HD
-http://vapi.vaders.tv/play/39813.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39813.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Sky Cinema Thriller HD
-http://vapi.vaders.tv/play/2739.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2739.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",RTE One
-http://vapi.vaders.tv/play/16923.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/16923.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",RTE Two
-http://vapi.vaders.tv/play/16931.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/16931.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",RTE Jr
-http://vapi.vaders.tv/play/16933.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/16933.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",TG4
-http://vapi.vaders.tv/play/16944.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/16944.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",TV3
-http://vapi.vaders.tv/play/16945.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/16945.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",UTV HD
-http://vapi.vaders.tv/play/16946.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/16946.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",3e
-http://vapi.vaders.tv/play/16947.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/16947.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Cinemax
-http://vapi.vaders.tv/play/7936.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/7936.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Cinemax 5 Star
-http://vapi.vaders.tv/play/7947.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/7947.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Cinemax Actionmax
-http://vapi.vaders.tv/play/7946.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/7946.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Cinemax Moremax
-http://vapi.vaders.tv/play/7945.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/7945.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",HBO HD
-http://vapi.vaders.tv/play/7859.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/7859.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",HBO2 HD
-http://vapi.vaders.tv/play/64791.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/64791.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",HBO Family HD
-http://vapi.vaders.tv/play/59092.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/59092.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",HBO Comedy HD
-http://vapi.vaders.tv/play/7860.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/7860.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",HBO Signature HD
-http://vapi.vaders.tv/play/7857.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/7857.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",HBO Zone HD
-http://vapi.vaders.tv/play/7944.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==						
+http://vapi.vaders.tv/play/7944.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Starz HD
-http://vapi.vaders.tv/play/39873.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39873.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Starz Kids & Family
-http://vapi.vaders.tv/play/3122.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/3122.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Starz Encore
-http://vapi.vaders.tv/play/3123.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/3123.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Starz Edge
-http://vapi.vaders.tv/play/3119.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/3119.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Starz Comedy
-http://vapi.vaders.tv/play/3121.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/3121.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Showtime HD
-http://vapi.vaders.tv/play/39637.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39637.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Showtime 2 HD
-http://vapi.vaders.tv/play/39638.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39638.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Showtime Extreme HD
-http://vapi.vaders.tv/play/64457.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/64457.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Epix HD
-http://vapi.vaders.tv/play/39636.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39636.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Epix 2 HD
-http://vapi.vaders.tv/play/39635.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39635.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Epix Hits HD
-http://vapi.vaders.tv/play/39634.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/39634.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Sky Cinema Select HD
-http://vapi.vaders.tv/play/2736.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2736.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Sky Cinema Family HD
-http://vapi.vaders.tv/play/2741.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2741.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Sky Cinema Disney HD
-http://vapi.vaders.tv/play/2742.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2742.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Sky Cinema Action HD
-http://vapi.vaders.tv/play/74519.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/74519.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",Sky Cinema Hits HD
-http://vapi.vaders.tv/play/2735.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/2735.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",The Movie Channel HD
-http://vapi.vaders.tv/play/74789.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/74789.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 group-title="UK",HDNet Movies HD
-http://vapi.vaders.tv/play/74791.m3u8?token=eyJ1c2VybmFtZSI6Impvb25idWdnIiwicGFzc3dvcmQiOiJwaW1wZ2cifQ==
+http://vapi.vaders.tv/play/74791.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
