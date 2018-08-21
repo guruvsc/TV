@@ -23,11 +23,23 @@ https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
 #EXTINF:0, group-title="Movie",Zee Cinema HD
 https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 
+#EXTINF:0, group-title="Movie",B4U Movies
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226118/1.m3u8
+
 #EXTINF:0, group-title="Movie",Sony Max
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/04.m3u8
 
 #EXTINF:0, group-title="Movie",Sony Max HD
 http://125.17.129.13/wh7f454c46tw1426839479_1338613003/PLTV/88888888/224/3221225776/04.m3u8
+
+#EXTINF:0, group-title="Movie",Star Gold
+http://50.7.198.170:8081/Ind/STARGOLD/playlist.m3u8
+
+#EXTINF:0, group-title="Movie",Star Gold HD
+http://50.7.198.170:8081/Ind/STARGOLDHD/playlist.m3u8
+
+#EXTINF:0, group-title="Movie",Star Gold UK
+http://216.144.250.174/Star_Gold_HD/track-v1a1/index.m3u8
 
 #EXTINF:0, group-title="Movie",And Prive HD
 https://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
@@ -44,12 +56,20 @@ https://z5ams.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Movie",Zee Action
 https://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
 
-
 #EXTINF:0, group-title="Movie",Zee Cinema
 https://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 
 #EXTINF:0, group-title="Movie",Zee Classic
 http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="Movie",Cinema TV
+http://mhms8.airtel.tv/wh7f454c46tw1547650707_1052100671/PLTV/88888888/224/3221226246/04.m3u8
+
+#EXTINF:0, group-title="Movie",Enterr 10 
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226218/1.m3u8
+
+#EXTINF:0, group-title="Movie",Sony Max 2
+http://cshms1.airtel.tv/wh7f454c46tw3181837615_1055582630/PLTV/88888888/224/3221225812/04.m3u8
 
 -----------------------------------------------------------------------
 
