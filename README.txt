@@ -6,11 +6,12 @@ https://vw105.jiocdn.us/hls/be33ldg3us2gyphx4od7clkxkgpqarbuflw3ksmzidklpyipndcp
 #EXTINF:0, group-title="On Demand",Silsila 2
 https://vw103.jiocdn.us/hls/be33ldo3us2gyphx4od7ckafc2sbbx3brzowg6j475j53tajiihvjgu4bpja/index-v1-a1.m3u8
 
-#EXTINF:0, group-title="On Demand",Indian Idol 18 Aug
-https://cache33.vidoza.net/x4lfy2kenvzpvjumxbpuqxcuvnwodhfodywssncddglni5yeyfmaycllj4wa/v.mp4
+#EXTINF:0, group-title="On Demand",Silsila 3
+https://vw103.jiocdn.us/hls/be33kfw6us2gyphx4od7cjceaq5vbifjvxdho42hlljj77gh56riqeulnl7q/index-v1-a1.m3u8
 
-#EXTINF:0, group-title="On Demand",Indian Idol 19 Aug
-https://wv122.jiocdn.us/hls/pg47c5r7u3qeoikcw6blzwvgiz7tnydwv6ccopmfx,hwralyp7smev77itmqq,42ralyp7sml76ceyrjq,.urlset/master.m3u8
+#EXTINF:0, group-title="On Demand",Silsila 4
+https://vw103.jiocdn.us/hls/be33kf66us2gyphx4od7cm22bn3c2d2bvyglag5yoa2akwwpnfp5rfuu4kja/index-v1-a1.m3u8
+
 
 #EXTINF:0, group-title="On Demand",Satyamev Jayate
 https://17wy0tw.oloadcdn.net/dl/l/ShS5-8dKu6BCvL5N/Qg4Y5TI7BWY/Satyameva+Jayate+%282018%29+Hindi+DVDScr+x264+AAC+700+MB.mkv.mp4?mime=true
