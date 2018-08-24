@@ -9,8 +9,8 @@ http://185.21.217.13:7071/alpha/sonytvindia/chunks.m3u8?nimblesessionid=297726&w
 #EXTINF:0, group-title="On Demand",Star Plus
 http://185.21.217.13:7071/alpha/starplushd/chunks.m3u8?nimblesessionid=308427&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDE4IDY6MjE6MTAgUE0maGFzaF92YWx1ZT1SZVlwYmlHNU5MZ3lJNlhrbjlPK2h3PT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:0, group-title="On Demand",Silsila 3
-https://vw103.jiocdn.us/hls/be33kfw6us2gyphx4od7cjceaq5vbifjvxdho42hlljj77gh56riqeulnl7q/index-v1-a1.m3u8
+#EXTINF:0, group-title="On Demand",Sony Pix
+http://125.17.129.14/wh7f454c46tw2632285760_55090405/PLTV/88888888/224/3221226442/01.m3u8
 
 #EXTINF:0, group-title="On Demand",Silsila 4
 https://vw103.jiocdn.us/hls/be33kf66us2gyphx4od7cm22bn3c2d2bvyglag5yoa2akwwpnfp5rfuu4kja/index-v1-a1.m3u8
