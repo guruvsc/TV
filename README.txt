@@ -76,6 +76,10 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Movie",Sony Max 2
 http://cshms1.airtel.tv/wh7f454c46tw3181837615_1055582630/PLTV/88888888/224/3221225812/04.m3u8
 
+#EXTINF:0, group-title="Movie",Star Utsav Movies
+http://50.7.198.170:8081/Ind/UTVBINDASS/playlist.m3u8
+
+
 -----------------------------------------------------------------------
 
 #EXTINF:0, group-title="Music",Sony Rox HD Airtel
@@ -90,6 +94,12 @@ http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Music",B4U Music
 http://125.17.129.13/wh7f454c46tw2753977440_1335826470/PLTV/88888888/224/3221226055/04.m3u8
 
+#EXTINF:0, group-title="Music",Masti
+http://mhms7.airtel.tv/wh7f454c46tw3171712561_511087884/PLTV/88888888/224/3221226021/04.m3u8
+
+#EXTINF:0, group-title="Music",Music India
+http://50.7.198.170:8081/Ind/MUSICINDIA/playlist.m3u8
+
 #EXTINF:0, group-title="Music",Enterr 10 
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226218/1.m3u8
 
@@ -102,8 +112,8 @@ https://z5ams.akamaized.net/zing/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Music",Sony Mix
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225816/04.m3u8
 
-#EXTINF:0, group-title="Music",Sony Pal
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226200/4.m3u8
+#EXTINF:0, group-title="Music",Bindass Play
+http://50.7.198.170:8081/Ind/BINDASSPLAY/playlist.m3u8
 
 #EXTINF:0, group-title="Music",9X Jalwa
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226011/4.m3u8
@@ -120,8 +130,7 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Music",9XO
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226028/4.m3u8
 
-#EXTINF:0, group-title="Music",MTV India
-http://50.7.198.170:8081/Ind/MTVINDIA/playlist.m3u8
+
 
 -------------------------------------------------------------------
 
@@ -155,6 +164,10 @@ https://etv-mp.akamaized.net/i/etv_mp_hls_1@175737/index_5_av-p.m3u8
 #EXTINF:0, group-title="News",India News
 https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/master.m3u8
 
+#EXTINF:0, group-title="News",HLN
+http://vapi.vaders.tv/play/2772.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
+
+
 #EXTINF:0, group-title="News",ABC News
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
 
@@ -164,6 +177,9 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:0, group-title="News",MSNBC
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 
+#EXTINF:0, group-title="Entertainment",Zee Hindustan
+https://z5ams.akamaized.net/hindustan/tracks-v1a1/index.m3u8
+
 -------------------------------------------------------
 
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/ZeeHD2011.jpg" group-title="Entertainment",Zee TV HD
@@ -171,6 +187,10 @@ https://z5ams.akamaized.net/zeetvhd/tracks-v2a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://colorstv.com/lara-colors/colors/modules/cm/season02/assets/images/color_logo.png" group-title="Entertainment",Colors India
 http://50.7.198.170:8081/Ind/COLORSHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://colorstv.com/lara-colors/colors/modules/cm/season02/assets/images/color_logo.png" group-title="Entertainment",Colors ME
+http://50.7.198.170:8081/Ind/COLORSTVME/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.adgully.com/img/400x300/201702/star-plus-new-logo.jpg" group-title="Entertainment",Star Plus UK
 http://50.7.198.170:8081/Ind/STARPLUS/playlist.m3u8
@@ -190,11 +210,6 @@ http://cshms1.airtel.tv/wh7f454c46tw1565302381_1163892044/PLTV/88888888/224/3221
 #EXTINF:0, group-title="Entertainment",& TV HD
 https://z5ams.akamaized.net/andtvhd/tracks-v2a1/index.m3u8
 
-#EXTINF:0, group-title="Entertainment",Zee Hindustan
-https://z5ams.akamaized.net/hindustan/tracks-v1a1/index.m3u8
-
-#EXTINF:0, group-title="Entertainment",Zee Magic
-https://z5ams.akamaized.net/magic/tracks-v1a1/index.m3u8
 
 #EXTINF:0, group-title="Entertainment",DD India
 http://z5ams.akamaized.net/ddindia/tracks-v1a1/index.m3u8
