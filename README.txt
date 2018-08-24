@@ -3,8 +3,8 @@
 #EXTINF:0, group-title="On Demand",Beats
 http://185.21.216.134:7071/alpha/mtvbeats/chunks.m3u8?nimblesessionid=19937595&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDE4IDU6NTY6MjEgUE0maGFzaF92YWx1ZT1TenU5WHdxUEs2UTlSZXpFY0JGU2RRPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:0, group-title="On Demand",Silsila 1
-https://vw105.jiocdn.us/hls/be33ldg3us2gyphx4od7clkxkgpqarbuflw3ksmzidklpyipndcprnq3i7oq/index-v1-a1.m3u8
+#EXTINF:0, group-title="On Demand",Sony TV
+http://185.21.217.13:7071/alpha/sonytvindia/chunks.m3u8?nimblesessionid=297726&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDE4IDY6MDY6MDEgUE0maGFzaF92YWx1ZT03MkVCdFNaNkZRZHRlcjZoOEExNjVBPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:0, group-title="On Demand",Silsila 2
 https://vw103.jiocdn.us/hls/be33ldo3us2gyphx4od7ckafc2sbbx3brzowg6j475j53tajiihvjgu4bpja/index-v1-a1.m3u8
