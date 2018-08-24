@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:0, group-title="On Demand",Hichki
-https://wv110.jiocdn.us/hls/pg47dwjfutqeoikcw7wlzuviadns34sweq3b3xlob,b5rau2fsk27rjz7ouia,2rrau2fsk2ssgr5ny3a,.urlset/master.m3u8
+#EXTINF:0, group-title="On Demand",Set Max
+http://185.21.216.134:7071/alpha/sonymaxhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDE4IDU6NDY6MjYgUE0maGFzaF92YWx1ZT1USWhRejNBbk5TbFppTjA2OEJwNEFnPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:0, group-title="On Demand",Silsila 1
 https://vw105.jiocdn.us/hls/be33ldg3us2gyphx4od7clkxkgpqarbuflw3ksmzidklpyipndcprnq3i7oq/index-v1-a1.m3u8
