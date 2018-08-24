@@ -15,9 +15,8 @@ http://125.17.129.14/wh7f454c46tw2632285760_55090405/PLTV/88888888/224/322122644
 #EXTINF:0, group-title="On Demand",Set Max
 http://185.21.216.134:7071/alpha/sonymaxhd/chunks.m3u8?nimblesessionid=20063612&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDE4IDY6NTc6MDQgUE0maGFzaF92YWx1ZT1NZnVCbjgxUDd0dFA0N3d4dkJNemZ3PT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:0, group-title="On Demand",Silsila 5
-https://vw113.jiocdn.us/hls/be33kk7aus2gyphx4od7c5ycbnfmlwa7fb2gqnaz52nehvk5m6bnqjnrdsda/index-v1-a1.m3u8
-
+#EXTINF:0, group-title="On Demand",Aaj Tak
+http://185.21.217.13:7071/alpha/aajtak/chunks.m3u8?nimblesessionid=339758&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDE4IDc6MDM6MTggUE0maGFzaF92YWx1ZT1Lck1LUC9PWDU5YlF6RXM1TG9zeWFRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0, group-title="On Demand",Silsila 6
 https://vw105.jiocdn.us/hls/be33knhaus2gyphx4od7c5cdkz42wewgzj3bv4qkacgoomkheknsgqfzdhha/index-v1-a1.m3u8
 ----------------------------------------------------
