@@ -1,22 +1,23 @@
 #EXTM3U
 
 #EXTINF:0, group-title="On Demand",Beats
-http://185.21.216.134:7071/alpha/mtvbeats/chunks.m3u8?nimblesessionid=19937595&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDE4IDU6NTY6MjEgUE0maGFzaF92YWx1ZT1TenU5WHdxUEs2UTlSZXpFY0JGU2RRPT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.216.134:7071/alpha/mtvbeats/chunks.m3u8?nimblesessionid=20550297&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDE4IDExOjI2OjA1IFBNJmhhc2hfdmFsdWU9QjI5L1lPWXFqN0lCMVh6Z1d5bDVpUT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:0, group-title="On Demand",Sony TV
-http://185.21.217.13:7071/alpha/sonytvindia/chunks.m3u8?nimblesessionid=297726&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDE4IDY6MDY6MDEgUE0maGFzaF92YWx1ZT03MkVCdFNaNkZRZHRlcjZoOEExNjVBPT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.217.13:7071/alpha/sonytvindia/chunks.m3u8?nimblesessionid=20550297&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDE4IDExOjI2OjA1IFBNJmhhc2hfdmFsdWU9QjI5L1lPWXFqN0lCMVh6Z1d5bDVpUT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:0, group-title="On Demand",Star Plus
-http://185.21.217.13:7071/alpha/starplushd/chunks.m3u8?nimblesessionid=308427&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDE4IDY6MjE6MTAgUE0maGFzaF92YWx1ZT1SZVlwYmlHNU5MZ3lJNlhrbjlPK2h3PT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.217.13:7071/alpha/starplushd/chunks.m3u8?nimblesessionid=20550297&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDE4IDExOjI2OjA1IFBNJmhhc2hfdmFsdWU9QjI5L1lPWXFqN0lCMVh6Z1d5bDVpUT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:0, group-title="On Demand",Sony Pix
 http://125.17.129.14/wh7f454c46tw2632285760_55090405/PLTV/88888888/224/3221226442/01.m3u8
 
 #EXTINF:0, group-title="On Demand",Set Max
-http://185.21.216.134:7071/alpha/sonymaxhd/chunks.m3u8?nimblesessionid=20063612&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDE4IDY6NTc6MDQgUE0maGFzaF92YWx1ZT1NZnVCbjgxUDd0dFA0N3d4dkJNemZ3PT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.216.134:7071/alpha/sonymaxhd/chunks.m3u8?nimblesessionid=20550297&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDE4IDExOjI2OjA1IFBNJmhhc2hfdmFsdWU9QjI5L1lPWXFqN0lCMVh6Z1d5bDVpUT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:0, group-title="On Demand",Aaj Tak
-http://185.21.217.13:7071/alpha/aajtak/chunks.m3u8?nimblesessionid=339758&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDE4IDc6MDM6MTggUE0maGFzaF92YWx1ZT1Lck1LUC9PWDU5YlF6RXM1TG9zeWFRPT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.217.13:7071/alpha/aajtak/chunks.m3u8?nimblesessionid=20550297&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDE4IDExOjI2OjA1IFBNJmhhc2hfdmFsdWU9QjI5L1lPWXFqN0lCMVh6Z1d5bDVpUT09JnZhbGlkbWludXRlcz0y
+
 #EXTINF:0, group-title="On Demand",Silsila 6
 https://vw105.jiocdn.us/hls/be33knhaus2gyphx4od7c5cdkz42wewgzj3bv4qkacgoomkheknsgqfzdhha/index-v1-a1.m3u8
 ----------------------------------------------------
