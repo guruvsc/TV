@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0, group-title="On Demand",Happy
+https://wv140.jiocdn.us/hls/,pg47dqq5u3qeoikcw6alzrh4a3x6l6p3hpzk5i35s4zr26uqpebokpqx4ghq,.urlset/master.m3u8
+
 #EXTINF:0, group-title="On Demand",Beats
 http://185.21.216.134:7071/alpha/mtvbeats/chunks.m3u8?nimblesessionid=20550297&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDE4IDExOjI2OjA1IFBNJmhhc2hfdmFsdWU9QjI5L1lPWXFqN0lCMVh6Z1d5bDVpUT09JnZhbGlkbWludXRlcz0y
 
