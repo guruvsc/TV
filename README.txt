@@ -242,6 +242,8 @@ http://vapi.vaders.tv/play/79285.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBh
 
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="Sports", Star Sports 1 HD
 http://vapi.vaders.tv/play/37198.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
+http://50.7.198.170:8081/abcd/starsports1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="Sports", Star Sports 2 HD
 http://vapi.vaders.tv/play/37199.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="Sports", Star Sports 1 Select HD
