@@ -7,10 +7,10 @@ https://wv140.jiocdn.us/hls/,pg47dqq5u3qeoikcw6alzrh4a3x6l6p3hpzk5i35s4zr26uqpeb
 http://185.21.216.134:7071/alpha/mtvbeats/chunks.m3u8?nimblesessionid=20816177&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE4IDI6MzM6MDUgQU0maGFzaF92YWx1ZT1FUDFDRnp5c3QvNmdtU051MmlieHN3PT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:0, group-title="On Demand",Sony TV
-http://185.21.217.13:7071/alpha/sonytvindia/chunks.m3u8?nimblesessionid=20816177&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE4IDI6MzM6MDUgQU0maGFzaF92YWx1ZT1FUDFDRnp5c3QvNmdtU051MmlieHN3PT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.217.13:7071/alpha/sonytvindia/chunks.m3u8?nimblesessionid=557821&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE4IDI6MzY6MDUgQU0maGFzaF92YWx1ZT1yczVzRll3blJBdHg2bmd5UXpoaGpBPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:0, group-title="On Demand",Star Plus
-http://185.21.217.13:7071/alpha/starplushd/chunks.m3u8?nimblesessionid=20816177&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE4IDI6MzM6MDUgQU0maGFzaF92YWx1ZT1FUDFDRnp5c3QvNmdtU051MmlieHN3PT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.217.13:7071/alpha/starplushd/chunks.m3u8?nimblesessionid=558793&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE4IDI6Mzg6MzYgQU0maGFzaF92YWx1ZT1oNzRzUmp4L2h4R0syTWJNNTVCOW93PT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:0, group-title="On Demand",Sony Pix
 http://125.17.129.14/wh7f454c46tw2632285760_55090405/PLTV/88888888/224/3221226442/01.m3u8
