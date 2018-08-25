@@ -118,11 +118,11 @@ http://50.7.198.170:8081/Ind/BINDASSPLAY/playlist.m3u8
 #EXTINF:0, group-title="Music",9X Jalwa
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226011/4.m3u8
 
-#EXTINF:0, group-title="Music",9X Jhakaas
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226026/4.m3u8
+#EXTINF:0, group-title="Music",Hungama Hitz
+http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 
-#EXTINF:0, group-title="Music",9X Tashan
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226017/4.m3u8
+#EXTINF:0, group-title="Music",Hungama Dil Se
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 
 #EXTINF:0, group-title="Music",9xM
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226053/4.m3u8
