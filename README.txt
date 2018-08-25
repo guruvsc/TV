@@ -4,7 +4,7 @@
 https://wv140.jiocdn.us/hls/,pg47dqq5u3qeoikcw6alzrh4a3x6l6p3hpzk5i35s4zr26uqpebokpqx4ghq,.urlset/master.m3u8
 
 #EXTINF:0, group-title="On Demand",Beats
-http://185.21.216.134:7071/alpha/mtvbeats/chunks.m3u8?nimblesessionid=20816177&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE4IDI6MzM6MDUgQU0maGFzaF92YWx1ZT1FUDFDRnp5c3QvNmdtU051MmlieHN3PT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.216.134:7071/alpha/mtvbeats/chunks.m3u8?nimblesessionid=22849891&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE4IDc6MDA6MjQgUE0maGFzaF92YWx1ZT1VRVFZZnZKQk9nTFMxRFpiVFVPTGVBPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:0, group-title="On Demand",Sony TV
 http://185.21.217.13:7071/alpha/sonytvindia/chunks.m3u8?nimblesessionid=557821&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE4IDI6MzY6MDUgQU0maGFzaF92YWx1ZT1yczVzRll3blJBdHg2bmd5UXpoaGpBPT0mdmFsaWRtaW51dGVzPTI=
