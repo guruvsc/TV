@@ -18,8 +18,8 @@ http://125.17.129.14/wh7f454c46tw2632285760_55090405/PLTV/88888888/224/322122644
 #EXTINF:0, group-title="On Demand",Set Max
 http://185.21.216.134:7071/alpha/sonymaxhd/chunks.m3u8?nimblesessionid=20816177&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE4IDI6MzM6MDUgQU0maGFzaF92YWx1ZT1FUDFDRnp5c3QvNmdtU051MmlieHN3PT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:0, group-title="On Demand",Aaj Tak
-http://185.21.217.13:7071/alpha/aajtak/chunks.m3u8?nimblesessionid=20816177&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE4IDI6MzM6MDUgQU0maGFzaF92YWx1ZT1FUDFDRnp5c3QvNmdtU051MmlieHN3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:0, group-title="On Demand",Star Gold
+http://185.21.217.13:7071/alpha/stargoldhd/chunks.m3u8?nimblesessionid=563345&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE4IDI6NTQ6MDUgQU0maGFzaF92YWx1ZT1yc1dFTGU5dC8xNXY1Q0RsMEphNnFnPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:0, group-title="On Demand",Silsila 6
 https://vw105.jiocdn.us/hls/be33knhaus2gyphx4od7c5cdkz42wewgzj3bv4qkacgoomkheknsgqfzdhha/index-v1-a1.m3u8
