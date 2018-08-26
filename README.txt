@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0, group-title="On Demand",Beats
-http://185.21.216.134:7071/alpha/mtvbeats/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDE4IDU6MzQ6NDIgUE0maGFzaF92YWx1ZT1ZYzJ6WHlBc05hZHUxUURqL1ZkbUx3PT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.216.134:7071/alpha/mtvbeats/chunks.m3u8?nimblesessionid=25051613&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDE4IDU6MzQ6NDIgUE0maGFzaF92YWx1ZT1ZYzJ6WHlBc05hZHUxUURqL1ZkbUx3PT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:0, group-title="On Demand",Sony TV
 http://185.21.217.13:7071/alpha/sonytvindia/chunks.m3u8?nimblesessionid=1856000&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDE4IDU6MzA6MjEgUE0maGFzaF92YWx1ZT1LejJEWDVlNmlqYmZQSitDYndFZVd3PT0mdmFsaWRtaW51dGVzPTI=
