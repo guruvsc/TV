@@ -1,13 +1,13 @@
 #EXTM3U
 
+#EXTINF:0, group-title="On Demand",Indian Idol
+https://cache09.vidoza.net/x4lfyyfpnrzpvjumxbruqtsv5l5oj6me53meskrygkhiokeqvxeoul2bygma/v.mp4
+
 #EXTINF:0, group-title="On Demand",Beats
 http://185.21.216.134:7071/alpha/mtvbeats/chunks.m3u8?nimblesessionid=25051613&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDE4IDU6MzQ6NDIgUE0maGFzaF92YWx1ZT1ZYzJ6WHlBc05hZHUxUURqL1ZkbUx3PT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:0, group-title="On Demand",Sony TV
 http://185.21.217.13:7071/alpha/sonytvindia/chunks.m3u8?nimblesessionid=1856000&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDE4IDU6MzA6MjEgUE0maGFzaF92YWx1ZT1LejJEWDVlNmlqYmZQSitDYndFZVd3PT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:0, group-title="On Demand",CNN
-http://175.192.77.223:9981/stream/channelid/839769056|User-agent=iPad
 
 
 ----------------------------------------------------
@@ -139,6 +139,9 @@ http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
 #EXTINF:0, group-title="News",News 18 India
 http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3.m3u8
 
+#EXTINF:0, group-title="News",CNN
+http://175.192.77.223:9981/stream/channelid/839769056|User-agent=iPad
+
 #EXTINF:0, group-title="News",NDTV India
 https://ndtvstream-lh.akamaihd.net//i//ndtv_india_1@300634//master.m3u8
 
@@ -167,7 +170,7 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:0, group-title="News",MSNBC
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 
-#EXTINF:0, group-title="Entertainment",Zee Hindustan
+#EXTINF:0, group-title="News",Zee Hindustan
 https://z5ams.akamaized.net/hindustan/tracks-v1a1/index.m3u8
 
 -------------------------------------------------------
