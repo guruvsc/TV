@@ -199,8 +199,12 @@ http://50.7.198.170:8081/Ind/STARPLUSHD/playlist.m3u8
 #EXTINF:0, group-title="Entertainment",& TV HD
 https://z5ams.akamaized.net/andtvhd/tracks-v2a1/index.m3u8
 
+#EXTINF:0, group-title="Entertainment",Sony TV SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225803/04.m3u8
+
 #EXTINF:0, group-title="Entertainment",Sony TV HD
-http://mhms8.airtel.tv/wh7f454c46tw849623774_1429138084/PLTV/88888888/224/3221226425/04.m3u8
+http://cshms2.airtel.tv/wh7f454c46tw133712617_2028620792/PLTV/88888888/224/3221225772/04.m3u8
+
 
 #EXTINF:0, group-title="Entertainment",Discovery Jeet
 http://cshms1.airtel.tv/wh7f454c46tw1565302381_1163892044/PLTV/88888888/224/3221226479/04.m3u8
