@@ -128,7 +128,7 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 -------------------------------------------------------------------
 
 #EXTINF:0, group-title="News",Aaj Tak
-https://z5ams.akamaized.net/aajtak/tracks-v1a1/index.m3u8
+http://mhms8.airtel.tv/wh7f454c46tw849623774_1429138084/PLTV/88888888/224/3221226425/index.m3u8
 
 #EXTINF:0, group-title="News",ABP News
 http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
