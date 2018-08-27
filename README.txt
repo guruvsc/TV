@@ -149,7 +149,7 @@ http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
 https://z5ams.akamaized.net/zeenews/tracks-v2a1/index.m3u8
 
 #EXTINF:0, group-title="News",India TV
-http://cshms4.airtel.tv/wh7f454c46tw2983267090_1456763345/PLTV/88888888/224/3221225732/index.m3u8
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
 
 #EXTINF:0, group-title="News",News 18 India
 http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3.m3u8
