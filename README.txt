@@ -1,10 +1,16 @@
 #EXTM3U
 
-#EXTINF:0, group-title="On Demand",Indian Idol
-https://cache09.vidoza.net/x4lfyyfpnrzpvjumxbruqtsv5l5oj6me53meskrygkhiokeqvxeoul2bygma/v.mp4
+#EXTINF:0, group-title="On Demand",Fox HD
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/2206.m3u8
 
-#EXTINF:0, group-title="On Demand",Indian Idol 26
-https://cache29.vidoza.net/x4lfyxd2n5zpvjumxbseqace54whhl3cn64qzrpio5hphmtopaz56xcvm3yq/v.mp4
+#EXTINF:0, group-title="On Demand",Fox Crime
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/132914.m3u8
+
+#EXTINF:0, group-title="On Demand",Fox Life
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/132915.m3u8
+
+#EXTINF:0, group-title="On Demand",AXN
+http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/2233.m3u8
 
 #EXTINF:0, group-title="On Demand",Beats
 http://185.21.216.134:7071/alpha/mtvbeats/chunks.m3u8?nimblesessionid=25051613&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDE4IDU6MzQ6NDIgUE0maGFzaF92YWx1ZT1ZYzJ6WHlBc05hZHUxUURqL1ZkbUx3PT0mdmFsaWRtaW51dGVzPTI=
