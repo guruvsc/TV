@@ -28,7 +28,7 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/04.m3u8
 
 #EXTINF:0, group-title="Movie",Sony Max HD
-http://cshms2.airtel.tv/wh7f454c46tw4013715413_1442027324/PLTV/88888888/224/3221225776/Index.m3u8
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225776/index.m3u8
 
 #EXTINF:0, group-title="Movie",Star Gold
 http://50.7.198.170:8081/Ind/STARGOLD/playlist.m3u8
