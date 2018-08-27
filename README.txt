@@ -12,6 +12,9 @@ http://185.21.216.134:7071/alpha/mtvbeats/chunks.m3u8?nimblesessionid=25051613&w
 #EXTINF:0, group-title="On Demand",Discover HD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
 
+#EXTINF:0, group-title="On Demand",Jeet HD
+http://cshms1.airtel.tv/wh7f454c46tw1565302381_1163892044/PLTV/88888888/224/3221226479/index.m3u8
+
 
 
 ----------------------------------------------------
