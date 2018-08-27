@@ -9,8 +9,9 @@ https://cache29.vidoza.net/x4lfyxd2n5zpvjumxbseqace54whhl3cn64qzrpio5hphmtopaz56
 #EXTINF:0, group-title="On Demand",Beats
 http://185.21.216.134:7071/alpha/mtvbeats/chunks.m3u8?nimblesessionid=25051613&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDE4IDU6MzQ6NDIgUE0maGFzaF92YWx1ZT1ZYzJ6WHlBc05hZHUxUURqL1ZkbUx3PT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:0, group-title="On Demand",Sony TV
-http://185.21.217.13:7071/alpha/sonytvindia/chunks.m3u8?nimblesessionid=1856000&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDE4IDU6MzA6MjEgUE0maGFzaF92YWx1ZT1LejJEWDVlNmlqYmZQSitDYndFZVd3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:0, group-title="On Demand",Discover HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
+
 
 
 ----------------------------------------------------
