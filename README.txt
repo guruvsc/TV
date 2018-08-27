@@ -6,8 +6,8 @@ http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/2206.m3u8
 #EXTINF:0, group-title="On Demand",Fox Crime
 http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/132914.m3u8
 
-#EXTINF:0, group-title="On Demand",Fox Life
-http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/132915.m3u8
+#EXTINF:0, group-title="On Demand",A&E
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/1fefcc29-8964-4d5c-a79e-b5815ae08870/0.m3u8
 
 #EXTINF:0, group-title="On Demand",AXN
 http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/2233.m3u8
