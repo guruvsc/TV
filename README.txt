@@ -11,7 +11,7 @@ http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/132914.m3u8
 https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/1fefcc29-8964-4d5c-a79e-b5815ae08870/0.m3u8
 
 #EXTINF:0, group-title="On Demand",AXN
-http://193.200.164.166:8000/live/vsNUJvUNql/ZFxuoYEx0j/2233.m3u8
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226443/index.m3u8
 
 #EXTINF:0, group-title="On Demand",Beats
 http://185.21.216.134:7071/alpha/mtvbeats/chunks.m3u8?nimblesessionid=25051613&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDE4IDU6MzQ6NDIgUE0maGFzaF92YWx1ZT1ZYzJ6WHlBc05hZHUxUURqL1ZkbUx3PT0mdmFsaWRtaW51dGVzPTI=
