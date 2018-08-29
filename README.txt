@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:0, group-title="On Demand",ESPN
-http://125.17.129.9/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225805/01.m3u8?icpid=88888888&from=1&hms_devid=103
+#EXTINF:0, group-title="On Demand",Sony ESPN
+http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/3221226076/index.m3u8
 
 
 #EXTINF:0, group-title="On Demand",Fox Crime
