@@ -244,7 +244,7 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 http://vapi.vaders.tv/play/3077.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 
 #EXTINF:0, group-title="Sports",Sky Sports Cricket HD
-http://vapi.vaders.tv/play/2479.ts?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
+http://62.210.99.158:80/live?channelId=124&uid=2454&deviceMac=00:1A:79:3C:C9:29
 
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="Sports", Ten Cricket HD
 http://vapi.vaders.tv/play/79285.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
