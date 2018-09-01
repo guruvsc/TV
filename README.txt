@@ -1,8 +1,10 @@
 #EXTM3U
 
-#EXTINF:0, group-title="On Demand",Sony ESPN
-http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:0, group-title="On Demand",Indian Idol 1 Sep
+https://wv110.jiocdn.us/hls/pg47chdhu3qeoikcw6hlzwhvdti2f37f6unvzu2x4wzgdg7vs5zp2klljhra/index-v1-a1.m3u8
 
+#EXTINF:0, group-title="On Demand",Indian Idol 1 Sep Ver2
+https://str18.vidoza.net/x4lfv5hsnzzpvjumxceequiy6xoro4bvlsjwwu4gtpekgqi3uwsi7rs4qwja/v.mp4
 
 #EXTINF:0, group-title="On Demand",USA
 https://lhr-1.firstonetv.net:4434/hls/1af1e424428d9f9d5f26778dd75651e7/1535763883/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352d3138302d31352d3231332e6d6264722e63662f7032702f30653336373433356434626331613839656137353036636630656164623361372e6d3375383f73743d74664b5a392d564462766f41646352496f61784e6f7726653d31353335373738323833.m3u8
