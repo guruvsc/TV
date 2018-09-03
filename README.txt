@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0, group-title="On Demand",Indian Idol 1 Sep
-https://wv110.jiocdn.us/hls/pg47chdhu3qeoikcw6hlzwhvdti2f37f6unvzu2x4wzgdg7vs5zp2klljhra/index-v1-a1.m3u8
+https://wv109.jiocdn.us/hls/pg47chdhu3qeoikcw6hlzwhvdti2f37f6unvzu2x4wzgdg7vs5zdhydojhra/index.m3u8
 
 #EXTINF:0, group-title="On Demand",Indian Idol 1 Sep Ver2
 https://cache29.vidoza.net/x4lfz5hsnzzpvjumxceequiy6udskefhnralr3taodamf733r44mreove4nq/v.mp4
