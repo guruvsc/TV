@@ -3,7 +3,7 @@
 #EXTINF:0, group-title="On Demand",Indian Idol 2 Sep
 https://cache29.vidoza.net/x4lfzywbnzzpvjumxcguqdci5rnwj634gmoxc3z7nqrmuadryv2enuwyyajq/v.mp4
 
-#EXTINF:0, group-title="On Demand",Indian Idol 2 Sep 2
+#EXTINF:0, group-title="On Demand",Indian Idol 1 Sep 2
 https://wv122.jiocdn.us/hls/pg47csdhu3qeoikcw6hlzr7ya6puw4cg37aiz6tjrhhxl5qn7gsfyrrntqta/index-v1-a1.m3u8
 
 #EXTINF:0, group-title="On Demand",Indian Idol 1 Sep Ver2
