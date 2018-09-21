@@ -1,10 +1,9 @@
 #EXTM3U
 
-#EXTINF:0, group-title="On Demand",report
-https://ind43-lh.akamaihd.net/i/ind43_reporter@595084/master.m3u8
+#EXTINF:0, group-title="On Demand",TEZ
+https://secure-playlist.livestream.com/streams/13995833_4198957_lsi8p0rvkqexuhc9v3h_1/media/13995833_4198957_lsi8p0rvkqexuhc9v3h_1@2128000p.m3u8?dw=14400&token=1537671599_82a864ea129cfb5b45f7cb4623d3a87f9f95c849&ts=1537495200
 
-#EXTINF:0, group-title="On Demand",tEZ
-https://ind43-lh.akamaihd.net/i/ind43_teznews@595087/index_2000_av-p.m3u8
+
 
 #EXTINF:0, group-title="On Demand",Indian Idol 1 Sep Ver2
 https://cache29.vidoza.net/x4lfz5hsnzzpvjumxceequiy6udskefhnralr3taodamf733r44mreove4nq/v.mp4
