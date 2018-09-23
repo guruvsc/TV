@@ -1,24 +1,6 @@
 #EXTM3U
 
-#EXTINF:0, group-title="On Demand",TEZ
-https://secure-playlist.livestream.com/streams/13995833_4198957_lsi8p0rvkqexuhc9v3h_1/media/13995833_4198957_lsi8p0rvkqexuhc9v3h_1@2128000p.m3u8?dw=14400&token=1537671599_82a864ea129cfb5b45f7cb4623d3a87f9f95c849&ts=1537495200
 
-
-
-#EXTINF:0, group-title="On Demand",MTV India
-http://212.8.253.141:5051/fast/mtvin/chunks.m3u8?nimblesessionid=22605052&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE4IDQ6MjY6NTkgQU0maGFzaF92YWx1ZT1LVTRlcUlyQTg1dC9HSXpnNi9iNFNBPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:0, group-title="On Demand",Colors HD
-http://212.8.253.141:5051/fast/colorshd/chunks.m3u8?nimblesessionid=22606628&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE4IDQ6MzA6NTYgQU0maGFzaF92YWx1ZT02M0JMZllEcUg1bkZGOEVhL3p5cWxnPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:0, group-title="On Demand",Colors Europe
-http://212.8.253.141:5051/fast/colorseurope/chunks.m3u8?nimblesessionid=22607884&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE4IDQ6MzM6NTcgQU0maGFzaF92YWx1ZT15azl1RGNyUk16RGJqWUpKdXIwL25BPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:0, group-title="On Demand",Starplus HD
-http://212.8.253.141:5051/fast/starplushd/chunks.m3u8?nimblesessionid=22609255&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE4IDQ6MzY6NTIgQU0maGFzaF92YWx1ZT04eng5VHNWdUFBbitBOEJ5YS9EQkpnPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:0, group-title="On Demand",Beats
-http://212.8.253.141:5051/fast/mtvbeats/chunks.m3u8?nimblesessionid=22611171&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE4IDQ6NDI6MDcgQU0maGFzaF92YWx1ZT02VklwcnR2WGppNkM2cXppaDdsU01nPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:0, group-title="On Demand",Discover HD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
