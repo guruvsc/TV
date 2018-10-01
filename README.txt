@@ -2,8 +2,12 @@
 
 
 
-#EXTINF:0, group-title="On Demand",Indian Idol
-https://wv122.jiocdn.us/hls/pg47cmheu3qeoikcw6elzqvkd5r5oqhlsz6baxhrlrfgqxh4kst63tsedcnq/index-v1-a1.m3u8
+#EXTINF:0, group-title="On Demand",Big Boss
+https://str03.vidoza.net/x4lf6vkvozzpvjumxdweqwky5quswc5ya76wc5puo4h2nfc5guw7ha4aufoa/v.mp4
+
+#EXTINF:0, group-title="On Demand",Big Boss
+https://wv106.jiocdn.us/hls/pg47cjgku3qeoikcw63lzw5kaszczjxztqadzlewer63hyts3sreqjw7yqcq/index-v1-a1.m3u8
+
 
 #EXTINF:0, group-title="On Demand",Jeet HD
 http://cshms1.airtel.tv/wh7f454c46tw1565302381_1163892044/PLTV/88888888/224/3221226479/index.m3u8
