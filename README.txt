@@ -2,16 +2,15 @@
 
 
 
-#EXTINF:0, group-title="On Demand",Big Boss
-https://str03.vidoza.net/x4lf6vkvozzpvjumxdweqwky5quswc5ya76wc5puo4h2nfc5guw7ha4aufoa/v.mp4
+#EXTINF:0, group-title="On Demand",Mulk
+https://wv111.jiocdn.us/hls/,pg47c3zru7qeoikcw63lzqxzdvyqkeuve5st3p6adtb2bqlkkxg765j4ljna,.urlset/master.m3u8
 
-#EXTINF:0, group-title="On Demand",Big Boss
-https://wv106.jiocdn.us/hls/pg47cjgku3qeoikcw63lzw5kaszczjxztqadzlewer63hyts3sreqjw7yqcq/index-v1-a1.m3u8
+#EXTINF:0, group-title="On Demand",Karwan
+https://wv106.jiocdn.us/hls/pg47dp6mu3qeoikcw63lzrfhccfdem2ql7dj5ntey,ujkeohfgea76l5skwqa,pfkeohfgea6j2enlmaq,.urlset/master.m3u8
 
 
-#EXTINF:0, group-title="On Demand",Jeet HD
-http://cshms1.airtel.tv/wh7f454c46tw1565302381_1163892044/PLTV/88888888/224/3221226479/index.m3u8
-
+#EXTINF:0, group-title="On Demand",Dhadak
+https://wv121.jiocdn.us/hls/,pg47dlgmu3qeoikcw63lzdhkbki6gb2buccp5skk2vcrtgoys7riojr43lxa,.urlset/master.m3u8
 
 
 ----------------------------------------------------
