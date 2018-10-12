@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:0, group-title="On Demand",Mulk
-https://wv111.jiocdn.us/hls/,pg47c3zru7qeoikcw63lzqxzdvyqkeuve5st3p6adtb2bqlkkxg765j4ljna,.urlset/master.m3u8
+#EXTINF:0, group-title="On Demand",Big Boss
+https://vootvideo.akamaized.net/s/enc/hls/p/1982551/sp/198255100/serveFlavor/entryId/0_nobwutek/v/2/pv/1/ev/12/flavorId/0_zudyjbqn/name/a.mp4/index.m3u8/index-v1-a1.m3u8?__hdnea__=st=1539383317~exp=1539469717~acl=/s/enc/hls/p/1982551/sp/198255100/serveFlavor/entryId/0_nobwutek/v/2/pv/1/ev/12/flavorId/0_*~hmac=305372d7db5208b3af59b36734643efad5f4a2b6c9681802a9a15e4cc0ff39eb
 
 #EXTINF:0, group-title="On Demand",Karwan
 https://wv106.jiocdn.us/hls/pg47dp6mu3qeoikcw63lzrfhccfdem2ql7dj5ntey,ujkeohfgea76l5skwqa,pfkeohfgea6j2enlmaq,.urlset/master.m3u8
