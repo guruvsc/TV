@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:0, group-title="On Demand",Big Boss
-https://vootvideo.akamaized.net/s/enc/hls/p/1982551/sp/198255100/serveFlavor/entryId/0_nobwutek/v/2/pv/1/ev/12/flavorId/0_zudyjbqn/name/a.mp4/index.m3u8/index-v1-a1.m3u8?__hdnea__=st=1539383317~exp=1539469717~acl=/s/enc/hls/p/1982551/sp/198255100/serveFlavor/entryId/0_nobwutek/v/2/pv/1/ev/12/flavorId/0_*~hmac=305372d7db5208b3af59b36734643efad5f4a2b6c9681802a9a15e4cc0ff39eb
+#EXTINF:0, group-title="On Demand",Big Boss 12 Oct
+https://wv122.jiocdn.us/hls/pg47dfqnu7qeoikcw6zlzvxna7tlelzzdqaqmlsnorzb54fj4oijsvs7nm7q/index-v1-a1.m3u8
 
 #EXTINF:0, group-title="On Demand",Arijit
 https://vootvideo.akamaized.net/s/enc/hls/p/1982551/sp/198255100/serveFlavor/entryId/0_w4wtve61/v/2/pv/1/ev/11/flavorId/0_,h5jmli1n,9gsa86dl,whd3j06s,4dbov9mk,juofb67l,/name/a.mp4/index.m3u8.urlset/master.m3u8?__hdnea__=st=1539385788~exp=1539389388~acl=/s/enc/hls/p/1982551/sp/198255100/serveFlavor/entryId/0_w4wtve61/v/2/pv/1/ev/11/flavorId/0_*~hmac=541d7d3b1662d039f3be5766f9ef4f39ab6c296d563dd80b9be0c4eacea3845f
