@@ -2,14 +2,17 @@
 
 
 
-#EXTINF:0, group-title="On Demand",Big Boss 17 Oct
-https://speed1.jiocdn.us/hls/xcgfuk5lytfxwbmljiqpag6hmdwrnz2umnae2noqzyxxic53cxgazkpvnkzq/index-v1-a1.m3u8
+#EXTINF:0, group-title="On Demand",Big Boss 20 Oct
+https://vw100.jiocdn.us/hls/be33koj6uw2gyphx4ok7cl2ucwhwit2m75o47q4lfgsm4uci3yibim3mymvq/index-v1-a1.m3u8
 
-#EXTINF:0, group-title="On Demand",Badhai Ho
-https://wv100.jiocdn.us/hls/pg47dbdju7qeoikcw6y3zwhxdk4vjb5frkbdjcvmjnxuvaxfr2k3dabdxqpa/index-v1-a1.m3u8
+#EXTINF:0, group-title="On Demand",Indias got talent
+https://sw132.jiocdn.us/hls/k44sjsahvpzgds2ywm6cvmjwqexcv7avd4su2nrn7,nea7h7xdlfogg7j3kva,w4a7h7xdlfhtqwbiliq,.urlset/master.m3u8
 
-#EXTINF:0, group-title="On Demand",Big Boss 19 Oct
-https://vw100.jiocdn.us/hls/be33l5z3uw2gyphx4ok7cnkzatrkwqgu2zdlbzviy,ekqglbtbv35rr3q2xoa,5urclbtbv3zsjx4gnlq,.urlset/master.m3u8
+#EXTINF:0, group-title="On Demand",Sa Re Ga Ma 13 Oct
+https://wv111.jiocdn.us/hls/pg47cg3uu7qeoikcw6zlzafgdxmia3cnnoizr6w6z,3ym5i4nqohighw3oikq,aum5i4nqoham5yos2wa,.urlset/master.m3u8
+
+#EXTINF:0, group-title="On Demand",Sa Re Ga Ma 14 Oct
+https://wv122.jiocdn.us/hls/pg47dfdyu7qeoikcw6zlzv74dttgxekerecqwfklg,vgwokikjk6d6n3tgyea,okwokikjk6m6evr6nlq,.urlset/master.m3u8
 
 #EXTINF:0, group-title="On Demand",Arijit
 https://vootvideo.akamaized.net/s/enc/hls/p/1982551/sp/198255100/serveFlavor/entryId/0_w4wtve61/v/2/pv/1/ev/11/flavorId/0_,h5jmli1n,9gsa86dl,whd3j06s,4dbov9mk,juofb67l,/name/a.mp4/index.m3u8.urlset/master.m3u8?__hdnea__=st=1539385788~exp=1539389388~acl=/s/enc/hls/p/1982551/sp/198255100/serveFlavor/entryId/0_w4wtve61/v/2/pv/1/ev/11/flavorId/0_*~hmac=541d7d3b1662d039f3be5766f9ef4f39ab6c296d563dd80b9be0c4eacea3845f
