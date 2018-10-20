@@ -5,6 +5,9 @@
 #EXTINF:0, group-title="On Demand",Big Boss 17 Oct
 https://speed1.jiocdn.us/hls/xcgfuk5lytfxwbmljiqpag6hmdwrnz2umnae2noqzyxxic53cxgazkpvnkzq/index-v1-a1.m3u8
 
+#EXTINF:0, group-title="On Demand",Badhai Ho
+https://wv100.jiocdn.us/hls/pg47dbdju7qeoikcw6y3zwhxdk4vjb5frkbdjcvmjnxuvaxfr2k3dabdxqpa/index-v1-a1.m3u8
+
 #EXTINF:0, group-title="On Demand",Big Boss 19 Oct
 https://vw100.jiocdn.us/hls/be33l5z3uw2gyphx4ok7cnkzatrkwqgu2zdlbzviy,ekqglbtbv35rr3q2xoa,5urclbtbv3zsjx4gnlq,.urlset/master.m3u8
 
