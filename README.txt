@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:0, group-title="On Demand",Big Boss 20 Oct
-https://vw100.jiocdn.us/hls/be33koj6uw2gyphx4ok7cl2ucwhwit2m75o47q4lfgsm4uci3yibim3mymvq/index-v1-a1.m3u8
+#EXTINF:0, group-title="On Demand",Big Boss 21 Oct
+https://vkp5.jiocdn.us/hls/k44sj6qgvpzgds2ywm6cvmlcqwyaq7yiuktmup5qgzhahn4voguomrtpgfva/index-v1-a1.m3u8
 
 #EXTINF:0, group-title="On Demand",Indias got talent
 https://sw132.jiocdn.us/hls/k44sjsahvpzgds2ywm6cvmjwqexcv7avd4su2nrn7,nea7h7xdlfogg7j3kva,w4a7h7xdlfhtqwbiliq,.urlset/master.m3u8
