@@ -5,8 +5,8 @@
 #EXTINF:0, group-title="On Demand",Big Boss 21 Oct
 https://vkp5.jiocdn.us/hls/k44sj6qgvpzgds2ywm6cvmlcqwyaq7yiuktmup5qgzhahn4voguomrtpgfva/index-v1-a1.m3u8
 
-#EXTINF:0, group-title="On Demand",Indias got talent
-https://sw132.jiocdn.us/hls/k44sjsahvpzgds2ywm6cvmjwqexcv7avd4su2nrn7,nea7h7xdlfogg7j3kva,w4a7h7xdlfhtqwbiliq,.urlset/master.m3u8
+#EXTINF:0, group-title="On Demand",Andhadhun
+https://storage.googleapis.com/uwatchfree-174011.appspot.com/hindimovies/Andhadhun.2018.Hindi.DVDScr.x264.mp4
 
 #EXTINF:0, group-title="On Demand",Sa Re Ga Ma 13 Oct
 https://wv111.jiocdn.us/hls/pg47cg3uu7qeoikcw6zlzafgdxmia3cnnoizr6w6z,3ym5i4nqohighw3oikq,aum5i4nqoham5yos2wa,.urlset/master.m3u8
