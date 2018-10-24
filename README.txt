@@ -5,11 +5,11 @@
 #EXTINF:0, group-title="On Demand",Big Boss 24 Oct
 https://vw103.jiocdn.us/hls/be33kh2iuw2gyphx4nvpc72eb72u72t4crlxgwhftnfqr7k2k5xxg46jz4yq/index-v1-a1.m3u8
 
-#EXTINF:0, group-title="On Demand",Sa Re Ga Ma 13 Oct
-https://wv111.jiocdn.us/hls/pg47cg3uu7qeoikcw6zlzafgdxmia3cnnoizr6w6z,3ym5i4nqohighw3oikq,aum5i4nqoham5yos2wa,.urlset/master.m3u8
+#EXTINF:0, group-title="On Demand",Kas 1
+https://vw100.jiocdn.us/hls/be33l5cguw2gyphx4nvpciaacs4xbrsf4ruarydembfjo6fh5uqkmxnbquba/index-v1-a1.m3u8
 
-#EXTINF:0, group-title="On Demand",Sa Re Ga Ma 14 Oct
-https://wv122.jiocdn.us/hls/pg47dfdyu7qeoikcw6zlzv74dttgxekerecqwfklg,vgwokikjk6d6n3tgyea,okwokikjk6m6evr6nlq,.urlset/master.m3u8
+#EXTINF:0, group-title="On Demand",Kas 2
+https://vw100.jiocdn.us/hls/,be33l5kguw2gyphx4nvpcmyibdfbxgeak47oqktmmthytslbygavudtbjelq,.urlset/master.m3u8
 
 #EXTINF:0, group-title="On Demand",Dhadak
 https://wv121.jiocdn.us/hls/,pg47dlgmu3qeoikcw63lzdhkbki6gb2buccp5skk2vcrtgoys7riojr43lxa,.urlset/master.m3u8
