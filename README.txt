@@ -11,8 +11,8 @@ https://vw100.jiocdn.us/hls/be33l5cguw2gyphx4nvpciaacs4xbrsf4ruarydembfjo6fh5uqk
 #EXTINF:0, group-title="On Demand",Kas 2
 https://vw100.jiocdn.us/hls/,be33l5kguw2gyphx4nvpcmyibdfbxgeak47oqktmmthytslbygavudtbjelq,.urlset/master.m3u8
 
-#EXTINF:0, group-title="On Demand",Dhadak
-https://wv121.jiocdn.us/hls/,pg47dlgmu3qeoikcw63lzdhkbki6gb2buccp5skk2vcrtgoys7riojr43lxa,.urlset/master.m3u8
+#EXTINF:0, group-title="On Demand",Love me india
+https://wv109.jiocdn.us/hls/pg47ch7au3qeoikcw6elza5gia75untacssarzxcd,u2fiw5otyumiz3dy2qq,pwfiw5otyuohpixrt2q,.urlset/master.m3u8
 
 
 ----------------------------------------------------
