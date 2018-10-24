@@ -2,18 +2,14 @@
 
 
 
-#EXTINF:0, group-title="On Demand",Big Boss 21 Oct
-https://vkp5.jiocdn.us/hls/k44sj6qgvpzgds2ywm6cvmlcqwyaq7yiuktmup5qgzhahn4voguomrtpgfva/index-v1-a1.m3u8
+#EXTINF:0, group-title="On Demand",Big Boss 24 Oct
+https://vw103.jiocdn.us/hls/be33kh2iuw2gyphx4nvpc72eb72u72t4crlxgwhftnfqr7k2k5xxg46jz4yq/index-v1-a1.m3u8
 
 #EXTINF:0, group-title="On Demand",Sa Re Ga Ma 13 Oct
 https://wv111.jiocdn.us/hls/pg47cg3uu7qeoikcw6zlzafgdxmia3cnnoizr6w6z,3ym5i4nqohighw3oikq,aum5i4nqoham5yos2wa,.urlset/master.m3u8
 
 #EXTINF:0, group-title="On Demand",Sa Re Ga Ma 14 Oct
 https://wv122.jiocdn.us/hls/pg47dfdyu7qeoikcw6zlzv74dttgxekerecqwfklg,vgwokikjk6d6n3tgyea,okwokikjk6m6evr6nlq,.urlset/master.m3u8
-
-#EXTINF:0, group-title="On Demand",Arijit
-https://vootvideo.akamaized.net/s/enc/hls/p/1982551/sp/198255100/serveFlavor/entryId/0_w4wtve61/v/2/pv/1/ev/11/flavorId/0_,h5jmli1n,9gsa86dl,whd3j06s,4dbov9mk,juofb67l,/name/a.mp4/index.m3u8.urlset/master.m3u8?__hdnea__=st=1539385788~exp=1539389388~acl=/s/enc/hls/p/1982551/sp/198255100/serveFlavor/entryId/0_w4wtve61/v/2/pv/1/ev/11/flavorId/0_*~hmac=541d7d3b1662d039f3be5766f9ef4f39ab6c296d563dd80b9be0c4eacea3845f
-
 
 #EXTINF:0, group-title="On Demand",Dhadak
 https://wv121.jiocdn.us/hls/,pg47dlgmu3qeoikcw63lzdhkbki6gb2buccp5skk2vcrtgoys7riojr43lxa,.urlset/master.m3u8
