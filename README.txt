@@ -123,7 +123,7 @@ http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226053/4.m3u8
 
 #EXTINF:0, group-title="Music",9XO
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226028/4.m3u8
+http://125.17.105.168/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226028/4.m3u8
 
 
 
@@ -152,10 +152,10 @@ http://175.192.77.223:9981/stream/channelid/839769056|User-agent=iPad
 https://ndtvstream-lh.akamaihd.net//i//ndtv_india_1@300634//master.m3u8
 
 #EXTINF:0, group-title="News",Aaj Tak Tez
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226432/index.m3u8
+http://125.17.105.168/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226432/index.m3u8
 
 #EXTINF:0, group-title="News",Zee MP
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225927/01.m3u8
+http://125.17.105.168/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225927/01.m3u8
 
 #EXTINF:0, group-title="News",ETV MP
 https://etv-mp.akamaized.net/i/etv_mp_hls_1@175737/index_5_av-p.m3u8
@@ -201,14 +201,14 @@ http://50.7.198.170:8081/Ind/STARPLUSHD/playlist.m3u8
 https://z5ams.akamaized.net/andtvhd/tracks-v2a1/index.m3u8
 
 #EXTINF:0, group-title="Entertainment",Sony TV SD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225803/04.m3u8
+http://125.17.105.168/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225803/04.m3u8
 
 #EXTINF:0, group-title="Entertainment",Sony TV HD
-http://cshms2.airtel.tv/wh7f454c46tw133712617_2028620792/PLTV/88888888/224/3221225772/04.m3u8
+http://125.17.105.168/wh7f454c46tw133712617_2028620792/PLTV/88888888/224/3221225772/04.m3u8
 
 
 #EXTINF:0, group-title="Entertainment",Discovery Jeet
-http://cshms1.airtel.tv/wh7f454c46tw1565302381_1163892044/PLTV/88888888/224/3221226479/04.m3u8
+http://125.17.105.168/wh7f454c46tw1565302381_1163892044/PLTV/88888888/224/3221226479/04.m3u8
 
 #EXTINF:0, group-title="Entertainment",DD India
 http://z5ams.akamaized.net/ddindia/tracks-v1a1/index.m3u8
@@ -217,13 +217,13 @@ http://z5ams.akamaized.net/ddindia/tracks-v1a1/index.m3u8
 -----------------------------------------------------------------
 
 #EXTINF:0, group-title="Documentary",Sony BBC Earth
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226068/04.m3u8
+http://125.17.105.168/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226068/04.m3u8
 
 #EXTINF:0, group-title="Documentary",TLC HD World
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/04.m3u8
 
 #EXTINF:0, group-title="Documentary",Discovery
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/04.m3u8
+http://125.17.105.168/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/04.m3u8
 
 ---------------------------------------------------------------------------
 
