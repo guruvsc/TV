@@ -11,9 +11,8 @@ https://vw100.jiocdn.us/hls/,be33lp2luw2gyphx4nvpciqia3s3ekkzhir3t4d23rio3mtm34p
 #EXTINF:0, group-title="On Demand",Kas 2
 https://vw100.jiocdn.us/hls/be33locluw2gyphx4nvpc72tkhajtt6o25ru7kffmk4ui7i7qzv7ujuq2vja/index-v1-a1.m3u8
 
-#EXTINF:0, group-title="On Demand",Love me india
-https://wv109.jiocdn.us/hls/pg47ch7au3qeoikcw6elza5gia75untacssarzxcd,u2fiw5otyumiz3dy2qq,pwfiw5otyuohpixrt2q,.urlset/master.m3u8
-
+#EXTINF:0, group-title="On Demand",X Aadmi
+https://megavideo.site/storage/dubbedmovies/X-Men.2000.Hindi.Dubbed.BDRip.x264.mp4
 
 ----------------------------------------------------
 
