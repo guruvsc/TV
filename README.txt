@@ -11,8 +11,8 @@ https://vw100.jiocdn.us/hls/,be33lp2luw2gyphx4nvpciqia3s3ekkzhir3t4d23rio3mtm34p
 #EXTINF:0, group-title="On Demand",Kas 2
 https://vw100.jiocdn.us/hls/be33locluw2gyphx4nvpc72tkhajtt6o25ru7kffmk4ui7i7qzv7ujuq2vja/index-v1-a1.m3u8
 
-#EXTINF:0, group-title="On Demand",X Aadmi
-https://megavideo.site/storage/dubbedmovies/X-Men.2.2003.Hindi.Dubbed.BDRip.x264.mp4
+#EXTINF:0, group-title="On Demand",16
+https://megavideo.site/storage/hindimovies/Sixteen.2013.Hindi.720p.HDRip.x264.mp4
 
 ----------------------------------------------------
 
