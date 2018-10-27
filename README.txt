@@ -8,23 +8,11 @@ https://vw101.jiocdn.us/hls/be33lhsnuw2gyphx4nvpckaik5cgkvnmyo2qkz5cem3dhzmhjebn
 #EXTINF:0, group-title="On Demand",aaj
 https://ylive26-i.akamaihd.net/hls/live/682381/aajtak/aajtak_252p1-hlspush/chunklist.m3u8
 
-#EXTINF:0, group-title="On Demand",9XM
-https://ind17-lh.akamaihd.net/i/ind17_9xm@68548/index_2000_av-p.m3u8
-
-#EXTINF:0, group-title="On Demand",Jalwa
-http://ind17-lh.akamaihd.net/i/ind17_9xjalwa@68546/master.m3u8
-
-#EXTINF:0, group-title="On Demand",yupp
-https://ind17-lh.akamaihd.net/i/ind17_b4umusic@68543/master.m3u8
-
-#EXTINF:0, group-title="On Demand",mov
-https://ind16-lh.akamaihd.net/i/ind16_ymalmov@384144/master.m3u8
 
 EXTINF:0, group-title="On Demand",musci
 http://ind16-lh.akamaihd.net/i/ind16_musicxpress@32772/master.m3u8
 
-#EXTINF:0, group-title="On Demand",16
-https://megavideo.site/storage/hindimovies/Sixteen.2013.Hindi.720p.HDRip.x264.mp4
+
 
 ----------------------------------------------------
 
