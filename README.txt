@@ -6,7 +6,7 @@
 https://vw101.jiocdn.us/hls/be33lhsnuw2gyphx4nvpckaik5cgkvnmyo2qkz5cem3dhzmhjebn6gj2l5ja/index-v1-a1.m3u8
 
 #EXTINF:0, group-title="On Demand",aaj
-https://ylive26-i.akamaihd.net/hls/live/682381/aajtak/aajtak_406p-hlspush/chunklist.m3u8
+https://ylive26-i.akamaihd.net/hls/live/682381/aajtak/aajtak_252p1-hlspush/chunklist.m3u8
 
 #EXTINF:0, group-title="On Demand",9XM
 https://ind17-lh.akamaihd.net/i/ind17_9xm@68548/index_2000_av-p.m3u8
