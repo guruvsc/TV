@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:0, group-title="On Demand",Big Boss 24 Oct
-https://vw103.jiocdn.us/hls/be33kh2iuw2gyphx4nvpc72eb72u72t4crlxgwhftnfqr7k2k5xxg46jz4yq/index-v1-a1.m3u8
+#EXTINF:0, group-title="On Demand",Big Boss 26 Oct
+https://vw101.jiocdn.us/hls/be33lhsnuw2gyphx4nvpckaik5cgkvnmyo2qkz5cem3dhzmhjebn6gj2l5ja/index-v1-a1.m3u8
 
 #EXTINF:0, group-title="On Demand",Kas 1
 https://vw100.jiocdn.us/hls/,be33lp2luw2gyphx4nvpciqia3s3ekkzhir3t4d23rio3mtm34pzni2uullq,.urlset/master.m3u8
