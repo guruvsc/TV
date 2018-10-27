@@ -5,8 +5,8 @@
 #EXTINF:0, group-title="On Demand",Big Boss 26 Oct
 https://vw101.jiocdn.us/hls/be33lhsnuw2gyphx4nvpckaik5cgkvnmyo2qkz5cem3dhzmhjebn6gj2l5ja/index-v1-a1.m3u8
 
-#EXTINF:0, group-title="On Demand",Tej
-https://ind43-lh.akamaihd.net/i/ind43_teznews@595087/master.m3u8
+#EXTINF:0, group-title="On Demand",indi
+https://ind31-lh.akamaihd.net/i/ind31_indiatv@580392/master.m3u8
 
 #EXTINF:0, group-title="On Demand",9XM
 https://ind17-lh.akamaihd.net/i/ind17_9xm@68548/index_2000_av-p.m3u8
