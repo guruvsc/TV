@@ -9,7 +9,7 @@ https://vw101.jiocdn.us/hls/be33lhsnuw2gyphx4nvpckaik5cgkvnmyo2qkz5cem3dhzmhjebn
 https://vw101.jiocdn.us/hls/,be33lhsnuw2gyphx4nvpckaik5cgkvnmyo2qkz5cem3dhzmhjebn6gj2l5ja,.urlset/master.m3u8
 
 #EXTINF:0, group-title="On Demand",Kas 2
-https://storage.googleapis.com/uwatchfree-174011.appspot.com/hindimovies/Namaste.England.2018.Hindi.DVDScr.x264.mp4
+https://ind17-lh.akamaihd.net/i/ind17_indiatoday@68541/index_2000_av-p.m3u8
 
 #EXTINF:0, group-title="On Demand",16
 https://megavideo.site/storage/hindimovies/Sixteen.2013.Hindi.720p.HDRip.x264.mp4
