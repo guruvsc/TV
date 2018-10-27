@@ -15,7 +15,7 @@ https://ind17-lh.akamaihd.net/i/ind17_9xm@68548/index_2000_av-p.m3u8
 http://ind17-lh.akamaihd.net/i/ind17_9xjalwa@68546/master.m3u8
 
 #EXTINF:0, group-title="On Demand",yupp
-https://ind16-lh.akamaihd.net/i/ind16_ypunpre@393020/master.m3u8
+https://ind17-lh.akamaihd.net/i/ind17_b4umusic@68543/master.m3u8
 
 #EXTINF:0, group-title="On Demand",mov
 https://ind16-lh.akamaihd.net/i/ind16_ymalmov@384144/master.m3u8
