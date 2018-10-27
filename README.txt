@@ -8,7 +8,7 @@ https://vw101.jiocdn.us/hls/be33lhsnuw2gyphx4nvpckaik5cgkvnmyo2qkz5cem3dhzmhjebn
 #EXTINF:0, group-title="On Demand",Kas 1
 https://vw101.jiocdn.us/hls/,be33lhsnuw2gyphx4nvpckaik5cgkvnmyo2qkz5cem3dhzmhjebn6gj2l5ja,.urlset/master.m3u8
 
-#EXTINF:0, group-title="On Demand",Kas 2
+#EXTINF:0, group-title="On Demand",9XM
 https://ind17-lh.akamaihd.net/i/ind17_9xm@68548/index_2000_av-p.m3u8
 
 #EXTINF:0, group-title="On Demand",Jalwa
