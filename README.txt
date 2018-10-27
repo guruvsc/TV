@@ -20,6 +20,9 @@ https://ind16-lh.akamaihd.net/i/ind16_ypunpre@393020/master.m3u8
 #EXTINF:0, group-title="On Demand",mov
 https://ind16-lh.akamaihd.net/i/ind16_ymalmov@384144/master.m3u8
 
+EXTINF:0, group-title="On Demand",musci
+http://ind16-lh.akamaihd.net/i/ind16_musicxpress@32772/master.m3u8
+
 #EXTINF:0, group-title="On Demand",16
 https://megavideo.site/storage/hindimovies/Sixteen.2013.Hindi.720p.HDRip.x264.mp4
 
