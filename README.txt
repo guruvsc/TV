@@ -11,8 +11,8 @@ https://vw101.jiocdn.us/hls/,be33lhsnuw2gyphx4nvpckaik5cgkvnmyo2qkz5cem3dhzmhjeb
 #EXTINF:0, group-title="On Demand",Kas 2
 https://ind17-lh.akamaihd.net/i/ind17_9xm@68548/index_2000_av-p.m3u8
 
-#EXTINF:0, group-title="On Demand",Masti
-http://125.17.129.8/wh7f454c46tw2631941648_308142304/PLTV/88888888/224/3221226021/01.m3u8
+#EXTINF:0, group-title="On Demand",Jalwa
+http://ind17-lh.akamaihd.net/i/ind17_9xjalwa@68546/master.m3u8
 
 
 #EXTINF:0, group-title="On Demand",16
