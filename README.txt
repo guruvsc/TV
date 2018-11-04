@@ -9,7 +9,7 @@ https://vw100.jiocdn.us/hls/be33ki3buw2gyphx4nv7cnkbbe6bcmz4hmzxcqc7fy6jdm7kq5y7
 https://vkp5.jiocdn.us/hls/k44sjkznvpzgds2ywm6sv2rqswmkshwxmotitr2xrbgapbwcksihfm4q5xja/index-v1-a1.m3u8
 
 EXTINF:0, group-title="On Demand",Bazaar
-https://storage.googleapis.com/uwatchfree-174011.appspot.com/hindimovies/Baazaar.2018.Hindi.DVDScr.x264.mp4
+https://wv111.jiocdn.us/hls/pg47cxc7u7qeoikcw6ylzxhvanop53cl4n3gzqxkmhnld6cvjq4ducjydf2q/index-v1-a1.m3u8
 
 
 ----------------------------------------------------
