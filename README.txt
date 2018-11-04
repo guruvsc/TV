@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:0, group-title="On Demand",Big Boss 26 Oct
-https://vw101.jiocdn.us/hls/be33lhsnuw2gyphx4nvpckaik5cgkvnmyo2qkz5cem3dhzmhjebn6gj2l5ja/index-v1-a1.m3u8
+#EXTINF:0, group-title="On Demand",Big Boss 3Nov
+https://vw100.jiocdn.us/hls/be33ki3buw2gyphx4nv7cnkbbe6bcmz4hmzxcqc7fy6jdm7kq5y7shotysha/index-v1-a1.m3u8
 
 #EXTINF:0, group-title="On Demand",Badhai Ho
 https://storage.googleapis.com/uwatchfree-174011.appspot.com/hindimovies/Badhaai.Ho.2018.Hindi.DVDScr.x264.mp4
