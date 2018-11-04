@@ -5,9 +5,8 @@
 #EXTINF:0, group-title="On Demand",Big Boss 3Nov
 https://vw100.jiocdn.us/hls/be33ki3buw2gyphx4nv7cnkbbe6bcmz4hmzxcqc7fy6jdm7kq5y7shotysha/index-v1-a1.m3u8
 
-#EXTINF:0, group-title="On Demand",Badhai Ho
-https://storage.googleapis.com/uwatchfree-174011.appspot.com/hindimovies/Badhaai.Ho.2018.Hindi.DVDScr.x264.mp4
-
+#EXTINF:0, group-title="On Demand",Indian Idol
+https://vkp5.jiocdn.us/hls/k44sjkznvpzgds2ywm6sv2rqswmkshwxmotitr2xrbgapbwcksihfm4q5xja/index-v1-a1.m3u8
 
 EXTINF:0, group-title="On Demand",Bazaar
 https://storage.googleapis.com/uwatchfree-174011.appspot.com/hindimovies/Baazaar.2018.Hindi.DVDScr.x264.mp4
