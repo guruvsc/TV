@@ -2,11 +2,11 @@
 
 
 
-#EXTINF:0, group-title="On Demand",Big Boss 3Nov
-https://vw100.jiocdn.us/hls/be33ki3buw2gyphx4nv7cnkbbe6bcmz4hmzxcqc7fy6jdm7kq5y7shotysha/index-v1-a1.m3u8
+#EXTINF:0, group-title="On Demand",Hind
+https://wv111.jiocdn.us/hls/pg47do5eu7qeoikcw67lzx7fd4o6o5wdkvv7wksod423uxqdrmv2hlipc5eq/index-v1-a1.m3u8
 
-#EXTINF:0, group-title="On Demand",Indian Idol 3nOV
-https://vkp5.jiocdn.us/hls/k44sjkznvpzgds2ywm6sv2rqswmkshwxmotitr2xrbgapbwcksihfm4q5xja/index-v1-a1.m3u8
+#EXTINF:0, group-title="On Demand",YPD
+https://vw100.jiocdn.us/hls/be33ldtduw2gyphx4nv7c72bayt3exxnyczkgc6bgeuyfhfcbeovlwut6b4a/index-v1-a1.m3u8
 
 EXTINF:0, group-title="On Demand",Bazaar
 https://wv111.jiocdn.us/hls/pg47cxc7u7qeoikcw6ylzxhvanop53cl4n3gzqxkmhnld6cvjq4ducjydf2q/index-v1-a1.m3u8
