@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:0, group-title="On Demand",Hind
-https://wv111.jiocdn.us/hls/pg47do5eu7qeoikcw67lzx7fd4o6o5wdkvv7wksod423uxqdrmv2hlipc5eq/index-v1-a1.m3u8
+#EXTINF:0, group-title="On Demand",Hind1
+https://wv100.jiocdn.us/hls/pg47doneu7qeoikcw67lzb7ydhvees2ec6kxbqtk2kswr46pyp4afwnbiriq/index-v1-a1.m3u8
 
 #EXTINF:0, group-title="On Demand",YPD
 https://vw100.jiocdn.us/hls/be33ldtduw2gyphx4nv7c72bayt3exxnyczkgc6bgeuyfhfcbeovlwut6b4a/index-v1-a1.m3u8
