@@ -5,8 +5,8 @@
 #EXTINF:0, group-title="On Demand",Big 11
 https://str03.vidoza.net/x4lfuhozpjzpvjumxcaewtclvy3kaztgr6pon72amdtrzjdlnmjkgt6h3niq/v.mp4
 
-#EXTINF:0, group-title="On Demand",YPD
-https://vw100.jiocdn.us/hls/be33ldtduw2gyphx4nv7c72bayt3exxnyczkgc6bgeuyfhfcbeovlwut6b4a/index-v1-a1.m3u8
+#EXTINF:0, group-title="On Demand",Idol
+https://str10.vidoza.net/x4lfumowpjzpvjumxcaewd2i6d46dhu2gi64w4doi3cvmc33kh66nepzc55q/v.mp4
 
 EXTINF:0, group-title="On Demand",Bazaar
 https://wv111.jiocdn.us/hls/pg47cxc7u7qeoikcw6ylzxhvanop53cl4n3gzqxkmhnld6cvjq4ducjydf2q/index-v1-a1.m3u8
