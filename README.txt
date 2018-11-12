@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:0, group-title="On Demand",Big 11
-https://str03.vidoza.net/x4lfuhozpjzpvjumxcaewtclvy3kaztgr6pon72amdtrzjdlnmjkgt6h3niq/v.mp4
+#EXTINF:0, group-title="On Demand",Big 12Nov
+https://sw132.jiocdn.us/hls/k44sjsztvpzgds2ywm7cv2bgtkn5klixb2ijpbv327vwejddnyr46ocgp5ma/index-v1-a1.m3u8
 
 #EXTINF:0, group-title="On Demand",Idol
 https://str10.vidoza.net/x4lfumowpjzpvjumxcaewd2i6d46dhu2gi64w4doi3cvmc33kh66nepzc55q/v.mp4
