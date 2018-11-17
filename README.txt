@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:0, group-title="On Demand",Big 14Nov
-https://wv138.jiocdn.us/hls/k44si4bwvpzgds2ywm7svntf3fvkpeslemjsiqlrwlsiktehoqai3hpmtisq/index-v1-a1.m3u8
+#EXTINF:0, group-title="On Demand",Big 16Nov
+https://cache10.vidoza.net/x4lfzahvqrzpvjumxcuewdkjulixc6yhavczpfpd4yrvtc6udzbntzha4kaa/v.mp4
 
 #EXTINF:0, group-title="On Demand",BB 13 Nov
 https://str17.vidoza.net/x4lf5lavqvzpvjumxcnewuiw6dh5o5t32ircorzern7bw6jts3jazlvuhana/v.mp4
