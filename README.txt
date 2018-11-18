@@ -2,11 +2,11 @@
 
 
 
-#EXTINF:0, group-title="On Demand",Big 16Nov
-https://cache10.vidoza.net/x4lfzahvqrzpvjumxcuewdkjulixc6yhavczpfpd4yrvtc6udzbntzha4kaa/v.mp4
+#EXTINF:0, group-title="On Demand",Big 17Nov
+https://cache34.vidoza.net/x4lfzynoqrzpvjumxcwewccp73zbhbqn5drbdxe462ayevn7a7d4rgkqvkyq/v.mp4
 
-#EXTINF:0, group-title="On Demand",BB 13 Nov
-https://str17.vidoza.net/x4lf5lavqvzpvjumxcnewuiw6dh5o5t32ircorzern7bw6jts3jazlvuhana/v.mp4
+#EXTINF:0, group-title="On Demand",Indian Idol 17Nov
+https://str16.vidoza.net/x4lfu4fpqrzpvjumxcwewucuul3u7pskzndw5tm6by6uwtnbp5ylpowxd7ja/v.mp4
 
 EXTINF:0, group-title="On Demand",Bazaar
 https://wv111.jiocdn.us/hls/pg47cxc7u7qeoikcw6ylzxhvanop53cl4n3gzqxkmhnld6cvjq4ducjydf2q/index-v1-a1.m3u8
