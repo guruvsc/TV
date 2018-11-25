@@ -3,7 +3,7 @@
 
 
 #EXTINF:0, group-title="On Demand",Big 17Nov
-https://cache34.vidoza.net/x4lfzynoqrzpvjumxcwewccp73zbhbqn5drbdxe462ayevn7a7d4rgkqvkyq/v.mp4
+http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Aaj_Tak/Aaj_Tak_400.m3u8?jct=6xn8fjTQUCFOBO3GxeCrKQ&pxe=1548900873&st=EoMVarxgha7pTVhpmCYXcg
 
 #EXTINF:0, group-title="On Demand",Indian Idol 17Nov
 https://str16.vidoza.net/x4lfu4fpqrzpvjumxcwewucuul3u7pskzndw5tm6by6uwtnbp5ylpowxd7ja/v.mp4
