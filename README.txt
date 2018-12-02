@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:0, group-title="On Demand",Big 17Nov
-https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak/playlist.m3u8?hdnea=st=1543373460~exp=1543373760~acl=*~hmac=977298a2c14aa24efa46e34d5a466edf92345ec25d01c2acbdb9e35ce341595e&originpath=/linear/hls/p/event/XEHsiz0kTfqj23eYQ9Ecrw/stream/31355baa-1f73-4160-bca8-ac5d0300cff8:SIN/master.m3u8
+#EXTINF:0, group-title="On Demand",Big 1Dec
+https://str16.vidoza.net/x4lf4hkjqnzpvjumxdlewxku6niefhnxle3c53nemxlcjuvsknpptsou6eja/v.mp4
 
 #EXTINF:0, group-title="On Demand",Indian Idol 17Nov
 https://str16.vidoza.net/x4lfu4fpqrzpvjumxcwewucuul3u7pskzndw5tm6by6uwtnbp5ylpowxd7ja/v.mp4
