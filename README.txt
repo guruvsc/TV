@@ -5,8 +5,8 @@
 #EXTINF:0, group-title="On Demand",Big 1Dec
 https://str16.vidoza.net/x4lf4hkjqnzpvjumxdlewxku6niefhnxle3c53nemxlcjuvsknpptsou6eja/v.mp4
 
-#EXTINF:0, group-title="On Demand",Indian Idol 17Nov
-https://str16.vidoza.net/x4lfu4fpqrzpvjumxcwewucuul3u7pskzndw5tm6by6uwtnbp5ylpowxd7ja/v.mp4
+#EXTINF:0, group-title="On Demand",Indian Idol 1Dec
+https://str18.vidoza.net/x4lfjzcgqnzpvjumxdlewwsl5jptrxa5zuyf5taqck6y64qgpthkboziuggq/v.mp4
 
 EXTINF:0, group-title="On Demand",Bazaar
 https://wv111.jiocdn.us/hls/pg47cxc7u7qeoikcw6ylzxhvanop53cl4n3gzqxkmhnld6cvjq4ducjydf2q/index-v1-a1.m3u8
