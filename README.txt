@@ -5,6 +5,9 @@
 #EXTINF:0, group-title="On Demand",Big 1Dec
 https://str16.vidoza.net/x4lf4hkjqnzpvjumxdlewxku6niefhnxle3c53nemxlcjuvsknpptsou6eja/v.mp4
 
+#EXTINF:0, group-title="On Demand",Big 1Dec 2
+https://vkp5.jiocdn.us/hls/k44sjotpvpzgds2ywm4svnz4t27kh6n4r4666sb7thn5s3267hkotrjokmda/index-v1-a1.m3u8
+
 #EXTINF:0, group-title="On Demand",Indian Idol 1Dec
 https://str18.vidoza.net/x4lfjzcgqnzpvjumxdlewwsl5jptrxa5zuyf5taqck6y64qgpthkboziuggq/v.mp4
 
