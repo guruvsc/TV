@@ -2,12 +2,6 @@
 
 
 
-#EXTINF:0, group-title="On Demand",Big 28 Dec
-http://103.117.180.106/123129191056/aaj_tak/aaj_tak_800.m3u8
-
-#EXTINF:0, group-title="On Demand",Big 12Dec 2
-http://103.117.180.106/123129191056/discovery_jeet/discovery_jeet_800.m3u8
-
 #EXTINF:0, group-title="On Demand",Indian Idol 1Dec
 https://str18.vidoza.net/x4lfjzcgqnzpvjumxdlewwsl5jptrxa5zuyf5taqck6y64qgpthkboziuggq/v.mp4
 
