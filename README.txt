@@ -3,7 +3,7 @@
 
 
 #EXTINF:0, group-title="On Demand",Big 28 Dec
-http://103.117.180.106/123129191056/MTV_HD_Plus/MTV_HD_Plus_800.m3u8
+http://103.117.180.106/123129191056/aaj_tak/aaj_tak_800.m3u8
 
 #EXTINF:0, group-title="On Demand",Big 12Dec 2
 https://speed1.jiocdn.us/hls/xcgfucj4y7fxwbmlji47atwlfttasqcggzsemd22ideyfwhsd4x7tsfyqi2q/index-v1-a1.m3u8
