@@ -2,12 +2,11 @@
 
 
 
-#EXTINF:0, group-title="On Demand",Indian Idol 1Dec
-https://str18.vidoza.net/x4lfjzcgqnzpvjumxdlewwsl5jptrxa5zuyf5taqck6y64qgpthkboziuggq/v.mp4
+#EXTINF:0, group-title="On Demand",Bribe
+https://vw105.jiocdn.us/hls/be33k7yju22gyphx4nr7cissazilq3do7q5heiaxql3wu3k5dbcrt4bpcpsa/index-v1-a1.m3u8
 
-EXTINF:0, group-title="On Demand",Bazaar
-https://wv111.jiocdn.us/hls/pg47cxc7u7qeoikcw6ylzxhvanop53cl4n3gzqxkmhnld6cvjq4ducjydf2q/index-v1-a1.m3u8
-
+EXTINF:0, group-title="On Demand",Le De Ke Bol
+https://wv99.jiocdn.us/hls/pg47cwlaudqeoikcw6s3za5gjk72kx2kdphrwswdg67a53l3c3o5rlnzejia/index-v1-a1.m3u8
 
 ----------------------------------------------------
 
