@@ -5,8 +5,12 @@
 #EXTINF:0, group-title="On Demand",Khatron 1
 https://wv141.jiocdn.us/hls/k44siaoyvpzgds2ywm3cvjbcr4kuijitgurcuergfonmup33pv6q5vgevdfa/index-v1-a1.m3u8
 
-#EXTINF:0, group-title="On Demand",Le De Ke Bol
-https://wv99.jiocdn.us/hls/pg47cwlaudqeoikcw6s3za5gjk72kx2kdphrwswdg67a53l3c3o5rlnzejia/index-v1-a1.m3u8
+#EXTINF:0, group-title="On Demand",Kasauti 1
+https://wv138.jiocdn.us/hls/,k44sigg5vpzgds2ywm3sv3bo3tn3vylpwq6icbersevebjvg7b754hs5sgkq,.urlset/master.m3u8
+
+#EXTINF:0, group-title="On Demand",Kasauti 2
+https://wv138.jiocdn.us/hls/k44sig65vpzgds2ywm3svjz53ws4enf372s6bl2ckwoulwdlznpgfra2fp6q/index-v1-a1.m3u8
+
 
 ----------------------------------------------------
 
