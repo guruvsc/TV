@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:0, group-title="On Demand",Khatron
-https://vkp5.jiocdn.us/hls/k44sid6pvpzgds2ywm3cvm3mtk6xmt2ezkjth46aftxxz2mqts4575t2ygaq/index-v1-a1.m3u8
+#EXTINF:0, group-title="On Demand",Khatron 1
+https://wv141.jiocdn.us/hls/k44siaoyvpzgds2ywm3cvjbcr4kuijitgurcuergfonmup33pv6q5vgevdfa/index-v1-a1.m3u8
 
 #EXTINF:0, group-title="On Demand",Le De Ke Bol
 https://wv99.jiocdn.us/hls/pg47cwlaudqeoikcw6s3za5gjk72kx2kdphrwswdg67a53l3c3o5rlnzejia/index-v1-a1.m3u8
