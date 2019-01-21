@@ -11,6 +11,9 @@ https://wv138.jiocdn.us/hls/,k44sigg5vpzgds2ywm3sv3bo3tn3vylpwq6icbersevebjvg7b7
 #EXTINF:0, group-title="On Demand",Kasauti 2
 https://wv138.jiocdn.us/hls/k44sig65vpzgds2ywm3svjz53ws4enf372s6bl2ckwoulwdlznpgfra2fp6q/index-v1-a1.m3u8
 
+#EXTINF:0, group-title="On Demand",Web
+https://www164.vcdn.xyz/token=22KX-ryNkqs_dJU2vbSYcw/1548123676/0.0.0.0/24/f/8b/77f5e8fa4d6b39a9dd5f9566aad5c8bf-480p.mp4
+
 
 ----------------------------------------------------
 
