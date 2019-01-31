@@ -2,11 +2,11 @@
 
 
 
-#EXTINF:0, group-title="On Demand",Khatron 1
-https://wv141.jiocdn.us/hls/k44siaoyvpzgds2ywm3cvjbcr4kuijitgurcuergfonmup33pv6q5vgevdfa/index-v1-a1.m3u8
+#EXTINF:0, group-title="On Demand",Khatron 26
+https://cache11.vidoza.net/x4lfyb2ysbzpvjumxcvuuqirvlijytqrqsc5rmssmbajpov6mae6uh7g4p3q/v.mp4
 
-#EXTINF:0, group-title="On Demand",Kasauti 11
-https://wv107.jiocdn.us/hls/k44siqwsvpzgds2ywm3sv3zcrpoxn5tux46roexx27v2qgpgqiin2wvjt6bq/index-v1-a1.m3u8
+#EXTINF:0, group-title="On Demand",Khatron 27
+https://cache17.vidoza.net/x4lfz67vsbzpvjumxcquuscr4lfj3rihgjwezhnbdno2lolbnxyt6nmdvv3a/v.mp4
 
 #EXTINF:0, group-title="On Demand",Kasauti 2
 https://wv107.jiocdn.us/hls/k44sirosvpzgds2ywm3sv3jr3bvq26dprhua6yzdqbmgcvgfproavl3fcgeq/index-v1-a1.m3u8
