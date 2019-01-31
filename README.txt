@@ -8,8 +8,11 @@ https://cache11.vidoza.net/x4lfyb2ysbzpvjumxcvuuqirvlijytqrqsc5rmssmbajpov6mae6u
 #EXTINF:0, group-title="On Demand",Khatron 27
 https://cache17.vidoza.net/x4lfz67vsbzpvjumxcquuscr4lfj3rihgjwezhnbdno2lolbnxyt6nmdvv3a/v.mp4
 
-#EXTINF:0, group-title="On Demand",Kasauti 2
-https://wv107.jiocdn.us/hls/k44sirosvpzgds2ywm3sv3jr3bvq26dprhua6yzdqbmgcvgfproavl3fcgeq/index-v1-a1.m3u8
+#EXTINF:0, group-title="On Demand",Kasauti 1
+https://supernova.tvlogy.to/link/YctTOUN4kOf6dTo/360/bf5041080a9cb4f85195155e1e9901a5/
+
+#EXTINF:0, group-title="On Demand",Kasauti 1
+https://sunshine.tvlogy.to/link/aU1rgVirPjyuKnt/360/cd3d83497235189d0008d902088e6164/
 
 #EXTINF:0, group-title="On Demand",Web
 https://www164.vcdn.xyz/token=22KX-ryNkqs_dJU2vbSYcw/1548123676/0.0.0.0/24/f/8b/77f5e8fa4d6b39a9dd5f9566aad5c8bf-480p.mp4
