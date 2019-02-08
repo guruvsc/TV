@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:0, group-title="On Demand",Khatron 26
-https://cache11.vidoza.net/x4lfyb2ysbzpvjumxcvuuqirvlijytqrqsc5rmssmbajpov6mae6uh7g4p3q/v.mp4
+#EXTINF:0, group-title="On Demand",BBC Earth
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226068/index.m3u8
 
 #EXTINF:0, group-title="On Demand",Khatron 27
 https://cache17.vidoza.net/x4lfz67vsbzpvjumxcquuscr4lfj3rihgjwezhnbdno2lolbnxyt6nmdvv3a/v.mp4
