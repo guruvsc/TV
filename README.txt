@@ -3,7 +3,7 @@
 
 
 #EXTINF:0, group-title="On Demand",BBC Earth1
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226068/01.m3u8
+https://sw132.jiocdn.us/hls/k44siaxtvpzgds2ywmycvpjsr45krforle5bmwn4ubbpx7q34zonouol2lia/seg-1-v1-a1/index.m3u8
 
 #EXTINF:0, group-title="On Demand",Khatron 27
 https://cache17.vidoza.net/x4lfz67vsbzpvjumxcquuscr4lfj3rihgjwezhnbdno2lolbnxyt6nmdvv3a/v.mp4
