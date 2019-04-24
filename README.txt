@@ -1,7 +1,5 @@
 #EXTM3U
 
-
-
 #EXTINF:0, group-title="On Demand",A&E
 http://live.savitar.tv/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDE5IDEyOjQ2OjUxIFBNJmhhc2hfdmFsdWU9c0grczZBdGZFVkJLajZvZ1ZlMEF3QT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
