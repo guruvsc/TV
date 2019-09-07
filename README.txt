@@ -6,15 +6,11 @@ https://proxy-036.dc3.dailymotion.com/sec(e6b6eNqYCtBTneU7sjdyOTJ2EGHt-35CF-xysY
 #EXTINF:0, group-title="01 Wizard",S01E02
 https://proxy-21.nyc.dailymotion.com/sec(vH_amhAWVjdOjt9rQ-usyF7DiO4CM6jeVVluK9OIUGoE9HHSbDa6zLw0Z3VF4GL1FPjig5_82AFK6KWVow3Jd9JpY9xqp-MD0kWbdXI4baY)/video/789/604/293406987_mp4_h264_aac_l2.m3u8
 
-#EXTINF:0, group-title="On Demand",Kasauti 1
-https://supernova.tvlogy.to/link/YctTOUN4kOf6dTo/360/bf5041080a9cb4f85195155e1e9901a5/
+#EXTINF:0, group-title="01 Wizard",S01E03
+https://proxy-10.nyc.dailymotion.com/sec(NktLGdW_NTowTcekQRNILx7oHjxLNqlkrPqqSbKoIxym_-CkLfULlHQqphi3zHLMLYZ0pacWyBYC8mDbzGm1e8_kYJ2KaTGuorWOYyhqaOQ)/video/289/604/293406982_mp4_h264_aac_hq.m3u8
 
-#EXTINF:0, group-title="On Demand",Kasauti 1
-https://sunshine.tvlogy.to/link/aU1rgVirPjyuKnt/360/cd3d83497235189d0008d902088e6164/
-
-#EXTINF:0, group-title="On Demand",Web
-https://www164.vcdn.xyz/token=22KX-ryNkqs_dJU2vbSYcw/1548123676/0.0.0.0/24/f/8b/77f5e8fa4d6b39a9dd5f9566aad5c8bf-480p.mp4
-
+#EXTINF:0, group-title="01 Wizard",S01E04
+https://proxy-10.nyc.dailymotion.com/sec(SR36U2JEgenq7Sr8mbsN2vAVPY10dbWvYoHQi4--2JF4f1OpwRd_pooSwY-p36TRKA92WT5Wrq3YGr-w3o-GsaHljMVUrG6dxhxkUjisa68)/video/389/604/293406983_mp4_h264_aac_hq.m3u8
 
 ----------------------------------------------------
 
