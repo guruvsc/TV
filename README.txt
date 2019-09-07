@@ -3,8 +3,8 @@
 #EXTINF:0, group-title="01 Wizard",S01E01
 https://proxy-036.dc3.dailymotion.com/sec(e6b6eNqYCtBTneU7sjdyOTJ2EGHt-35CF-xysY33jY37fBxJeJwkuhhxF5nYWPfdusCCeOFfl8BY2eKi78z5PCkm0ydWlJvfx2K-x1WVPqA)/video/683/704/293407386_mp4_h264_aac_hq.m3u8
 
-#EXTINF:0, group-title="On Demand",Khatron 27
-https://cache17.vidoza.net/x4lfz67vsbzpvjumxcquuscr4lfj3rihgjwezhnbdno2lolbnxyt6nmdvv3a/v.mp4
+#EXTINF:0, group-title="01 Wizard",S01E02
+https://proxy-21.nyc.dailymotion.com/sec(vH_amhAWVjdOjt9rQ-usyF7DiO4CM6jeVVluK9OIUGoE9HHSbDa6zLw0Z3VF4GL1FPjig5_82AFK6KWVow3Jd9JpY9xqp-MD0kWbdXI4baY)/video/789/604/293406987_mp4_h264_aac_l2.m3u8
 
 #EXTINF:0, group-title="On Demand",Kasauti 1
 https://supernova.tvlogy.to/link/YctTOUN4kOf6dTo/360/bf5041080a9cb4f85195155e1e9901a5/
