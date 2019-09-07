@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:0, group-title="On Demand",A&E
-http://live.savitar.tv/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDE5IDEyOjQ2OjUxIFBNJmhhc2hfdmFsdWU9c0grczZBdGZFVkJLajZvZ1ZlMEF3QT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0, group-title="01 Wizard",S01E01
+https://proxy-036.dc3.dailymotion.com/sec(e6b6eNqYCtBTneU7sjdyOTJ2EGHt-35CF-xysY33jY37fBxJeJwkuhhxF5nYWPfdusCCeOFfl8BY2eKi78z5PCkm0ydWlJvfx2K-x1WVPqA)/video/683/704/293407386_mp4_h264_aac_hq.m3u8
 
 #EXTINF:0, group-title="On Demand",Khatron 27
 https://cache17.vidoza.net/x4lfz67vsbzpvjumxcquuscr4lfj3rihgjwezhnbdno2lolbnxyt6nmdvv3a/v.mp4
